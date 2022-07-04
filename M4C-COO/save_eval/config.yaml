@@ -1,0 +1,237 @@
+config_version: 1.0
+training:
+  trainer: mmf
+  seed: 21
+  experiment_name: run
+  max_updates: 12000
+  max_epochs: null
+  log_interval: 100
+  logger_level: info
+  log_format: simple
+  log_detailed_config: false
+  should_not_log: false
+  colored_logs: true
+  tensorboard: false
+  wandb:
+    enabled: false
+    wandb_projectname: mmf_
+    wandb_runname: run
+  batch_size: 128
+  batch_size_per_device: null
+  update_frequency: 1
+  num_workers: 8
+  fast_read: false
+  dataset_size_proportional_sampling: true
+  pin_memory: false
+  persistent_workers: true
+  checkpoint_interval: 1000
+  evaluation_interval: 1000
+  clip_gradients: true
+  clip_norm_mode: all
+  early_stop:
+    enabled: false
+    patience: 4000
+    criteria: coo/coo_prhmean/Hmean
+    minimize: false
+  lr_scheduler: true
+  lr_steps:
+  - 10000
+  - 11000
+  lr_ratio: 0.1
+  use_warmup: true
+  warmup_factor: 0.2
+  warmup_iterations: 1000
+  device: cuda
+  local_rank: null
+  verbose_dump: false
+  find_unused_parameters: false
+  evaluate_metrics: false
+  detect_anomaly: false
+  fp16: false
+  callbacks: []
+  exit_on_nan_losses: true
+  max_grad_l2_norm: 0.25
+  task_size_proportional_sampling: true
+trainer:
+  type: lightning
+  params:
+    gpus: 1
+    num_nodes: 1
+    precision: 32
+    deterministic: false
+    benchmark: false
+    max_steps: 22000
+    max_epochs: null
+    gradient_clip_val: 0.0
+    num_sanity_val_steps: 0
+    checkpoint_callback: true
+    accumulate_grad_batches: 1
+    val_check_interval: 1000
+    log_every_n_steps: 100
+    logger: false
+    limit_val_batches: 1.0
+    progress_bar_refresh_rate: 0
+    resume_from_checkpoint: null
+evaluation:
+  metrics:
+  - coo_prhmean
+  use_cpu: false
+  predict: false
+  predict_file_format: json
+  reporter:
+    type: file
+    params: {}
+model_config:
+  m4c_coo:
+    lr_scale_frcn: 0.1
+    lr_scale_text_bert: 0.1
+    lr_scale_mmt: 1.0
+    obj:
+      mmt_in_dim: 1024
+      dropout_prob: 0.1
+      remove_obj_frcn: true
+      remove_obj_bbox: true
+    ocr:
+      mmt_in_dim: 3972
+      dropout_prob: 0.1
+      remove_ocr_fasttext: false
+      remove_ocr_phoc: true
+      remove_ocr_frcn: true
+      remove_ocr_semantics: false
+      remove_ocr_bbox: true
+    mmt:
+      hidden_size: 768
+      num_hidden_layers: 4
+    classifier:
+      type: linear
+      ocr_max_num: 75
+      ocr_ptr_net:
+        hidden_size: 768
+        query_key_size: 768
+      params: {}
+    model_data_dir: /root/.cache/torch/mmf/data
+    losses:
+    - type: m4c_decoding_bce_with_mask
+    remove_unk_in_pred: true
+    model: m4c_coo
+dataset_config:
+  coo:
+    data_dir: ../COO-data/M4C_feature/
+    depth_first: false
+    fast_read: false
+    max_features: 75
+    use_images: false
+    use_features: true
+    features:
+      train:
+      - emb/train_gt_emb/
+      val:
+      - emb/val_gt_emb/
+      test:
+      - emb/test_gt_emb/
+    annotations:
+      train:
+      - train.txt
+      val:
+      - val.txt
+      test:
+      - test.txt
+    processors:
+      text_processor:
+        type: bert_tokenizer
+        params:
+          tokenizer_config:
+            type: bert-base-uncased
+            params:
+              do_lower_case: true
+          max_seq_length: 3
+      answer_processor:
+        type: m4c_coo
+        params:
+          vocab_file: Onomatopoeia_train_vocab_set_5.txt
+          preprocessor:
+            type: simple_word
+            params: {}
+          context_preprocessor:
+            type: simple_word
+            params: {}
+          max_length: 75
+          max_copy_steps: 12
+          num_answers: 1
+      copy_processor:
+        type: copy
+        params:
+          max_length: 75
+      phoc_processor:
+        type: coo_phoc
+        params:
+          max_length: 75
+      context_processor:
+        type: fasttext
+        params:
+          max_length: 75
+          model_file: ../COO-data/M4C_feature/model_300.bin
+      ocr_token_processor:
+        type: simple_word
+        params: {}
+      bbox_processor:
+        type: bbox
+        params:
+          max_length: 75
+    return_features_info: true
+    use_ocr: true
+    use_ocr_info: true
+    use_order_vectors: true
+    only_link_data: false
+datasets: coo
+model: m4c_coo
+config: default.yaml
+run_type: test
+optimizer:
+  allow_unused_parameters: false
+  enable_state_sharding: false
+  params:
+    eps: 1.0e-08
+    lr: 5.0e-05
+    weight_decay: 0
+  type: Adam
+scheduler: {}
+env:
+  cache_dir: /root/.cache/torch/mmf
+  dataset_zoo: configs/zoo/datasets.yaml
+  model_zoo: configs/zoo/models.yaml
+  data_dir: /root/.cache/torch/mmf/data
+  save_dir: ./save_eval
+  log_dir: ''
+  report_dir: ''
+  tensorboard_logdir: ''
+  wandb_logdir: ''
+  user_dir: ''
+distributed:
+  init_method: null
+  rank: 0
+  port: -1
+  backend: nccl
+  world_size: 1
+  no_spawn: false
+checkpoint:
+  resume: false
+  resume_file: ./save/v100_kou_seed12/only_fastText/best.ckpt
+  resume_best: false
+  resume_pretrained: false
+  resume_zoo: null
+  zoo_config_override: false
+  pretrained_state_mapping: {}
+  max_to_keep: 1
+  save_git_details: true
+  reset:
+    all: false
+    optimizer: false
+    counts: false
+    fp16_scaler: false
+multitasking:
+  enabled: true
+  type: size_proportional
+  params: {}
+start_rank: 0
+device_id: 0

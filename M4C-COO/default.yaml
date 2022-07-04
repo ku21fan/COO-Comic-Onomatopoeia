@@ -1,0 +1,117 @@
+checkpoint:
+  max_to_keep: 1
+
+model_config:
+  m4c_coo:
+    obj:
+      mmt_in_dim: 1024
+      remove_obj_frcn: False
+      remove_obj_bbox: False
+    ocr:
+      remove_ocr_fasttext: False
+      remove_ocr_phoc: False
+      remove_ocr_frcn: False
+      remove_ocr_semantics: False
+      remove_ocr_bbox: False
+      mmt_in_dim: 3972 # 300 (FastText) + 2648 (PHOC) + 1024 (Faster RCNN)
+    classifier:
+      type: linear
+      ocr_max_num: 75 # 50
+    losses:
+    - type: m4c_decoding_bce_with_mask
+
+dataset_config:
+  coo:
+    only_link_data: False
+    data_dir: ../COO-data/M4C_feature/
+    depth_first: false
+    fast_read: false
+    max_features: 75
+    use_images: false
+    use_features: true
+    features:
+      train:
+      - emb/train_gt_emb/
+      val:
+      - emb/val_gt_emb/
+      test:
+      - emb/test_gt_emb/
+    annotations:
+      train:
+      - train.txt
+      val:
+      - val.txt
+      test:
+      - test.txt
+    processors:
+      answer_processor:
+        type: m4c_coo
+        params:
+          vocab_file: Onomatopoeia_train_vocab_set_5.txt
+          preprocessor:
+            type: simple_word
+            params: {}
+          context_preprocessor:
+            type: simple_word
+            params: {}
+          max_length: 75 # max number of onomatopoeias in a image: 74
+          max_copy_steps: 12 # = number of decoding loop steps
+          num_answers: 1 # the num of answers (for VQA, there are multiple answers)
+      copy_processor:
+        type: copy
+        params:
+          max_length: 75 # max number of onomatopoeias in a image: 74
+      phoc_processor:
+        type: coo_phoc
+        params:
+          max_length: 75 # max number of onomatopoeias in a image: 74
+      context_processor:
+        type: fasttext
+        params:
+          max_length: 75 # max number of onomatopoeias in a image: 74
+          model_file: ../COO-data/M4C_feature/model_300.bin
+      ocr_token_processor:
+        type: simple_word
+        params: {}
+      bbox_processor:
+        type: bbox
+        params:
+          max_length: 75 # max number of onomatopoeias in a image: 74
+    return_features_info: true
+    use_ocr: true
+    use_ocr_info: true
+
+optimizer:
+  params:
+    eps: 1.0e-08
+    # lr: 1e-4
+    lr: 5e-5
+    weight_decay: 0
+  type: Adam
+
+evaluation:
+  metrics:
+  - coo_prhmean
+
+training:
+    evaluation_interval: 1000
+    # evaluation_interval: 10
+    seed: 21
+    clip_norm_mode: all
+    clip_gradients: true
+    max_grad_l2_norm: 0.25
+    lr_scheduler: true
+    lr_steps:
+    - 10000
+    - 11000
+    max_updates: 12000
+    num_workers: 8
+    lr_ratio: 0.1
+    use_warmup: true
+    warmup_factor: 0.2
+    warmup_iterations: 1000
+    batch_size: 128
+    task_size_proportional_sampling: true
+    early_stop:
+      criteria: coo/coo_prhmean/Hmean
+      minimize: false

@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book title="KimiHaBokuNoTaiyouDa">
+	<pages>
+		<page height="1170" index="0" width="1654" />
+		<page height="1170" index="1" width="1654">
+			<onomatopoeia id="10005ec2" x0="179" y0="50" x1="259" y1="0" x2="665" y2="26" x3="692" y3="91" x4="549" y4="176" x5="536" y5="104" x6="457" y6="95" x7="335" y7="113" x8="301" y8="129" x9="312" y9="188" x10="277" y10="185" x11="260" y11="107" x12="200" y12="132">チーン</onomatopoeia>
+			<onomatopoeia id="10005ec3" x0="218" y0="546" x1="277" y1="538" x2="288" y2="595" x3="284" y3="627" x4="259" y4="632">ずずっ</onomatopoeia>
+		</page>
+		<page height="1170" index="2" width="1654" />
+		<page height="1170" index="3" width="1654">
+			<onomatopoeia id="10005ec4" x0="1216" y0="1050" x1="1228" y1="1042" x2="1235" y2="1049" x3="1237" y3="1063" x4="1234" y4="1065" x5="1222" y5="1061" x6="1218" y6="1057">まっ</onomatopoeia>
+			<onomatopoeia id="10005ec5" x0="1227" y0="996" x1="1243" y1="1000" x2="1248" y2="1013" x3="1246" y3="1027" x4="1239" y4="1025" x5="1227" y5="999">あー</onomatopoeia>
+			<onomatopoeia id="10005ec6" x0="434" y0="345" x1="453" y1="345" x2="453" y2="381" x3="434" y3="381">ゔー</onomatopoeia>
+			<onomatopoeia id="10005ec7" x0="1622" y0="140" x1="1637" y1="147" x2="1641" y2="167" x3="1638" y3="178" x4="1627" y4="189" x5="1616" y5="156">ふえぇ</onomatopoeia>
+			<onomatopoeia id="10005ec8" x0="1217" y0="1007" x1="1227" y1="999" x2="1233" y2="1010" x3="1238" y3="1021" x4="1241" y4="1030" x5="1227" y5="1030">んま</onomatopoeia>
+			<onomatopoeia id="10005ec9" x0="504" y0="333" x1="526" y1="332" x2="527" y2="352" x3="523" y3="370" x4="514" y4="368">ん゛ー</onomatopoeia>
+			<onomatopoeia id="10005eca" x0="494" y0="354" x1="510" y1="353" x2="513" y2="369" x3="511" y3="388" x4="498" y4="387">ん゛ー</onomatopoeia>
+			<onomatopoeia id="10005ecb" x0="202" y0="337" x1="216" y1="338" x2="222" y2="349" x3="218" y3="365" x4="212" y4="363">んー</onomatopoeia>
+		</page>
+		<page height="1170" index="4" width="1654">
+			<onomatopoeia id="10005ecc" x0="354" y0="775" x1="377" y1="774" x2="372" y2="810" x3="365" y3="842" x4="356" y4="860" x5="350" y5="856" x6="355" y6="803">ポチャーン・・・</onomatopoeia>
+			<onomatopoeia id="10005ecd" x0="276" y0="79" x1="324" y1="81" x2="339" y2="92" x3="328" y3="101" x4="308" y4="100" x5="289" y5="108" x6="279" y6="103">ぷいっ</onomatopoeia>
+		</page>
+		<page height="1170" index="5" width="1654">
+			<onomatopoeia id="10005ece" x0="1189" y0="210" x1="1228" y1="201" x2="1240" y2="265" x3="1243" y3="297" x4="1216" y4="317" x5="1187" y5="231">ピルルル</onomatopoeia>
+			<onomatopoeia id="10005ecf" x0="1239" y0="151" x1="1293" y1="147" x2="1324" y2="215" x3="1295" y3="240" x4="1247" y4="188">ピルルル</onomatopoeia>
+			<onomatopoeia id="10005ed0" x0="462" y0="599" x1="489" y1="602" x2="514" y2="621" x3="506" y3="649" x4="489" y4="635" x5="467" y5="625">はらり</onomatopoeia>
+			<onomatopoeia id="10005ed1" x0="1312" y0="66" x1="1385" y1="69" x2="1361" y2="211" x3="1340" y3="210">ガタ</onomatopoeia>
+			<onomatopoeia id="10005ed2" x0="1310" y0="432" x1="1369" y1="434" x2="1339" y2="538" x3="1311" y3="540" x4="1313" y4="460">ピルルル</onomatopoeia>
+			<onomatopoeia id="10005ed3" x0="1270" y0="442" x1="1310" y1="444" x2="1315" y2="469" x3="1307" y3="508" x4="1299" y4="536" x5="1269" y5="560" x6="1253" y6="556">ピルルル</onomatopoeia>
+			<onomatopoeia id="10005ed4" x0="1133" y0="623" x1="1164" y1="625" x2="1163" y2="638" x3="1162" y3="662" x4="1159" y4="681" x5="1145" y5="692" x6="1123" y6="697" x7="1127" y7="678" x8="1139" y8="672" x9="1130" y9="636">ピルルルル</onomatopoeia>
+			<onomatopoeia id="10005ed5" x0="1171" y0="611" x1="1200" y1="612" x2="1203" y2="635" x3="1208" y3="661" x4="1212" y4="674" x5="1186" y5="682">ピルルルル</onomatopoeia>
+			<onomatopoeia id="10005ed6" x0="459" y0="172" x1="488" y1="172" x2="484" y2="206" x3="472" y3="208">プッ</onomatopoeia>
+		</page>
+		<page height="1170" index="6" width="1654">
+			<onomatopoeia id="10005ed7" x0="1393" y0="801" x1="1415" y1="806" x2="1408" y2="838" x3="1398" y3="833">ひっく</onomatopoeia>
+			<onomatopoeia id="10005ed8" x0="1382" y0="830" x1="1394" y1="829" x2="1405" y2="839" x3="1390" y3="870" x4="1383" y4="865">ひっく</onomatopoeia>
+			<onomatopoeia id="10005ed9" x0="98" y0="800" x1="209" y1="800" x2="208" y2="870" x3="172" y3="1102" x4="50" y4="1103" x5="52" y5="939" x6="62" y6="897">きゃああああ</onomatopoeia>
+			<onomatopoeia id="10005eda" x0="683" y0="800" x1="738" y1="803" x2="737" y2="994" x3="673" y3="1027">ピンポーン</onomatopoeia>
+		</page>
+		<page height="1170" index="7" width="1654">
+			<onomatopoeia id="10005edb" x0="659" y0="503" x1="734" y1="508" x2="734" y2="554" x3="714" y3="619" x4="688" y4="654" x5="648" y5="640">ばんっ</onomatopoeia>
+		</page>
+		<page height="1170" index="8" width="1654">
+			<onomatopoeia id="10005edc" x0="482" y0="803" x1="528" y1="799" x2="535" y2="844" x3="531" y3="914" x4="476" y4="944" x5="475" y5="864">パタン</onomatopoeia>
+			<onomatopoeia id="10005edd" x0="1484" y0="851" x1="1587" y1="851" x2="1587" y2="907" x3="1484" y3="907">ばんっ</onomatopoeia>
+			<onomatopoeia id="10005ede" x0="81" y0="815" x1="154" y1="799" x2="192" y2="797" x3="273" y3="840" x4="259" y4="864" x5="187" y5="852" x6="146" y6="864" x7="113" y7="864">ぴしゃっ</onomatopoeia>
+			<onomatopoeia id="10005edf" x0="1232" y0="219" x1="1289" y1="219" x2="1289" y2="312" x3="1232" y3="312">ふふ</onomatopoeia>
+			<onomatopoeia id="10005ee0" x0="1513" y0="760" x1="1544" y1="760" x2="1544" y2="815" x3="1513" y3="815">へへーん</onomatopoeia>
+		</page>
+		<page height="1170" index="9" width="1654">
+			<onomatopoeia id="10005ee1" x0="366" y0="172" x1="384" y1="163" x2="390" y2="175" x3="383" y3="221" x4="375" y4="221" x5="370" y5="214">い゛ーっ</onomatopoeia>
+			<onomatopoeia id="10005ee2" x0="708" y0="219" x1="726" y1="212" x2="731" y2="241" x3="729" y3="281" x4="694" y4="301" x5="697" y5="267">トン</onomatopoeia>
+			<onomatopoeia id="10005ee3" x0="394" y0="889" x1="429" y1="878" x2="425" y2="932" x3="415" y3="949" x4="403" y4="944">ガラッ</onomatopoeia>
+			<onomatopoeia id="10005ee4" x0="1532" y0="670" x1="1584" y1="674" x2="1585" y2="752" x3="1581" y3="784" x4="1552" y4="797" x5="1531" y5="791" x6="1521" y6="758">むんず</onomatopoeia>
+			<onomatopoeia id="10005ee5" x0="1320" y0="846" x1="1333" y1="845" x2="1345" y2="862" x3="1345" y3="881" x4="1337" y4="903" x5="1328" y5="916" x6="1320" y6="912" x7="1312" y7="869">ふぎゃ・・・</onomatopoeia>
+			<onomatopoeia id="10005ee6" x0="693" y0="691" x1="714" y1="691" x2="714" y2="738" x3="693" y3="738">ふわぁ</onomatopoeia>
+			<onomatopoeia id="10005ee7" x0="1194" y0="453" x1="1278" y1="456" x2="1279" y2="482" x3="1277" y3="602" x4="1269" y4="693" x5="1256" y5="741" x6="1220" y6="738" x7="1191" y7="625" x8="1195" y8="544" x9="1202" y9="516">きゃあああっ!!</onomatopoeia>
+			<onomatopoeia id="10005ee8" x0="1067" y0="588" x1="1156" y1="593" x2="1168" y2="640" x3="1157" y3="669" x4="1110" y4="663" x5="1062" y5="654">ぱん</onomatopoeia>
+		</page>
+		<page height="1170" index="10" width="1654">
+			<onomatopoeia id="10005ee9" x0="697" y0="616" x1="741" y1="620" x2="740" y2="710" x3="730" y3="744" x4="699" y4="720">ガタッ</onomatopoeia>
+		</page>
+		<page height="1170" index="11" width="1654">
+			<onomatopoeia id="10005eea" x0="981" y0="564" x1="1083" y1="563" x2="1126" y2="590" x3="1122" y3="612" x4="1056" y4="622" x5="1013" y5="638">ぱんっ</onomatopoeia>
+			<onomatopoeia id="10005eeb" x0="460" y0="179" x1="519" y1="165" x2="558" y2="216" x3="582" y3="240" x4="569" y4="268" x5="529" y5="268" x6="468" y6="261">げぃん</onomatopoeia>
+			<onomatopoeia id="10005eec" x0="60" y0="235" x1="78" y1="227" x2="93" y2="242" x3="92" y3="262" x4="62" y4="254">むっ</onomatopoeia>
+		</page>
+		<page height="1170" index="12" width="1654">
+			<onomatopoeia id="10005eed" x0="1071" y0="910" x1="1141" y1="910" x2="1141" y2="957" x3="1071" y3="957">ふんっ</onomatopoeia>
+			<onomatopoeia id="10005eee" x0="1070" y0="469" x1="1135" y1="434" x2="1248" y2="508" x3="1231" y3="530" x4="1155" y4="508" x5="1100" y5="515">びしいっ</onomatopoeia>
+		</page>
+		<page height="1170" index="13" width="1654">
+			<onomatopoeia id="10005eef" x0="1400" y0="401" x1="1442" y1="403" x2="1478" y2="457" x3="1460" y3="482" x4="1436" y4="483" x5="1401" y5="434">カチャ</onomatopoeia>
+			<onomatopoeia id="10005ef0" x0="355" y0="838" x1="406" y1="815" x2="503" y2="831" x3="509" y3="902" x4="488" y4="912" x5="420" y5="915" x6="366" y6="918" x7="343" y7="877">がばっ</onomatopoeia>
+			<onomatopoeia id="10005ef1" x0="1459" y0="70" x1="1590" y1="70" x2="1590" y2="459" x3="1459" y3="459">ジャー・・・</onomatopoeia>
+			<onomatopoeia id="10005ef2" x0="681" y0="210" x1="697" y1="210" x2="697" y2="237" x3="681" y3="237">コン</onomatopoeia>
+			<onomatopoeia id="10005ef3" x0="693" y0="193" x1="711" y1="193" x2="711" y2="221" x3="693" y3="221">コン</onomatopoeia>
+			<onomatopoeia id="10005ef4" x0="637" y0="446" x1="661" y1="446" x2="668" y2="471" x3="671" y3="483" x4="663" y4="497" x5="636" y5="458">カチャ</onomatopoeia>
+			<onomatopoeia id="10005ef5" x0="947" y0="245" x1="1023" y1="245" x2="1023" y2="449" x3="947" y3="449">ぐったり</onomatopoeia>
+		</page>
+		<page height="1170" index="14" width="1654">
+			<onomatopoeia id="10005ef6" x0="655" y0="73" x1="749" y1="76" x2="754" y2="359" x3="712" y3="370" x4="674" y4="280">きゃああああ</onomatopoeia>
+			<onomatopoeia id="10005ef7" x0="555" y0="228" x1="638" y1="212" x2="655" y2="340" x3="652" y3="439" x4="627" y4="464" x5="585" y5="461">ぱああぁんっ</onomatopoeia>
+			<onomatopoeia id="10005ef8" x0="127" y0="527" x1="146" y1="527" x2="146" y2="562" x3="127" y3="562">はぁ・・・</onomatopoeia>
+			<onomatopoeia id="10005ef9" x0="396" y0="217" x1="415" y1="217" x2="415" y2="264" x3="396" y3="264">はぁはぁ</onomatopoeia>
+			<onomatopoeia id="10005efa" x0="941" y0="994" x1="979" y1="988" x2="991" y2="1037" x3="968" y3="1046" x4="950" y4="1035">はっ</onomatopoeia>
+			<onomatopoeia id="10005efb" x0="296" y0="547" x1="328" y1="542" x2="335" y2="605" x3="310" y3="622" x4="292" y4="619">ぱたん</onomatopoeia>
+		</page>
+		<page height="1170" index="15" width="1654">
+			<onomatopoeia id="10005efc" x0="1276" y0="167" x1="1316" y1="185" x2="1343" y2="240" x3="1295" y3="260" x4="1276" y4="207">ピルル</onomatopoeia>
+			<onomatopoeia id="10005efd" x0="1305" y0="118" x1="1356" y1="109" x2="1360" y2="146" x3="1341" y3="183" x4="1305" y4="187">ピル</onomatopoeia>
+			<onomatopoeia id="10005efe" x0="1153" y0="462" x1="1191" y1="443" x2="1188" y2="494" x3="1180" y3="504" x4="1163" y4="503">チャッ</onomatopoeia>
+			<onomatopoeia id="10005eff" x0="1355" y0="82" x1="1413" y1="84" x2="1421" y2="133" x3="1392" y3="161" x4="1368" y4="169">ピルル</onomatopoeia>
+		</page>
+		<page height="1170" index="16" width="1654">
+			<onomatopoeia id="10005f00" x0="1019" y0="465" x1="1059" y1="466" x2="1078" y2="517" x3="1075" y3="536" x4="1049" y4="535" x5="1025" y5="510">がちゃ</onomatopoeia>
+		</page>
+		<page height="1170" index="17" width="1654">
+			<onomatopoeia id="10005f01" x0="294" y0="722" x1="326" y1="714" x2="341" y2="751" x3="337" y3="789" x4="319" y4="791" x5="300" y5="759">むかっ</onomatopoeia>
+			<onomatopoeia id="10005f02" x0="1035" y0="87" x1="1089" y1="87" x2="1089" y2="159" x3="1081" y3="193" x4="1058" y4="191" x5="1043" y5="124">ぱんっ</onomatopoeia>
+			<onomatopoeia id="10005f03" x0="517" y0="897" x1="591" y1="906" x2="597" y2="962" x3="622" y3="996" x4="603" y4="1012" x5="566" y5="985" x6="543" y6="976" x7="508" y7="963">げぃんっ</onomatopoeia>
+			<onomatopoeia id="10005f04" x0="512" y0="1069" x1="529" y1="1063" x2="538" y2="1076" x3="527" y3="1084" x4="518" y4="1081">で</onomatopoeia>
+		</page>
+		<page height="1170" index="18" width="1654">
+			<onomatopoeia id="10005f05" x0="1532" y0="759" x1="1596" y1="760" x2="1593" y2="884" x3="1575" y3="965" x4="1529" y4="980">ピンポーン</onomatopoeia>
+			<onomatopoeia id="10005f06" x0="319" y0="990" x1="347" y1="998" x2="334" y2="1054" x3="312" y3="1053">ん゛~っ</onomatopoeia>
+			<onomatopoeia id="10005f07" x0="1128" y0="590" x1="1177" y1="590" x2="1177" y2="620" x3="1128" y3="620">ごんっ</onomatopoeia>
+			<onomatopoeia id="10005f08" x0="479" y0="884" x1="554" y1="884" x2="554" y2="932" x3="479" y3="932">だこっ</onomatopoeia>
+		</page>
+		<page height="1170" index="19" width="1654" />
+		<page height="1170" index="20" width="1654">
+			<onomatopoeia id="10005f09" x0="1274" y0="79" x1="1318" y1="79" x2="1318" y2="100" x3="1274" y3="100">ピュー</onomatopoeia>
+			<onomatopoeia id="10005f0a" x0="1380" y0="88" x1="1564" y1="88" x2="1564" y2="156" x3="1380" y3="156">ピシッ</onomatopoeia>
+		</page>
+		<page height="1170" index="21" width="1654">
+			<onomatopoeia id="10005f0b" x0="1412" y0="1027" x1="1430" y1="1027" x2="1430" y2="1050" x3="1412" y3="1050">ん゛</onomatopoeia>
+			<onomatopoeia id="10005f0c" x0="1182" y0="586" x1="1202" y1="598" x2="1205" y2="610" x3="1199" y3="622" x4="1188" y4="621" x5="1180" y5="610">ふに</onomatopoeia>
+			<onomatopoeia id="10005f0d" x0="61" y0="424" x1="102" y1="412" x2="121" y2="505" x3="78" y3="517">ぱたん</onomatopoeia>
+		</page>
+		<page height="1170" index="22" width="1654" />
+		<page height="1170" index="23" width="1654">
+			<onomatopoeia id="10005f0e" x0="548" y0="247" x1="572" y1="247" x2="575" y2="300" x3="560" y3="304">ゔゔ・・・</onomatopoeia>
+		</page>
+		<page height="1170" index="24" width="1654">
+			<onomatopoeia id="10005f0f" x0="467" y0="592" x1="740" y1="583" x2="743" y2="604" x3="488" y3="618" x4="471" y4="608">ひょー</onomatopoeia>
+			<onomatopoeia id="10005f10" x0="1045" y0="746" x1="1075" y1="712" x2="1096" y2="772" x3="1104" y3="825" x4="1115" y4="853" x5="1116" y5="919" x6="1114" y6="963" x7="1098" y7="964" x8="1066" y8="931">うわあああ</onomatopoeia>
+			<onomatopoeia id="10005f11" x0="338" y0="763" x1="359" y1="763" x2="355" y2="826" x3="340" y3="825">はははーだ</onomatopoeia>
+		</page>
+		<page height="1170" index="25" width="1654">
+			<onomatopoeia id="10005f12" x0="1209" y0="260" x1="1256" y1="274" x2="1252" y2="304" x3="1222" y3="313">る</onomatopoeia>
+			<onomatopoeia id="10005f13" x0="1242" y0="299" x1="1266" y1="298" x2="1261" y2="371" x3="1218" y3="362" x4="1217" y4="337">る</onomatopoeia>
+			<onomatopoeia id="10005f14" x0="1203" y0="445" x1="1254" y1="438" x2="1249" y2="506" x3="1218" y3="517">る</onomatopoeia>
+			<onomatopoeia id="10005f15" x0="1122" y0="544" x1="1173" y1="539" x2="1178" y2="591" x3="1160" y3="604" x4="1136" y4="602">る</onomatopoeia>
+			<onomatopoeia id="10005f16" x0="1232" y0="746" x1="1250" y1="746" x2="1250" y2="779" x3="1232" y3="779">ばー</onomatopoeia>
+			<onomatopoeia id="10005f17" x0="1121" y0="319" x1="1157" y1="315" x2="1168" y2="380" x3="1131" y3="381">る</onomatopoeia>
+			<onomatopoeia id="10005f18" x0="1169" y0="546" x1="1210" y1="555" x2="1210" y2="602" x3="1175" y3="611">る</onomatopoeia>
+			<onomatopoeia id="10005f19" x0="1136" y0="402" x1="1184" y1="394" x2="1194" y2="464" x3="1161" y3="471">る</onomatopoeia>
+			<onomatopoeia id="10005f1a" x0="1215" y0="515" x1="1259" y1="506" x2="1266" y2="548" x3="1256" y3="568" x4="1236" y4="564">る</onomatopoeia>
+			<onomatopoeia id="10005f1b" x0="1200" y0="69" x1="1269" y1="71" x2="1254" y2="137" x3="1215" y3="139">る</onomatopoeia>
+			<onomatopoeia id="10005f1c" x0="1136" y0="88" x1="1191" y1="107" x2="1184" y2="163" x3="1145" y3="165">る</onomatopoeia>
+			<onomatopoeia id="10005f1d" x0="1389" y0="95" x1="1511" y1="94" x2="1506" y2="140" x3="1463" y3="160" x4="1397" y4="167">げぃん</onomatopoeia>
+		</page>
+		<page height="1170" index="26" width="1654">
+			<onomatopoeia id="10005f1e" x0="1395" y0="462" x1="1409" y1="462" x2="1409" y2="517" x3="1395" y3="517">ゔゔゔ</onomatopoeia>
+		</page>
+		<page height="1170" index="27" width="1654">
+			<onomatopoeia id="10005f1f" x0="480" y0="588" x1="492" y1="588" x2="492" y2="601" x3="480" y3="601">?</onomatopoeia>
+			<onomatopoeia id="10005f20" x0="549" y0="541" x1="566" y1="541" x2="566" y2="592" x3="549" y3="592">ははは・・・</onomatopoeia>
+			<onomatopoeia id="10005f21" x0="1224" y0="776" x1="1251" y1="773" x2="1238" y2="812" x3="1223" y3="812">どき</onomatopoeia>
+			<onomatopoeia id="10005f22" x0="972" y0="1005" x1="987" y1="1006" x2="995" y2="1029" x3="979" y3="1031">どき</onomatopoeia>
+			<onomatopoeia id="10005f23" x0="1091" y0="152" x1="1109" y1="149" x2="1116" y2="180" x3="1102" y3="186">どき</onomatopoeia>
+			<onomatopoeia id="10005f24" x0="977" y0="980" x1="994" y1="979" x2="997" y2="1006" x3="986" y3="1008">どき</onomatopoeia>
+			<onomatopoeia id="10005f25" x0="1103" y0="128" x1="1118" y1="124" x2="1121" y2="152" x3="1110" y3="158">どき</onomatopoeia>
+			<onomatopoeia id="10005f26" x0="414" y0="982" x1="431" y1="984" x2="432" y2="991" x3="428" y3="1012" x4="416" y4="1012">どき</onomatopoeia>
+			<onomatopoeia id="10005f27" x0="363" y0="1011" x1="381" y1="1012" x2="382" y2="1038" x3="372" y3="1040">どき</onomatopoeia>
+			<onomatopoeia id="10005f28" x0="345" y0="1035" x1="366" y1="1035" x2="364" y2="1065" x3="351" y3="1063">どき</onomatopoeia>
+			<onomatopoeia id="10005f29" x0="327" y0="384" x1="344" y1="379" x2="347" y2="384" x3="345" y3="399" x4="341" y4="402" x5="329" y5="394">ぱっ</onomatopoeia>
+			<onomatopoeia id="10005f2a" x0="1198" y0="811" x1="1224" y1="808" x2="1210" y2="850" x3="1194" y3="848">どき</onomatopoeia>
+			<onomatopoeia id="10005f2b" x0="564" y0="528" x1="581" y1="528" x2="581" y2="555" x3="564" y3="555">はは</onomatopoeia>
+			<onomatopoeia id="10005f2c" x0="427" y0="958" x1="445" y1="958" x2="442" y2="986" x3="430" y3="986">どき</onomatopoeia>
+			<onomatopoeia id="10005f2d" x0="1104" y0="775" x1="1126" y1="775" x2="1126" y2="820" x3="1104" y3="820">ちら</onomatopoeia>
+		</page>
+		<page height="1170" index="28" width="1654">
+			<onomatopoeia id="10005f2e" x0="1221" y0="818" x1="1370" y1="821" x2="1368" y2="836" x3="1234" y3="845">ひょー</onomatopoeia>
+			<onomatopoeia id="10005f2f" x0="1417" y0="820" x1="1474" y1="825" x2="1467" y2="840" x3="1412" y3="832">ー</onomatopoeia>
+			<onomatopoeia_link1 id="11000386" link0="10005f2e" link1="10005f2f" />
+			<onomatopoeia id="10005f30" x0="1449" y0="625" x1="1473" y1="622" x2="1478" y2="653" x3="1465" y3="654" x4="1456" y4="645">ばっ</onomatopoeia>
+			<onomatopoeia id="10005f31" x0="1465" y0="516" x1="1488" y1="516" x2="1488" y2="559" x3="1465" y3="559">ははは</onomatopoeia>
+		</page>
+		<page height="1170" index="29" width="1654">
+			<onomatopoeia id="10005f32" x0="1242" y0="748" x1="1259" y1="752" x2="1254" y2="778" x3="1248" y3="779">すー</onomatopoeia>
+			<onomatopoeia id="10005f33" x0="703" y0="71" x1="743" y1="71" x2="746" y2="96" x3="744" y3="113" x4="732" y4="148" x5="727" y5="147" x6="703" y6="109">パタ</onomatopoeia>
+			<onomatopoeia id="10005f34" x0="385" y0="283" x1="428" y1="284" x2="454" y2="328" x3="417" y3="354" x4="404" y4="349" x5="383" y5="324">ギシ</onomatopoeia>
+			<onomatopoeia id="10005f35" x0="690" y0="657" x1="717" y1="646" x2="749" y2="647" x3="744" y3="756" x4="711" y4="768" x5="698" y5="744" x6="686" y6="717">ガチャ</onomatopoeia>
+			<onomatopoeia id="10005f36" x0="1238" y0="553" x1="1277" y1="512" x2="1296" y2="563" x3="1294" y3="594" x4="1282" y4="621" x5="1268" y5="639" x6="1252" y6="623" x7="1247" y7="592">カチャ</onomatopoeia>
+			<onomatopoeia id="10005f37" x0="1249" y0="728" x1="1266" y1="728" x2="1269" y2="737" x3="1265" y3="760" x4="1260" y4="759">すー</onomatopoeia>
+		</page>
+		<page height="1170" index="30" width="1654">
+			<onomatopoeia id="10005f38" x0="1026" y0="818" x1="1058" y1="818" x2="1098" y2="830" x3="1100" y3="876" x4="1088" y4="878" x5="1069" y5="857" x6="1055" y6="857" x7="1028" y7="843">よろり</onomatopoeia>
+			<onomatopoeia id="10005f39" x0="54" y0="435" x1="131" y1="435" x2="131" y2="555" x3="54" y3="555">ポンっ</onomatopoeia>
+			<onomatopoeia id="10005f3a" x0="638" y0="455" x1="671" y1="462" x2="703" y2="486" x3="692" y3="513" x4="670" y4="501" x5="656" y5="493" x6="642" y6="486">よろよろ</onomatopoeia>
+		</page>
+		<page height="1170" index="31" width="1654">
+			<onomatopoeia id="10005f3b" x0="198" y0="365" x1="223" y1="365" x2="223" y2="408" x3="198" y3="408">べー</onomatopoeia>
+			<onomatopoeia id="10005f3c" x0="985" y0="167" x1="1012" y1="141" x2="1044" y2="144" x3="1060" y3="180" x4="1044" y4="197" x5="1022" y5="209" x6="995" y6="218">どん</onomatopoeia>
+			<onomatopoeia id="10005f3d" x0="677" y0="626" x1="704" y1="617" x2="741" y2="628" x3="741" y3="653" x4="732" y4="652" x5="716" y5="643" x6="701" y6="645" x7="687" y7="645">がっくり</onomatopoeia>
+		</page>
+		<page height="1170" index="32" width="1654">
+			<onomatopoeia id="10005f3e" x0="1426" y0="213" x1="1457" y1="216" x2="1462" y2="238" x3="1448" y3="244" x4="1428" y4="234">よろ</onomatopoeia>
+			<onomatopoeia id="10005f3f" x0="1415" y0="173" x1="1448" y1="195" x2="1442" y2="219" x3="1430" y3="214" x4="1414" y4="202">よろ</onomatopoeia>
+		</page>
+		<page height="1170" index="33" width="1654">
+			<onomatopoeia id="10005f40" x0="237" y0="291" x1="251" y1="280" x2="274" y2="284" x3="295" y3="307" x4="281" y4="355" x5="271" y5="356" x6="248" y6="326">カチャ</onomatopoeia>
+		</page>
+		<page height="1170" index="34" width="1654">
+			<onomatopoeia id="10005f41" x0="1281" y0="648" x1="1646" y1="646" x2="1653" y2="741" x3="1653" y3="783" x4="1564" y4="914" x5="1522" y5="905" x6="1462" y6="850" x7="1333" y7="847">どけ</onomatopoeia>
+		</page>
+		<page height="1170" index="35" width="1654" />
+		<page height="1170" index="36" width="1654">
+			<onomatopoeia id="10005f42" x0="1308" y0="83" x1="1335" y1="81" x2="1339" y2="125" x3="1318" y3="134">ごほ</onomatopoeia>
+			<onomatopoeia id="10005f43" x0="913" y0="782" x1="938" y1="782" x2="938" y2="889" x3="913" y3="889">ちーん・・・</onomatopoeia>
+			<onomatopoeia id="10005f44" x0="1137" y0="921" x1="1193" y1="908" x2="1216" y2="1032" x3="1163" y3="1051" x4="1140" y4="993">ぱたん</onomatopoeia>
+			<onomatopoeia id="10005f45" x0="1280" y0="98" x1="1304" y1="96" x2="1310" y2="135" x3="1292" y3="144">ごほ</onomatopoeia>
+		</page>
+		<page height="1170" index="37" width="1654" />
+		<page height="1170" index="38" width="1654">
+			<onomatopoeia id="10005f46" x0="915" y0="421" x1="1031" y1="421" x2="1031" y2="518" x3="915" y3="518">がく</onomatopoeia>
+			<onomatopoeia id="10005f47" x0="1446" y0="469" x1="1464" y1="469" x2="1464" y2="497" x3="1446" y3="497">はぁ</onomatopoeia>
+			<onomatopoeia id="10005f48" x0="1522" y0="610" x1="1597" y1="610" x2="1597" y2="636" x3="1522" y3="636">どたどたど</onomatopoeia>
+			<onomatopoeia id="10005f49" x0="1434" y0="444" x1="1454" y1="444" x2="1454" y2="471" x3="1434" y3="471">はぁ</onomatopoeia>
+		</page>
+		<page height="1170" index="39" width="1654" />
+		<page height="1170" index="40" width="1654" />
+		<page height="1170" index="41" width="1654">
+			<onomatopoeia id="10005f4a" x0="673" y0="575" x1="739" y1="572" x2="741" y2="599" x3="743" y3="676" x4="733" y4="709" x5="732" y5="798" x6="662" y6="825" x7="658" y7="803" x8="676" y8="763" x9="672" y9="688">ピンポーン</onomatopoeia>
+		</page>
+		<page height="1170" index="42" width="1654">
+			<onomatopoeia id="10005f4b" x0="1005" y0="998" x1="1031" y1="1006" x2="1047" y2="1036" x3="1046" y3="1092" x4="1001" y4="1070">わな</onomatopoeia>
+			<onomatopoeia id="10005f4c" x0="436" y0="810" x1="459" y1="805" x2="491" y2="830" x3="481" y3="864" x4="468" y4="865" x5="453" y5="855" x6="437" y6="837">むっ</onomatopoeia>
+			<onomatopoeia id="10005f4d" x0="1035" y0="937" x1="1060" y1="954" x2="1068" y2="1025" x3="1045" y3="1027" x4="1012" y4="991">わな</onomatopoeia>
+		</page>
+		<page height="1170" index="43" width="1654">
+			<onomatopoeia id="10005f4e" x0="108" y0="379" x1="123" y1="376" x2="127" y2="400" x3="121" y3="404" x4="113" y4="393">そう</onomatopoeia>
+			<onomatopoeia id="10005f4f" x0="106" y0="404" x1="120" y1="401" x2="129" y2="425" x3="122" y3="428">そう</onomatopoeia>
+			<onomatopoeia id="10005f50" x0="945" y0="910" x1="1179" y1="910" x2="1393" y2="911" x3="1586" y3="1040" x4="1593" y4="1098" x5="918" y5="1098" x6="916" y6="1047">ぶちっ</onomatopoeia>
+		</page>
+		<page height="1170" index="44" width="1654">
+			<onomatopoeia id="10005f51" x0="992" y0="726" x1="1036" y1="726" x2="1036" y2="841" x3="992" y3="841">だー</onomatopoeia>
+			<onomatopoeia id="10005f52" x0="1257" y0="902" x1="1312" y1="917" x2="1312" y2="952" x3="1300" y3="1087" x4="1282" y4="1098" x5="1249" y5="1059" x6="1248" y6="973">ばたんっ</onomatopoeia>
+			<onomatopoeia id="10005f53" x0="1373" y0="467" x1="1408" y1="467" x2="1413" y2="554" x3="1397" y3="560" x4="1386" y4="534">ははは・・・</onomatopoeia>
+		</page>
+		<page height="1170" index="45" width="1654" />
+		<page height="1170" index="46" width="1654">
+			<onomatopoeia id="10005f54" x0="435" y0="669" x1="487" y1="665" x2="479" y2="706" x3="456" y3="764" x4="435" y4="762">ガラ</onomatopoeia>
+			<onomatopoeia id="10005f55" x0="383" y0="942" x1="475" y1="878" x2="522" y2="897" x3="579" y3="960" x4="611" y4="995" x5="600" y5="1019" x6="503" y6="996" x7="419" y7="1016">ざわっ</onomatopoeia>
+		</page>
+		<page height="1170" index="47" width="1654">
+			<onomatopoeia id="10005f56" x0="1054" y0="217" x1="1098" y1="217" x2="1098" y2="246" x3="1054" y3="246">じろ</onomatopoeia>
+			<onomatopoeia id="10005f57" x0="1158" y0="235" x1="1197" y1="235" x2="1197" y2="267" x3="1158" y3="267">じろ</onomatopoeia>
+			<onomatopoeia id="10005f58" x0="1356" y0="197" x1="1398" y1="192" x2="1411" y2="215" x3="1361" y3="217">ひそ</onomatopoeia>
+			<onomatopoeia id="10005f59" x0="1438" y0="192" x1="1486" y1="192" x2="1486" y2="217" x3="1438" y3="217">ひそ</onomatopoeia>
+			<onomatopoeia id="10005f5a" x0="1123" y0="209" x1="1158" y1="209" x2="1158" y2="239" x3="1123" y3="239">じろ</onomatopoeia>
+			<onomatopoeia id="10005f5b" x0="1546" y0="236" x1="1585" y1="236" x2="1585" y2="259" x3="1546" y3="259">ひそ</onomatopoeia>
+			<onomatopoeia id="10005f5c" x0="1406" y0="176" x1="1452" y1="170" x2="1467" y2="193" x3="1416" y3="199">ひそ</onomatopoeia>
+		</page>
+		<page height="1170" index="48" width="1654">
+			<onomatopoeia id="10005f5d" x0="1082" y0="768" x1="1104" y1="768" x2="1104" y2="824" x3="1082" y3="824">んまーっ</onomatopoeia>
+			<onomatopoeia id="10005f5e" x0="374" y0="338" x1="606" y1="339" x2="606" y2="399" x3="384" y3="423">えーっ</onomatopoeia>
+			<onomatopoeia id="10005f5f" x0="1027" y0="810" x1="1071" y1="810" x2="1081" y2="841" x3="1073" y3="845" x4="1057" y4="838" x5="1036" y5="836" x6="1026" y6="825">むかっ</onomatopoeia>
+			<onomatopoeia id="10005f60" x0="967" y0="858" x1="983" y1="858" x2="983" y2="882" x3="967" y3="882">まっ</onomatopoeia>
+		</page>
+		<page height="1170" index="49" width="1654">
+			<onomatopoeia id="10005f61" x0="426" y0="462" x1="584" y1="462" x2="775" y2="512" x3="777" y3="549" x4="675" y4="688" x5="604" y5="695" x6="415" y6="723" x7="381" y7="609">がっ!</onomatopoeia>
+			<onomatopoeia id="10005f62" x0="1249" y0="201" x1="1327" y1="201" x2="1327" y2="246" x3="1249" y3="246">おお</onomatopoeia>
+		</page>
+		<page height="1170" index="50" width="1654">
+			<onomatopoeia id="10005f63" x0="136" y0="756" x1="155" y1="756" x2="164" y2="807" x3="153" y3="817">きっーっ</onomatopoeia>
+		</page>
+		<page height="1170" index="51" width="1654" />
+		<page height="1170" index="52" width="1654">
+			<onomatopoeia id="10005f64" x0="1240" y0="360" x1="1274" y1="315" x2="1283" y2="359" x3="1284" y3="410" x4="1281" y4="445" x5="1266" y5="446" x6="1245" y6="409">カチャ</onomatopoeia>
+			<onomatopoeia id="10005f65" x0="1350" y0="763" x1="1378" y1="777" x2="1381" y2="880" x3="1348" y3="945" x4="1337" y4="939" x5="1323" y5="905" x6="1332" y6="815">パタン・・・</onomatopoeia>
+		</page>
+		<page height="1170" index="53" width="1654">
+			<onomatopoeia id="10005f66" x0="1082" y0="125" x1="1097" y1="121" x2="1100" y2="132" x3="1106" y3="135" x4="1105" y4="144" x5="1097" y5="151" x6="1093" y6="148">ごほ</onomatopoeia>
+			<onomatopoeia id="10005f67" x0="1094" y0="104" x1="1112" y1="100" x2="1111" y2="126" x3="1099" y3="127">ごほ</onomatopoeia>
+			<onomatopoeia id="10005f68" x0="170" y0="962" x1="190" y1="956" x2="217" y2="960" x3="207" y3="991" x4="203" y4="1027" x5="191" y5="1059" x6="195" y6="1092" x7="188" y7="1106" x8="129" y8="1091" x9="120" y9="1063" x10="145" y10="1035">ゔわ゛あああ</onomatopoeia>
+		</page>
+		<page height="1170" index="54" width="1654">
+			<onomatopoeia id="10005f69" x0="270" y0="647" x1="291" y1="629" x2="305" y2="646" x3="306" y3="659" x4="298" y4="661">ずる</onomatopoeia>
+			<onomatopoeia id="10005f6a" x0="327" y0="680" x1="353" y1="672" x2="365" y2="690" x3="356" y3="695" x4="334" y4="698">ずる</onomatopoeia>
+			<onomatopoeia id="10005f6b" x0="304" y0="647" x1="325" y1="643" x2="335" y2="660" x3="335" y3="674" x4="326" y4="674" x5="308" y5="663">ずる</onomatopoeia>
+			<onomatopoeia id="10005f6c" x0="1527" y0="191" x1="1568" y1="188" x2="1574" y2="254" x3="1555" y3="262">きゅっ</onomatopoeia>
+			<onomatopoeia id="10005f6d" x0="1504" y0="237" x1="1539" y1="235" x2="1559" y2="272" x3="1551" y3="299" x4="1535" y4="301" x5="1504" y5="262">きゅっ</onomatopoeia>
+			<onomatopoeia id="10005f6e" x0="292" y0="672" x1="311" y1="665" x2="325" y2="680" x3="328" y3="689" x4="326" y4="697" x5="301" y5="688">ずる</onomatopoeia>
+		</page>
+		<page height="1170" index="55" width="1654">
+			<onomatopoeia id="10005f6f" x0="1323" y0="241" x1="1361" y1="241" x2="1361" y2="355" x3="1323" y3="355">むっくり</onomatopoeia>
+			<onomatopoeia id="10005f70" x0="640" y0="527" x1="666" y1="527" x2="678" y2="547" x3="674" y3="557" x4="655" y4="557" x5="640" y5="537">ぜえ</onomatopoeia>
+			<onomatopoeia id="10005f71" x0="104" y0="833" x1="136" y1="837" x2="135" y2="858" x3="124" y3="853" x4="103" y4="844">ぐす</onomatopoeia>
+			<onomatopoeia id="10005f72" x0="110" y0="851" x1="128" y1="851" x2="151" y2="859" x3="148" y3="879" x4="109" y4="861">ぐす</onomatopoeia>
+			<onomatopoeia id="10005f73" x0="698" y0="958" x1="716" y1="960" x2="726" y2="969" x3="727" y3="981" x4="697" y4="973">ごほ</onomatopoeia>
+			<onomatopoeia id="10005f74" x0="725" y0="966" x1="743" y1="967" x2="751" y2="978" x3="749" y3="991" x4="726" y4="979">ごほ</onomatopoeia>
+			<onomatopoeia id="10005f75" x0="658" y0="559" x1="690" y1="555" x2="698" y2="579" x3="687" y3="587" x4="664" y4="576">ぜえ</onomatopoeia>
+		</page>
+		<page height="1170" index="56" width="1654">
+			<onomatopoeia id="10005f76" x0="190" y0="359" x1="241" y1="360" x2="242" y2="389" x3="200" y3="385">ぐず</onomatopoeia>
+			<onomatopoeia id="10005f77" x0="1530" y0="891" x1="1587" y1="898" x2="1583" y2="976" x3="1560" y3="1020" x4="1545" y4="1011" x5="1528" y5="973">ガチャ</onomatopoeia>
+			<onomatopoeia id="10005f78" x0="196" y0="293" x1="246" y1="293" x2="246" y2="325" x3="196" y3="325">ぐず</onomatopoeia>
+			<onomatopoeia id="10005f79" x0="1062" y0="292" x1="1090" y1="276" x2="1094" y2="297" x3="1094" y3="324" x4="1071" y4="346" x5="1061" y5="312">チャ</onomatopoeia>
+			<onomatopoeia id="10005f7a" x0="486" y0="324" x1="515" y1="324" x2="519" y2="376" x3="519" y3="393" x4="507" y4="409" x5="492" y5="406" x6="486" y6="379">カチャ</onomatopoeia>
+			<onomatopoeia id="10005f7b" x0="220" y0="327" x1="278" y1="327" x2="278" y2="362" x3="220" y3="362">ぐず</onomatopoeia>
+		</page>
+		<page height="1170" index="57" width="1654">
+			<onomatopoeia id="10005f7c" x0="1348" y0="472" x1="1392" y1="475" x2="1390" y2="487" x3="1383" y3="499" x4="1352" y4="490">ぐず</onomatopoeia>
+			<onomatopoeia id="10005f7d" x0="1336" y0="595" x1="1377" y1="590" x2="1379" y2="603" x3="1369" y3="620" x4="1340" y4="616">ぐず</onomatopoeia>
+			<onomatopoeia id="10005f7e" x0="1389" y0="488" x1="1424" y1="488" x2="1425" y2="504" x3="1417" y3="518" x4="1385" y4="505">ぐず</onomatopoeia>
+			<onomatopoeia id="10005f7f" x0="1363" y0="623" x1="1376" y1="615" x2="1406" y2="618" x3="1404" y3="649" x4="1388" y4="643" x5="1366" y5="631">ぐず</onomatopoeia>
+		</page>
+		<page height="1170" index="58" width="1654">
+			<onomatopoeia id="10005f80" x0="1521" y0="778" x1="1586" y1="780" x2="1585" y2="822" x3="1585" y3="871" x4="1572" y4="949" x5="1540" y5="1054" x6="1489" y6="1074" x7="1490" y7="1009" x8="1500" y8="895" x9="1528" y9="837">ピンポーン</onomatopoeia>
+			<onomatopoeia id="10005f81" x0="1403" y0="24" x1="1505" y1="0" x2="1574" y2="0" x3="1586" y3="203" x4="1606" y4="287" x5="1560" y5="297" x6="1441" y6="182">どて</onomatopoeia>
+		</page>
+		<page height="1170" index="59" width="1654">
+			<onomatopoeia id="10005f82" x0="1505" y0="882" x1="1543" y1="882" x2="1543" y2="973" x3="1505" y3="973">ぼー・・・</onomatopoeia>
+		</page>
+		<page height="1170" index="60" width="1654">
+			<onomatopoeia id="10005f83" x0="1192" y0="669" x1="1209" y1="666" x2="1215" y2="678" x3="1217" y3="704" x4="1204" y4="705">ぐちゃ</onomatopoeia>
+			<onomatopoeia id="10005f84" x0="1446" y0="498" x1="1466" y1="500" x2="1465" y2="518" x3="1459" y3="529" x4="1447" y4="520">ぶつ</onomatopoeia>
+			<onomatopoeia id="10005f85" x0="1439" y0="521" x1="1455" y1="522" x2="1458" y2="534" x3="1453" y3="553" x4="1442" y4="550">ぶつ</onomatopoeia>
+			<onomatopoeia id="10005f86" x0="1010" y0="640" x1="1046" y1="647" x2="1046" y2="662" x3="1036" y3="671" x4="1011" y4="660">はぐ</onomatopoeia>
+			<onomatopoeia id="10005f87" x0="1202" y0="631" x1="1226" y1="635" x2="1223" y2="676" x3="1209" y3="672">ぐちゃ</onomatopoeia>
+			<onomatopoeia id="10005f88" x0="1016" y0="609" x1="1049" y1="627" x2="1039" y2="648" x3="1012" y3="632">はぐ</onomatopoeia>
+		</page>
+		<page height="1170" index="61" width="1654">
+			<onomatopoeia id="10005f89" x0="903" y0="167" x1="981" y1="142" x2="1089" y2="141" x3="1091" y3="190" x4="1080" y4="211" x5="982" y5="218" x6="934" y6="244" x7="906" y7="213">らだら</onomatopoeia>
+			<onomatopoeia id="10005f8a" x0="1459" y0="269" x1="1491" y1="276" x2="1530" y2="275" x3="1533" y3="261" x4="1587" y4="280" x5="1588" y5="339" x6="1578" y6="351" x7="1547" y7="333" x8="1497" y8="329" x9="1479" y9="342">だらり</onomatopoeia>
+			<onomatopoeia id="10005f8b" x0="903" y0="238" x1="939" y1="239" x2="973" y2="220" x3="997" y3="211" x4="1034" y4="218" x5="1027" y5="259" x6="997" y6="280" x7="925" y7="309" x8="903" y8="269">だら</onomatopoeia>
+			<onomatopoeia id="10005f8c" x0="903" y0="66" x1="1145" y1="70" x2="1138" y2="134" x3="1078" y3="142" x4="1058" y4="143" x5="1006" y5="145" x6="929" y6="164" x7="905" y7="104">だらだら</onomatopoeia>
+			<onomatopoeia id="10005f8d" x0="1490" y0="326" x1="1545" y1="336" x2="1579" y2="375" x3="1571" y3="414" x4="1551" y4="418" x5="1512" y5="394" x6="1485" y6="375">らり</onomatopoeia>
+			<onomatopoeia id="10005f8e" x0="1431" y0="69" x1="1532" y1="70" x2="1523" y2="189" x3="1525" y3="236" x4="1504" y4="288" x5="1462" y5="256" x6="1476" y6="187" x7="1464" y7="128">だりらり</onomatopoeia>
+			<onomatopoeia id="10005f8f" x0="1442" y0="703" x1="1509" y1="712" x2="1559" y2="726" x3="1580" y3="762" x4="1584" y4="797" x5="1560" y5="803" x6="1538" y6="787" x7="1511" y7="760" x8="1466" y8="762" x9="1450" y9="752">どげん</onomatopoeia>
+		</page>
+		<page height="1170" index="62" width="1654">
+			<onomatopoeia id="10005f90" x0="1010" y0="576" x1="1035" y1="575" x2="1038" y2="619" x3="1028" y3="623">あー</onomatopoeia>
+			<onomatopoeia id="10005f91" x0="379" y0="436" x1="663" y1="438" x2="664" y2="472" x3="624" y3="519" x4="594" y4="508" x5="475" y5="522" x6="406" y6="528">め゛り゛</onomatopoeia>
+			<onomatopoeia id="10005f92" x0="1295" y0="764" x1="1316" y1="764" x2="1316" y2="856" x3="1295" y3="856">ゔーうっ</onomatopoeia>
+			<onomatopoeia id="10005f93" x0="1135" y0="121" x1="1168" y1="127" x2="1178" y2="199" x3="1140" y3="205">ははは</onomatopoeia>
+			<onomatopoeia id="10005f94" x0="88" y0="593" x1="112" y1="597" x2="106" y2="635" x3="96" y3="637">ん゛ー</onomatopoeia>
+			<onomatopoeia id="10005f95" x0="69" y0="594" x1="93" y1="594" x2="90" y2="639" x3="75" y3="642">ん゛ー</onomatopoeia>
+			<onomatopoeia id="10005f96" x0="1125" y0="559" x1="1168" y1="559" x2="1168" y2="653" x3="1125" y3="653">むっくり</onomatopoeia>
+			<onomatopoeia id="10005f97" x0="165" y0="907" x1="195" y1="901" x2="206" y2="940" x3="220" y3="996" x4="201" y4="1000" x5="170" y5="935">きゃーっ</onomatopoeia>
+		</page>
+		<page height="1170" index="63" width="1654">
+			<onomatopoeia id="10005f98" x0="982" y0="507" x1="1001" y1="507" x2="1005" y2="558" x3="990" y3="556">あ゛ー</onomatopoeia>
+			<onomatopoeia id="10005f99" x0="933" y0="593" x1="974" y1="590" x2="985" y2="651" x3="976" y3="660" x4="960" y4="642" x5="942" y5="627">きゃっ</onomatopoeia>
+			<onomatopoeia id="10005f9a" x0="314" y0="593" x1="336" y1="594" x2="334" y2="620" x3="326" y3="637" x4="322" y4="637" x5="314" y5="610">きゃー</onomatopoeia>
+			<onomatopoeia id="10005f9b" x0="957" y0="509" x1="981" y1="510" x2="979" y2="555" x3="970" y3="558">あ゛ー</onomatopoeia>
+			<onomatopoeia id="10005f9c" x0="925" y0="637" x1="952" y1="634" x2="964" y2="650" x3="976" y3="675" x4="979" y4="700" x5="964" y5="702" x6="950" y6="693" x7="933" y7="670">きゃっ</onomatopoeia>
+		</page>
+		<page height="1170" index="64" width="1654" />
+		<page height="1170" index="65" width="1654" />
+		<page height="1170" index="66" width="1654" />
+		<page height="1170" index="67" width="1654">
+			<onomatopoeia id="10005f9d" x0="360" y0="546" x1="397" y1="547" x2="411" y2="558" x3="392" y3="635" x4="376" y4="631" x5="357" y5="571">ガタ</onomatopoeia>
+			<onomatopoeia id="10005f9e" x0="223" y0="476" x1="277" y1="476" x2="277" y2="499" x3="223" y3="499">うっとり</onomatopoeia>
+			<onomatopoeia id="10005f9f" x0="1418" y0="489" x1="1497" y1="492" x2="1483" y2="564" x3="1409" y3="525">は</onomatopoeia>
+			<onomatopoeia id="10005fa0" x0="968" y0="492" x1="1249" y1="497" x2="1206" y2="537" x3="1138" y3="554" x4="1089" y4="554" x5="984" y5="579">ははは</onomatopoeia>
+			<onomatopoeia id="10005fa1" x0="58" y0="467" x1="146" y1="467" x2="146" y2="708" x3="58" y3="708">ザー</onomatopoeia>
+		</page>
+		<page height="1170" index="68" width="1654">
+			<onomatopoeia id="10005fa2" x0="1545" y0="632" x1="1564" y1="620" x2="1572" y2="634" x3="1574" y3="655" x4="1563" y4="675" x5="1551" y5="675" x6="1543" y6="658">カチャ</onomatopoeia>
+			<onomatopoeia id="10005fa3" x0="1077" y0="73" x1="1136" y1="78" x2="1127" y2="126" x3="1127" y3="158" x4="1112" y4="200" x5="1108" y5="269" x6="1047" y6="290">ピンポーン</onomatopoeia>
+			<onomatopoeia id="10005fa4" x0="1335" y0="116" x1="1357" y1="112" x2="1351" y2="168" x3="1339" y3="187" x4="1325" y4="153">ん゛ーん゛っ</onomatopoeia>
+		</page>
+		<page height="1170" index="69" width="1654">
+			<onomatopoeia id="10005fa5" x0="230" y0="670" x1="250" y1="673" x2="251" y2="707" x3="243" y3="709" x4="231" y4="688">んー</onomatopoeia>
+		</page>
+		<page height="1170" index="70" width="1654" />
+		<page height="1170" index="71" width="1654">
+			<onomatopoeia id="10005fa6" x0="304" y0="883" x1="327" y1="883" x2="327" y2="927" x3="304" y3="927">?</onomatopoeia>
+			<onomatopoeia id="10005fa7" x0="274" y0="858" x1="304" y1="859" x2="300" y2="884" x3="290" y3="901" x4="279" y4="898">?</onomatopoeia>
+			<onomatopoeia id="10005fa8" x0="1155" y0="1010" x1="1166" y1="1008" x2="1173" y2="1026" x3="1169" y3="1038" x4="1157" y4="1026">ブツ</onomatopoeia>
+			<onomatopoeia id="10005fa9" x0="1137" y0="991" x1="1153" y1="993" x2="1156" y2="1011" x3="1152" y3="1018" x4="1141" y4="1006">ブツ</onomatopoeia>
+			<onomatopoeia id="10005faa" x0="266" y0="910" x1="293" y1="910" x2="294" y2="951" x3="280" y3="951" x4="267" y4="922">?</onomatopoeia>
+			<onomatopoeia id="10005fab" x0="1273" y0="696" x1="1297" y1="706" x2="1280" y2="767" x3="1261" y3="756">とほほ</onomatopoeia>
+			<onomatopoeia id="10005fac" x0="330" y0="905" x1="354" y1="918" x2="333" y2="945" x3="326" y3="941">?</onomatopoeia>
+			<onomatopoeia id="10005fad" x0="325" y0="828" x1="348" y1="828" x2="345" y2="852" x3="333" y3="872" x4="322" y4="870">?</onomatopoeia>
+			<onomatopoeia id="10005fae" x0="275" y0="781" x1="300" y1="781" x2="300" y2="817" x3="275" y3="817">?</onomatopoeia>
+			<onomatopoeia id="10005faf" x0="303" y0="795" x1="328" y1="795" x2="328" y2="840" x3="303" y3="840">?</onomatopoeia>
+		</page>
+		<page height="1170" index="72" width="1654">
+			<onomatopoeia id="10005fb0" x0="1311" y0="588" x1="1321" y1="585" x2="1322" y2="606" x3="1316" y3="615" x4="1312" y4="614">え?</onomatopoeia>
+			<onomatopoeia id="10005fb1" x0="1306" y0="562" x1="1314" y1="564" x2="1312" y2="590" x3="1306" y3="591">え?</onomatopoeia>
+			<onomatopoeia id="10005fb2" x0="1301" y0="613" x1="1312" y1="611" x2="1317" y2="640" x3="1305" y3="639">え?</onomatopoeia>
+			<onomatopoeia id="10005fb3" x0="1259" y0="547" x1="1271" y1="547" x2="1271" y2="575" x3="1259" y3="575">え?</onomatopoeia>
+			<onomatopoeia id="10005fb4" x0="480" y0="475" x1="515" y1="477" x2="540" y2="500" x3="561" y3="529" x4="561" y4="553" x5="554" y5="554" x6="530" y6="515" x7="489" y7="503" x8="477" y8="496">ぼー・・・</onomatopoeia>
+			<onomatopoeia id="10005fb5" x0="666" y0="740" x1="746" y1="742" x2="745" y2="774" x3="733" y3="851" x4="704" y4="848" x5="668" y5="813">はっ</onomatopoeia>
+			<onomatopoeia id="10005fb6" x0="1291" y0="541" x1="1307" y1="541" x2="1307" y2="571" x3="1291" y3="571">え?</onomatopoeia>
+		</page>
+		<page height="1170" index="73" width="1654" />
+		<page height="1170" index="74" width="1654" />
+		<page height="1170" index="75" width="1654">
+			<onomatopoeia id="10005fb7" x0="190" y0="749" x1="217" y1="748" x2="224" y2="772" x3="220" y3="798" x4="208" y4="797" x5="187" y5="772">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fb8" x0="104" y0="849" x1="133" y1="850" x2="133" y2="885" x3="122" y3="905" x4="107" y4="891" x5="102" y5="874">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fb9" x0="124" y0="923" x1="142" y1="913" x2="159" y2="937" x3="149" y3="966" x4="139" y4="962" x5="124" y5="940">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fba" x0="357" y0="516" x1="394" y1="505" x2="414" y2="542" x3="427" y3="568" x4="420" y4="591" x5="401" y5="598" x6="370" y6="553">ぐずず</onomatopoeia>
+			<onomatopoeia id="10005fbb" x0="142" y0="874" x1="170" y1="874" x2="170" y2="923" x3="142" y3="923">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fbc" x0="176" y0="811" x1="203" y1="811" x2="203" y2="854" x3="176" y3="854">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fbd" x0="173" y0="849" x1="198" y1="849" x2="198" y2="892" x3="173" y3="892">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fbe" x0="201" y0="798" x1="227" y1="798" x2="227" y2="848" x3="201" y3="848">ぐず</onomatopoeia>
+		</page>
+		<page height="1170" index="76" width="1654">
+			<onomatopoeia id="10005fbf" x0="1248" y0="889" x1="1272" y1="894" x2="1266" y2="924" x3="1247" y3="924">へへ</onomatopoeia>
+		</page>
+		<page height="1170" index="77" width="1654" />
+		<page height="1170" index="78" width="1654">
+			<onomatopoeia id="10005fc0" x0="70" y0="285" x1="96" y1="272" x2="123" y2="289" x3="115" y3="300" x4="77" y4="308">ぼそっ</onomatopoeia>
+			<onomatopoeia id="10005fc1" x0="386" y0="909" x1="430" y1="909" x2="430" y2="928" x3="386" y3="928">くらくら</onomatopoeia>
+			<onomatopoeia id="10005fc2" x0="990" y0="846" x1="1022" y1="846" x2="1024" y2="898" x3="1015" y3="954" x4="987" y4="957">うっとり</onomatopoeia>
+		</page>
+		<page height="1170" index="79" width="1654">
+			<onomatopoeia id="10005fc3" x0="100" y0="424" x1="133" y1="419" x2="179" y2="468" x3="169" y3="494" x4="116" y4="473">きっ</onomatopoeia>
+			<onomatopoeia id="10005fc4" x0="282" y0="890" x1="347" y1="890" x2="347" y2="1092" x3="282" y3="1092">がっくり</onomatopoeia>
+			<onomatopoeia id="10005fc5" x0="523" y0="444" x1="537" y1="443" x2="541" y2="456" x3="540" y3="474" x4="525" y4="474">どき</onomatopoeia>
+			<onomatopoeia id="10005fc6" x0="532" y0="421" x1="552" y1="419" x2="546" y2="448" x3="537" y3="449" x4="533" y4="438">どき</onomatopoeia>
+		</page>
+		<page height="1170" index="80" width="1654">
+			<onomatopoeia id="10005fc7" x0="107" y0="498" x1="119" y1="485" x2="153" y2="503" x3="157" y3="552" x4="141" y4="548" x5="114" y5="525">シャッ</onomatopoeia>
+			<onomatopoeia id="10005fc8" x0="1071" y0="884" x1="1087" y1="881" x2="1095" y2="893" x3="1094" y3="905" x4="1081" y4="898">プッ</onomatopoeia>
+		</page>
+		<page height="1170" index="81" width="1654" />
+		<page height="1170" index="82" width="1654" />
+		<page height="1170" index="83" width="1654">
+			<onomatopoeia id="10005fc9" x0="587" y0="323" x1="634" y1="308" x2="633" y2="348" x3="632" y3="372" x4="609" y4="414" x5="597" y5="401">ガタッ</onomatopoeia>
+		</page>
+		<page height="1170" index="84" width="1654">
+			<onomatopoeia id="10005fca" x0="1436" y0="944" x1="1474" y1="895" x2="1556" y2="902" x3="1562" y3="981" x4="1548" y4="1002" x5="1523" y5="1105" x6="1483" y6="1100" x7="1441" y7="1000">ざー</onomatopoeia>
+		</page>
+		<page height="1170" index="85" width="1654">
+			<onomatopoeia id="10005fcb" x0="371" y0="921" x1="388" y1="921" x2="388" y2="969" x3="371" y3="969">くーっ</onomatopoeia>
+			<onomatopoeia id="10005fcc" x0="346" y0="1021" x1="381" y1="995" x2="404" y2="1002" x3="399" y3="1029" x4="398" y4="1070" x5="381" y5="1097" x6="356" y6="1097">ガタッ</onomatopoeia>
+		</page>
+		<page height="1170" index="86" width="1654">
+			<onomatopoeia id="10005fcd" x0="538" y0="535" x1="658" y1="536" x2="656" y2="563" x3="623" y3="598" x4="629" y4="710" x5="598" y5="734" x6="563" y6="678" x7="540" y7="563">がしっ</onomatopoeia>
+		</page>
+		<page height="1170" index="87" width="1654">
+			<onomatopoeia id="10005fce" x0="979" y0="251" x1="1008" y1="262" x2="1024" y2="319" x3="1016" y3="321" x4="978" y4="262">ひゅー</onomatopoeia>
+		</page>
+		<page height="1170" index="88" width="1654">
+			<onomatopoeia id="10005fcf" x0="908" y0="590" x1="1235" y1="590" x2="1235" y2="748" x3="908" y3="748">がっ</onomatopoeia>
+			<onomatopoeia id="10005fd0" x0="535" y0="554" x1="569" y1="563" x2="556" y2="621" x3="527" y3="612">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fd1" x0="244" y0="637" x1="269" y1="637" x2="269" y2="664" x3="244" y3="664">ゔ</onomatopoeia>
+			<onomatopoeia id="10005fd2" x0="513" y0="606" x1="544" y1="620" x2="547" y2="650" x3="528" y3="670" x4="507" y4="660">ぐず</onomatopoeia>
+		</page>
+		<page height="1170" index="89" width="1654">
+			<onomatopoeia id="10005fd3" x0="1062" y0="1025" x1="1098" y1="1025" x2="1093" y2="1061" x3="1079" y3="1081" x4="1066" y4="1071">ぐず</onomatopoeia>
+			<onomatopoeia id="10005fd4" x0="1198" y0="926" x1="1260" y1="928" x2="1245" y2="1060" x3="1225" y3="1056">だーっ</onomatopoeia>
+		</page>
+		<page height="1170" index="90" width="1654">
+			<onomatopoeia id="10005fd5" x0="1444" y0="450" x1="1473" y1="450" x2="1473" y2="506" x3="1444" y3="506">だばだば</onomatopoeia>
+		</page>
+		<page height="1170" index="91" width="1654">
+			<onomatopoeia id="10005fd6" x0="310" y0="1040" x1="338" y1="1039" x2="346" y2="1058" x3="351" y3="1074" x4="346" y4="1093" x5="337" y5="1096" x6="327" y6="1095" x7="324" y7="1068">はははは</onomatopoeia>
+		</page>
+		<page height="1170" index="92" width="1654">
+			<onomatopoeia id="10005fd7" x0="923" y0="987" x1="937" y1="987" x2="947" y2="1014" x3="939" y3="1015">すー</onomatopoeia>
+			<onomatopoeia id="10005fd8" x0="927" y0="973" x1="944" y1="967" x2="952" y2="1006" x3="945" y3="1006">すー</onomatopoeia>
+			<onomatopoeia id="10005fd9" x0="938" y0="939" x1="960" y1="937" x2="960" y2="977" x3="951" y3="980">す・ー</onomatopoeia>
+		</page>
+		<page height="1170" index="93" width="1654">
+			<onomatopoeia id="10005fda" x0="1320" y0="895" x1="1347" y1="893" x2="1360" y2="908" x3="1359" y3="920" x4="1346" y4="926" x5="1322" y5="911">ぼき</onomatopoeia>
+			<onomatopoeia id="10005fdb" x0="1306" y0="874" x1="1332" y1="871" x2="1347" y2="893" x3="1333" y3="895" x4="1310" y4="894">ぼき</onomatopoeia>
+			<onomatopoeia id="10005fdc" x0="570" y0="840" x1="598" y1="840" x2="598" y2="856" x3="570" y3="856">こき</onomatopoeia>
+			<onomatopoeia id="10005fdd" x0="583" y0="855" x1="610" y1="855" x2="610" y2="870" x3="583" y3="870">こき</onomatopoeia>
+			<onomatopoeia id="10005fde" x0="970" y0="97" x1="1023" y1="95" x2="1099" y2="109" x3="1126" y3="193" x4="1097" y4="189" x5="1037" y5="170" x6="998" y6="181" x7="968" y7="171">がばっ</onomatopoeia>
+			<onomatopoeia id="10005fdf" x0="241" y0="956" x1="265" y1="956" x2="265" y2="1035" x3="241" y3="1035">ん゛~</onomatopoeia>
+			<onomatopoeia id="10005fe0" x0="923" y0="591" x1="1450" y1="593" x2="1518" y2="704" x3="1370" y3="730" x4="1382" y4="637" x5="1103" y5="655" x6="1037" y6="731" x7="962" y7="731" x8="922" y8="653">がーん</onomatopoeia>
+		</page>
+		<page height="1170" index="94" width="1654">
+			<onomatopoeia id="10005fe1" x0="304" y0="279" x1="326" y1="280" x2="338" y2="307" x3="325" y3="313" x4="310" y4="294">がちゃ</onomatopoeia>
+			<onomatopoeia id="10005fe2" x0="192" y0="140" x1="231" y1="129" x2="274" y2="138" x3="295" y3="160" x4="284" y4="169" x5="245" y5="159" x6="204" y6="175">ぷいっ</onomatopoeia>
+			<onomatopoeia id="10005fe3" x0="300" y0="261" x1="325" y1="263" x2="338" y2="273" x3="333" y3="283" x4="322" y4="279" x5="304" y5="279">がちゃ</onomatopoeia>
+			<onomatopoeia id="10005fe4" x0="157" y0="624" x1="184" y1="613" x2="191" y2="641" x3="190" y3="659" x4="186" y4="669" x5="177" y5="671" x6="162" y6="646">ガチャ</onomatopoeia>
+		</page>
+		<page height="1170" index="95" width="1654">
+			<onomatopoeia id="10005fe5" x0="175" y0="951" x1="194" y1="951" x2="194" y2="989" x3="175" y3="989">ピク</onomatopoeia>
+			<onomatopoeia id="10005fe6" x0="909" y0="776" x1="951" y1="784" x2="991" y2="835" x3="984" y3="895" x4="959" y4="912" x5="919" y5="873" x6="908" y6="854">ひっ</onomatopoeia>
+			<onomatopoeia id="10005fe7" x0="194" y0="582" x1="238" y1="582" x2="238" y2="612" x3="194" y3="612">ぽっ</onomatopoeia>
+		</page>
+		<page height="1170" index="96" width="1654">
+			<onomatopoeia id="10005fe8" x0="1236" y0="67" x1="1355" y1="70" x2="1371" y2="143" x3="1356" y3="200" x4="1269" y4="228">ど</onomatopoeia>
+			<onomatopoeia id="10005fe9" x0="1491" y0="65" x1="1555" y1="67" x2="1580" y2="159" x3="1578" y3="190" x4="1535" y4="221" x5="1461" y5="200">どん</onomatopoeia>
+			<onomatopoeia_link1 id="11000387" link0="10005fe8" link1="10005fe9" />
+			<onomatopoeia id="10005fea" x0="1405" y0="930" x1="1441" y1="914" x2="1471" y2="956" x3="1449" y3="1015" x4="1424" y4="1015" x5="1405" y5="964">?</onomatopoeia>
+			<onomatopoeia id="10005feb" x0="190" y0="896" x1="246" y1="915" x2="288" y2="1007" x3="312" y3="1086" x4="236" y4="1102" x5="206" y5="1034" x6="186" y6="980">うふふ</onomatopoeia>
+			<onomatopoeia id="10005fec" x0="1347" y0="857" x1="1378" y1="850" x2="1370" y2="899" x3="1354" y3="904">?</onomatopoeia>
+			<onomatopoeia id="10005fed" x0="890" y0="711" x1="943" y1="688" x2="1006" y2="697" x3="1042" y3="729" x4="1020" y4="751" x5="958" y5="742" x6="913" y6="748">おおっ</onomatopoeia>
+			<onomatopoeia id="10005fee" x0="1377" y0="874" x1="1422" y1="894" x2="1399" y2="950" x3="1381" y3="939">?</onomatopoeia>
+			<onomatopoeia id="10005fef" x0="267" y0="499" x1="331" y1="445" x2="364" y2="436" x3="400" y3="437" x4="401" y4="725" x5="331" y5="741" x6="265" y6="726" x7="193" y7="636">ぞ</onomatopoeia>
+			<onomatopoeia id="10005ff0" x0="1507" y0="383" x1="1578" y1="386" x2="1581" y2="431" x3="1560" y3="479">ひっ</onomatopoeia>
+			<onomatopoeia id="10005ff1" x0="1327" y0="924" x1="1369" y1="922" x2="1392" y2="959" x3="1374" y3="1013" x4="1354" y4="1013" x5="1333" y5="956">?</onomatopoeia>
+		</page>
+		<page height="1170" index="97" width="1654">
+			<onomatopoeia id="10005ff2" x0="362" y0="758" x1="397" y1="756" x2="400" y2="801" x3="383" y3="816" x4="365" y4="792">ぎゅ</onomatopoeia>
+			<onomatopoeia id="10005ff3" x0="900" y0="83" x1="1090" y1="83" x2="1090" y2="123" x3="900" y3="123">ひょー</onomatopoeia>
+			<onomatopoeia id="10005ff4" x0="987" y0="584" x1="1031" y1="575" x2="1031" y2="596" x3="985" y3="601">るるるる</onomatopoeia>
+		</page>
+		<page height="1170" index="98" width="1654">
+			<onomatopoeia id="10005ff5" x0="454" y0="202" x1="516" y1="209" x2="545" y2="276" x3="468" y3="268">と</onomatopoeia>
+			<onomatopoeia id="10005ff6" x0="707" y0="200" x1="736" y1="202" x2="747" y2="240" x3="743" y3="270" x4="676" y4="267">ん</onomatopoeia>
+			<onomatopoeia_link1 id="11000388" link0="10005ff5" link1="10005ff6" />
+			<onomatopoeia id="10005ff7" x0="443" y0="304" x1="670" y1="306" x2="638" y2="436" x3="573" y3="426" x4="470" y4="449">どお</onomatopoeia>
+		</page>
+		<page height="1170" index="99" width="1654">
+			<onomatopoeia id="10005ff8" x0="932" y0="565" x1="1025" y1="543" x2="1054" y2="563" x3="1093" y3="599" x4="1081" y4="656" x5="1029" y5="658" x6="969" y6="644" x7="936" y7="629">がん</onomatopoeia>
+			<onomatopoeia id="10005ff9" x0="1054" y0="464" x1="1124" y1="447" x2="1204" y2="480" x3="1191" y3="559" x4="1136" y4="607" x5="1074" y5="585" x6="1048" y6="530">がん</onomatopoeia>
+			<onomatopoeia id="10005ffa" x0="905" y0="441" x1="984" y1="436" x2="1018" y2="474" x3="1055" y3="506" x4="1037" y4="557" x5="987" y5="567" x6="923" y6="560" x7="908" y7="551">がん</onomatopoeia>
+		</page>
+		<page height="1170" index="100" width="1654">
+			<onomatopoeia id="10005ffb" x0="1072" y0="767" x1="1117" y1="767" x2="1117" y2="1007" x3="1072" y3="1007">るー・・・</onomatopoeia>
+		</page>
+		<page height="1170" index="101" width="1654">
+			<onomatopoeia id="10005ffc" x0="553" y0="95" x1="584" y1="71" x2="614" y2="72" x3="614" y3="92" x4="612" y4="123" x5="590" y5="176" x6="579" y6="177" x7="562" y7="145" x8="553" y8="114">チャッ</onomatopoeia>
+			<onomatopoeia id="10005ffd" x0="141" y0="816" x1="165" y1="813" x2="172" y2="834" x3="170" y3="848" x4="155" y4="843">プッ</onomatopoeia>
+			<onomatopoeia id="10005ffe" x0="70" y0="981" x1="85" y1="984" x2="89" y2="1031" x3="87" y3="1073" x4="78" y4="1072">ツーツー</onomatopoeia>
+			<onomatopoeia id="10005fff" x0="58" y0="1026" x1="74" y1="1027" x2="75" y2="1102" x3="62" y3="1102">ツーツ</onomatopoeia>
+		</page>
+		<page height="1170" index="102" width="1654" />
+		<page height="1170" index="103" width="1654" />
+		<page height="1170" index="104" width="1654">
+			<onomatopoeia id="10006000" x0="692" y0="491" x1="722" y1="493" x2="722" y2="537" x3="713" y3="568" x4="702" y4="578" x5="691" y5="578" x6="681" y6="533">がちゃ</onomatopoeia>
+			<onomatopoeia id="10006001" x0="652" y0="67" x1="731" y1="71" x2="696" y2="188" x3="649" y3="305" x4="599" y4="332" x5="603" y5="269">ピンポーン</onomatopoeia>
+		</page>
+		<page height="1170" index="105" width="1654">
+			<onomatopoeia id="10006002" x0="710" y0="436" x1="733" y1="442" x2="724" y2="511" x3="707" y3="516">ん゛ーっ</onomatopoeia>
+			<onomatopoeia id="10006003" x0="1568" y0="141" x1="1587" y1="141" x2="1587" y2="186" x3="1568" y3="186">あー</onomatopoeia>
+			<onomatopoeia id="10006004" x0="1548" y0="159" x1="1573" y1="159" x2="1573" y2="206" x3="1548" y3="206">あー</onomatopoeia>
+		</page>
+		<page height="1170" index="106" width="1654">
+			<onomatopoeia id="10006005" x0="618" y0="416" x1="677" y1="416" x2="677" y2="445" x3="618" y3="445">ふふ</onomatopoeia>
+		</page>
+		<page height="1170" index="107" width="1654">
+			<onomatopoeia id="10006006" x0="252" y0="442" x1="276" y1="439" x2="282" y2="470" x3="282" y3="486" x4="266" y4="480">きゃっ</onomatopoeia>
+			<onomatopoeia id="10006007" x0="327" y0="544" x1="476" y1="544" x2="476" y2="622" x3="327" y3="622">ばんっ</onomatopoeia>
+		</page>
+		<page height="1170" index="108" width="1654">
+			<onomatopoeia id="10006008" x0="698" y0="685" x1="758" y1="685" x2="758" y2="753" x3="755" y3="784" x4="733" y4="781" x5="705" y5="739">だら</onomatopoeia>
+			<onomatopoeia id="10006009" x0="1218" y0="644" x1="1286" y1="623" x2="1301" y2="662" x3="1273" y3="673" x4="1237" y4="684">どた</onomatopoeia>
+			<onomatopoeia id="1000600a" x0="472" y0="879" x1="539" y1="895" x2="511" y2="994" x3="483" y3="993">だら</onomatopoeia>
+			<onomatopoeia id="1000600b" x0="727" y0="1019" x1="756" y1="1025" x2="757" y2="1092" x3="716" y3="1088">た</onomatopoeia>
+			<onomatopoeia id="1000600c" x0="687" y0="759" x1="720" y1="766" x2="753" y2="788" x3="735" y3="855" x4="689" y4="851">だら</onomatopoeia>
+			<onomatopoeia id="1000600d" x0="430" y0="792" x1="470" y1="796" x2="482" y2="819" x3="485" y3="832" x4="481" y4="848" x5="434" y5="848">だ</onomatopoeia>
+			<onomatopoeia id="1000600e" x0="639" y0="898" x1="687" y1="908" x2="671" y2="963" x3="644" y3="959">ら</onomatopoeia>
+			<onomatopoeia id="1000600f" x0="1341" y0="665" x1="1414" y1="647" x2="1432" y2="672" x3="1433" y3="692" x4="1402" y4="695" x5="1362" y5="703">どた</onomatopoeia>
+			<onomatopoeia id="10006010" x0="1195" y0="549" x1="1229" y1="541" x2="1263" y2="598" x3="1226" y3="618">どた</onomatopoeia>
+			<onomatopoeia id="10006011" x0="511" y0="686" x1="574" y1="688" x2="574" y2="718" x3="538" y3="788" x4="526" y4="780" x5="514" y5="752">だら</onomatopoeia>
+			<onomatopoeia id="10006012" x0="1225" y0="714" x1="1298" y1="704" x2="1308" y2="721" x3="1311" y3="740" x4="1249" y4="742">どた</onomatopoeia>
+			<onomatopoeia id="10006013" x0="683" y0="934" x1="756" y1="935" x2="747" y2="987" x3="694" y3="989">だ</onomatopoeia>
+			<onomatopoeia id="10006014" x0="524" y0="511" x1="563" y1="518" x2="625" y2="538" x3="625" y3="552" x4="552" y4="540" x5="534" y5="529">ひゅ~</onomatopoeia>
+			<onomatopoeia id="10006015" x0="464" y0="751" x1="519" y1="760" x2="524" y2="784" x3="526" y3="831" x4="518" y4="848" x5="491" y5="849" x6="475" y6="802">だら</onomatopoeia>
+			<onomatopoeia id="10006016" x0="642" y0="1027" x1="669" y1="1018" x2="704" y2="1035" x3="697" y3="1081" x4="645" y4="1073">だ</onomatopoeia>
+			<onomatopoeia id="10006017" x0="433" y0="1009" x1="501" y1="1016" x2="496" y2="1047" x3="479" y3="1104" x4="452" y4="1102">だら</onomatopoeia>
+			<onomatopoeia id="10006018" x0="1378" y0="699" x1="1416" y1="694" x2="1441" y2="726" x3="1439" y3="746" x4="1414" y4="746" x5="1385" y5="726">どた</onomatopoeia>
+			<onomatopoeia id="10006019" x0="477" y0="482" x1="540" y1="491" x2="592" y2="502" x3="589" y3="517" x4="524" y4="511" x5="489" y5="505">ひゅ~</onomatopoeia>
+			<onomatopoeia id="1000601a" x0="1318" y0="716" x1="1370" y1="712" x2="1392" y2="731" x3="1393" y3="743" x4="1364" y4="746" x5="1326" y5="745">どた</onomatopoeia>
+			<onomatopoeia id="1000601b" x0="225" y0="902" x1="267" y1="910" x2="271" y2="937" x3="266" y3="1053" x4="252" y4="1054" x5="232" y5="1013">きりりっ</onomatopoeia>
+		</page>
+		<page height="1170" index="109" width="1654">
+			<onomatopoeia id="1000601c" x0="946" y0="970" x1="1026" y1="983" x2="1023" y2="1000" x3="951" y3="992">おーっ</onomatopoeia>
+			<onomatopoeia id="1000601d" x0="1497" y0="930" x1="1529" y1="931" x2="1526" y2="1025" x3="1502" y3="1027">うっとり</onomatopoeia>
+			<onomatopoeia id="1000601e" x0="972" y0="994" x1="1004" y1="997" x2="1004" y2="1009" x3="979" y3="1013">ぱち</onomatopoeia>
+			<onomatopoeia id="1000601f" x0="1170" y0="1062" x1="1202" y1="1057" x2="1204" y2="1070" x3="1180" y3="1077">ぱち</onomatopoeia>
+			<onomatopoeia id="10006020" x0="442" y0="1036" x1="469" y1="1041" x2="459" y2="1081" x3="462" y3="1096" x4="447" y4="1100" x5="444" y5="1067">やけくそ</onomatopoeia>
+			<onomatopoeia id="10006021" x0="963" y0="1016" x1="984" y1="1016" x2="986" y2="1041" x3="979" y3="1045" x4="966" y4="1030">ぱち</onomatopoeia>
+			<onomatopoeia id="10006022" x0="951" y0="1040" x1="970" y1="1040" x2="983" y2="1061" x3="974" y3="1065" x4="951" y4="1054">ぱち</onomatopoeia>
+			<onomatopoeia id="10006023" x0="613" y0="340" x1="667" y1="340" x2="667" y2="498" x3="613" y3="498">ひえ~</onomatopoeia>
+			<onomatopoeia id="10006024" x0="1053" y0="798" x1="1081" y1="798" x2="1081" y2="815" x3="1053" y3="815">ふる</onomatopoeia>
+			<onomatopoeia id="10006025" x0="1071" y0="815" x1="1089" y1="807" x2="1098" y2="815" x3="1093" y3="825" x4="1074" y4="830">ふる</onomatopoeia>
+			<onomatopoeia id="10006026" x0="980" y0="1063" x1="997" y1="1064" x2="995" y2="1087" x3="989" y3="1091" x4="983" y4="1079">ぱち</onomatopoeia>
+			<onomatopoeia id="10006027" x0="1175" y0="1076" x1="1192" y1="1073" x2="1192" y2="1100" x3="1186" y3="1102">ぱち</onomatopoeia>
+			<onomatopoeia id="10006028" x0="513" y0="693" x1="545" y1="693" x2="545" y2="760" x3="513" y3="760">とほほ</onomatopoeia>
+		</page>
+		<page height="1170" index="110" width="1654" />
+	</pages>
+</book>

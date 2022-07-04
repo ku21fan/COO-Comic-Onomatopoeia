@@ -1,0 +1,31 @@
+_BASE_: "Base-COO.yaml"
+MODEL:
+  # WEIGHTS: ""
+  BACKBONE:
+    NAME: "build_fcos_resnet_bifpn_backbone"
+  BiFPN:
+    IN_FEATURES: ["res2", "res3", "res4", "res5"]
+    OUT_CHANNELS: 256
+    NUM_REPEATS: 2
+    NORM: "SyncBN"
+  RESNETS:
+    DEPTH: 50
+  FCOS:
+    # Best e2e: 0.5; Best det: 0.3
+    # INFERENCE_TH_TEST: 0.5
+    INFERENCE_TH_TEST: 0.3
+SOLVER:
+  IMS_PER_BATCH: 8
+  BASE_LR: 0.001
+  STEPS: (80000, )
+  MAX_ITER: 100000
+  CHECKPOINT_PERIOD: 5000
+DATASETS:
+  TRAIN: ("COO_train",)
+  TEST: ("COO_test",)
+INPUT:
+  MIN_SIZE_TEST: 800
+  MAX_SIZE_TEST: 1024
+TEST:
+  EVAL_PERIOD: 5000
+OUTPUT_DIR: "output/eval"

@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></head>
+    <body>
+        <div class="container">
+            <h1>Manga109 visualization with annotations</h1>
+            <hr>
+            <form method="POST" enctype="multipart/form-data">
+                <label>Manga name:</label>
+                <input type="text" name="manga_name" value="{{ manga_name }}" list="manga_list"> &nbsp&nbsp
+                <datalist id="manga_list">
+                    {% for manga in manga_list %}
+                    <option>{{ manga }}</option>
+                    {% endfor %}
+                </datalist>
+                <label>Page index:</label>
+                <input type="text" name="page_index" value="{{ page_index }}" list="page_list"> &nbsp&nbsp
+                <datalist id="page_list">
+                    {% for page in page_list %}
+                    <option>{{ page }}</option>
+                    {% endfor %}
+                </datalist>
+                <input type="submit" name="onomatopoeia" value="onomatopoeia"> &nbsp
+                <input type="submit" name="onomatopoeia_wo_text" value="onomatopoeia w/o text"> &nbsp
+                <input type="submit" name="image_only" value="image only"> <br>
+                <label>Image height:</label>
+                <input type="text" name="image_height" value="{{ image_height }}"> &nbsp&nbsp
+                <label>Font size:</label>
+                <input type="text" name="font_size" value="{{ font_size }}"> &nbsp&nbsp
+                <label>Top margin:</label>
+                <input type="text" name="top_margin" value="{{ top_margin }}"> &nbsp&nbsp
+                <label>Right margin:</label>
+                <input type="text" name="right_margin" value="{{ right_margin }}">
+            </form>
+            <h2>Results:</h2>
+            {% for annotated_image in annotated_image_list %}
+            <figure style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                <img src="{{ annotated_image }}" height="{{ image_height }}">
+                <figcaption>image path: {{ annotated_image }}</figcaption>
+            </figure>
+            <hr>
+            {% endfor %}
+        </div>
+    </body>
+</html>

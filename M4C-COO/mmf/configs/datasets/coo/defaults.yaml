@@ -1,0 +1,70 @@
+dataset_config:
+  coo:
+    # data_dir: ${env.data_dir}/datasets
+    data_dir: ./M4C_feature/
+    depth_first: false
+    fast_read: false
+    max_features: 100
+    use_images: false
+    use_features: true
+    features:
+      train:
+      - train_gt/data.lmdb
+      val:
+      - val_gt/data.lmdb
+      test:
+      - test_gt/data.lmdb
+    annotations:
+      train:
+      - train.txt
+      val:
+      - val.txt
+      test:
+      - test.txt
+    processors:
+      text_processor: # this is still needed for data processing part
+        type: bert_tokenizer
+        params:
+          tokenizer_config:
+            type: bert-base-uncased
+            params:
+              do_lower_case: true
+          max_seq_length: 3
+      answer_processor:
+        type: m4c_coo
+        params:
+          # vocab_file: textcaps/defaults/extras/vocabs/vocab_textcaps_threshold_10.txt
+          vocab_file: Onomatopoeia_train_vocab_set.txt
+          preprocessor:
+            type: simple_word
+            params: {}
+          context_preprocessor:
+            type: simple_word
+            params: {}
+          max_length: 50
+          max_copy_steps: 30
+          num_answers: 1
+      copy_processor:
+        type: copy
+        params:
+          max_length: 100
+      phoc_processor:
+        type: phoc
+        params:
+          max_length: 50
+      context_processor:
+        type: fasttext
+        params:
+          max_length: 50
+          model_file: model_300.bin
+      ocr_token_processor:
+        type: simple_word
+        params: {}
+      bbox_processor:
+        type: bbox
+        params:
+          max_length: 50
+    return_features_info: true
+    use_ocr: true
+    use_ocr_info: true
+    use_order_vectors: true
