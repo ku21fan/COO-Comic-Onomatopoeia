@@ -40,7 +40,8 @@ If you find this work useful for your research, please cite:
 Feel free to contact us if there is any question: Jeonghun Baek ku21fang@gmail.com
 
 ## License
-For the dataset, annotation data of COO is licensed under the [Creative Commons Attribution 4.0 International (CC-BY-4.0) license](https://creativecommons.org/licenses/by/4.0/), and image data from Manga109 is described [here](http://www.manga109.org/en/download.html). <br>
+For the dataset, annotation data of COO is licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). <br>
+The license of image data of Manga109 is described [here](http://www.manga109.org/en/download.html). <br>
 
 For the codes made by us: MIT. <br>
 After examining the licenses of original source codes of each method we used in our work, we found that the redistribution of source codes is permitted. <br>
