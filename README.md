@@ -26,7 +26,7 @@ For link prediction, we used M4C-COO (a variant of M4C) <br>
 <br>
 
 ## Citation
-If you find this work useful for your research, please cite:
+When using annotations of comic onomatopoeia dataset (COO) or if you find this work useful for your research, please cite our paper.
 ```
 @inproceedings{baek2022COO,
   title={COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts},
