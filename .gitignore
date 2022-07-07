@@ -2,6 +2,14 @@
 **/images/*
 **/vis/tmp*
 
+
+## ABCNetv2
+**/ABCNetv2_data/*
+**/demo_images/*
+**/demo_results/*
+**/output/*
+
+
 ## MTSv3
 **/MTSv3_data/*
 **/demo_images/*
@@ -32,7 +40,6 @@
 **/TRBA_data/*
 **/tensorboard/*
 **/saved_models/*
-**/data_CVPR2021/*
 **/image_release/*
 **/image_test/*
 **/result/*
@@ -49,7 +56,6 @@
 
 
 ## M4C-COO
-**/M4C_feature/emb_paper/*
 **/M4C_feature/emb/*
 **/save/*
 **/save_test/*
@@ -60,12 +66,6 @@
 *.bin
 *.vec
 
-
-## ABCNetv2
-**/ABCNetv2_data/*
-**/demo_images/*
-**/demo_results/*
-**/output/*
 
 
 *.log

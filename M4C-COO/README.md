@@ -16,7 +16,7 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 \
 pip install --editable .
 ```
 
-## Datasets
+## Dataset
 To train M4C-COO data, we need train/val/test gt annotation, fasttext model, and FRCN features.
 1. GT annotations of train/val/test are provided in [COO-data/M4C_feature folder](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/M4C_feature).
 2. Download fastText model [model_300.bin](https://www.dropbox.com/s/c0nzo2lgcm2epo1/model_300.bin?dl=0), then place it in [COO-data/M4C_feature folder](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/M4C_feature).

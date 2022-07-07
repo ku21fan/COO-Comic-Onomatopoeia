@@ -46,8 +46,8 @@ Install conda >= 4.11.0  (python >= 3.8) and then run following commands. <br>
   unset INSTALL_DIR
 ```
 
-## Datasets
-Run `data_for_MTSv3.ipynb` in the COO-data folder to make train/val/test data.
+## Dataset
+Run [data_for_MTSv3.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/data_for_MTSv3.ipynb) in the COO-data folder to make train/val/test data.
 
 ## Pretrained models
 Download the pretrained models in [Dropbox](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0)
@@ -68,7 +68,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python3 -m torch.distributed.launch --nproc_per_nod
 ```
 
 ## Evaluation
-### Check the config file (configs/best_test.yaml) for some parameters.
+### Check the config file ([configs/best_test.yaml](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/MTSv3/configs/best_test.yaml)) for some parameters.
 test dataset: ```TEST.DATASETS```;
 input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```
@@ -78,7 +78,7 @@ output directory: ```OUTPUT_DIR```
 CUDA_VISIBLE_DEVICES=0 python test_net.py --config-file configs/best_test.yaml MODEL.WEIGHT MTSv3.pth
 ```
 
-2. evaluation in COO_eval folder (check the path of `results_dir` in `script.py`)
+2. evaluation in COO_eval folder (check the path of `results_dir` in [script.py](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/MTSv3/COO_eval/detect_only/script.py))
 ```
 cd COO_eval/detect_only/
 python script.py

@@ -70,7 +70,7 @@ def visualization():
             range(int(page_index_list[0]), int(page_index_list[-1]) + 1)
         )
 
-        parser_anno_type = "preprocessed_data"
+        parser_anno_type = "annotations"
         annotation = manga109_parser.get_annotation(
             book=manga_name, annotation_type=parser_anno_type
         )

@@ -18,8 +18,8 @@ pip install opencv-python
 python setup.py build develop
 ```
 
-## Datasets
-Run `data_for_ABCNetv2.ipynb` in the COO-data folder to make train/val/test data.
+## Dataset
+Run [data_for_ABCNetv2.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/data_for_ABCNetv2.ipynb) in the COO-data folder to make train/val/test data.
 
 ## Pretrained models
 Download the pretrained models in [Dropbox](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0)
@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=1 python3 train_net.py --config-fil
 
 
 ## Evaluation (detection only)
-#### Check the config file (configs/eval.yaml) for some parameters.
+#### Check the config file ([configs/eval.yaml](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/ABCNetv2/configs/eval.yaml)) for some parameters.
 test dataset: ```DATASETS.TEST```;
 input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```

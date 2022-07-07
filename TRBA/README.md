@@ -17,8 +17,8 @@ pip install -r requirements.txt
 ```
 
 
-### Datasest
-Run `data_for_TRBA.ipynb` in the COO-data folder to make train/val/test data.
+### Dataset
+Run [data_for_TRBA.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/data_for_TRBA.ipynb) in the COO-data folder to make train/val/test data.
 
 ### Training
 1. Train TRBA model with SAR decoding
