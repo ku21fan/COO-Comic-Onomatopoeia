@@ -24,7 +24,7 @@ Following [the license of Manga109](http://www.manga109.org/en/download.html), t
 Thus, you should download the images of Manga109 via [Manga109 webpage](http://www.manga109.org/en/download.html). <br> 
 
 After downloading, unzip `Manga109.zip` and then move `images` folder of Manga109 into [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
-= We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for preprocessing. 
+We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for preprocessing. 
 
 
 #### Preprocessing for each model
