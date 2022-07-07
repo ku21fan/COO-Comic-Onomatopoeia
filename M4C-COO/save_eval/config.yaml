@@ -19,7 +19,7 @@ training:
   batch_size: 128
   batch_size_per_device: null
   update_frequency: 1
-  num_workers: 8
+  num_workers: 2
   fast_read: false
   dataset_size_proportional_sampling: true
   pin_memory: false
@@ -95,10 +95,10 @@ model_config:
       mmt_in_dim: 3972
       dropout_prob: 0.1
       remove_ocr_fasttext: false
-      remove_ocr_phoc: true
-      remove_ocr_frcn: true
+      remove_ocr_phoc: false
+      remove_ocr_frcn: false
       remove_ocr_semantics: false
-      remove_ocr_bbox: true
+      remove_ocr_bbox: false
     mmt:
       hidden_size: 768
       num_hidden_layers: 4
@@ -146,9 +146,9 @@ dataset_config:
               do_lower_case: true
           max_seq_length: 3
       answer_processor:
-        type: m4c_coo
+        type: m4c_answer
         params:
-          vocab_file: Onomatopoeia_train_vocab_set_5.txt
+          vocab_file: Onomatopoeia_train_vocab_set.txt
           preprocessor:
             type: simple_word
             params: {}
@@ -185,7 +185,7 @@ dataset_config:
     only_link_data: false
 datasets: coo
 model: m4c_coo
-config: default.yaml
+config: vocab11640.yaml
 run_type: test
 optimizer:
   allow_unused_parameters: false
@@ -216,7 +216,7 @@ distributed:
   no_spawn: false
 checkpoint:
   resume: false
-  resume_file: ./save/v100_kou_seed12/only_fastText/best.ckpt
+  resume_file: M4C-COO_vocab11640.ckpt
   resume_best: false
   resume_pretrained: false
   resume_zoo: null

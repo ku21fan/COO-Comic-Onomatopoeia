@@ -35,10 +35,18 @@ For link prediction, we used M4C-COO (a variant of M4C) <br>
 <br>
 
 ## Leaderboard
-We will list the results of SOTA methods that provide the official code.
+We will list the results of SOTA methods that provide the official code. <br>
+For the leaderboard, we report the performance of one pretrained model. <br>
+Note that we report the average value of three trials in our paper. <br>
+
 
 ### Text detection
-
+| Method | P | R | H | Official Code | Pretrained model |
+| ---  |    ---    |    ---      |    ---     |   ---      |    ---      |
+| DB (AAAI 2020) | 90.9 | 60.3 | 72.5 | [URL](https://github.com/MhLiao/DB) | [download](https://www.dropbox.com/s/b4zqiknn7i9kxqw/DB_pretrain_COO) | 
+| PAN (ICCV 2019) | 88.4 | 58.6 | 70.4 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/6vbc7m6o4695336/PAN_pretrain_COO.pth.tar) | 
+| MTSv3 (ECCV 2020) | 70.1 | 66.0 | 68.0 | [URL](https://github.com/MhLiao/MaskTextSpotterV3) | [download](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth) | 
+| ABCNetv2 (TPAMI 2021) | 67.2 | 65.1 | 66.1 | [URL](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText) | [download](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth) | 
 
 <br>
 

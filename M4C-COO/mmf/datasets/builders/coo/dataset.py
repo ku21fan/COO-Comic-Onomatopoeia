@@ -28,9 +28,7 @@ class COODataset(MMFDataset):
         sample_info = self.preprocess_sample_info(sample_info)
         current_sample = Sample()
 
-        # order 로 바로 학습시키기를 해보자!
         current_sample.link_order = sample_info["link_order"]
-
         current_sample.question_id = sample_info["question_id"]
 
         if isinstance(sample_info["image_id"], int):

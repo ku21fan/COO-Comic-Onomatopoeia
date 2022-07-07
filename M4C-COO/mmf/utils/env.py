@@ -13,7 +13,7 @@ import torch
 from omegaconf import OmegaConf, open_dict
 
 
-def set_seed(seed=21):  # 기본을 21로 두자.
+def set_seed(seed=21):  # default is 21
     if seed:
         # if seed == -1:
         #     # From detectron2

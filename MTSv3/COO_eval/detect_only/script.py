@@ -592,7 +592,7 @@ if __name__ == "__main__":
 
     ### for test set
     # results_dir = "../../best_model/test_bbox/inference/COO_test/model_best_170000_0.63071.pth_seg_results/"
-    results_dir = "../../best_model/test/inference/COO_test/model_best_95000_0.67925.pth_seg_results/"
+    results_dir = "../../best_model/test/inference/COO_test/MTSv3.pth_seg_results/"
     cache_dir = "./cache_files_test"
     gt_zip_file = "../gt_test.zip"
 

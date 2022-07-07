@@ -28,24 +28,35 @@ Run [data_for_TRBA.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob
 
 2. Train TRBA model with Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
    ```
-   CUDA_VISIBLE_DEVICES= python3 train.py --model_name TRBA --exp_name TRBA_Rot+SAR+HardROIhalf+2D \
+   CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name TRBA --exp_name TRBA_Rot+SAR+HardROIhalf+2D \
    --SARdecode --imgH 100 --twoD --train_data ../COO-data/TRBA_data/ --select_data lmdb/train-hardROI/train
    ```
 
 ### Evaluation
-1. Test TRBA model with Rotation trick + SAR decoding
+1. Evaluate TRBA model with Rotation trick + SAR decoding
    ```
    CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode \
    --saved_model saved_models/TRBA_Rot+SAR/best_score.pth
    ```
-2. Test TRBA model with Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
+2. Evaluate TRBA model with Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
    ```
    CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode --imgH 100 --twoD \
    --saved_model saved_models/TRBA_Rot+SAR+HardROIhalf+2D/best_score.pth
    ```
 
+3. Evaluate with pretrained model [TRBA_Rot+SAR.pth](https://www.dropbox.com/s/ztbwhhimd34dryx/TRBA_Rot%2BSAR.pth)
+   ```
+   CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode \
+   --saved_model TRBA_Rot+SAR.pth
+   ```
+4. Evaluate with pretrained model [TRBA_Rot+SAR+HardROIhalf+2D.pth](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth)
+   ```
+   CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode --imgH 100 --twoD \
+   --saved_model TRBA_Rot+SAR+HardROIhalf+2D.pth
+   ```
 
-<h3 id="pretrained_models"> Run demo with pretrained model (will be updated) <a href="https://colab.research.google.com/github/ku21fan/STR-Fewer-Labels/blob/master/demo_in_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> </h3>
+
+<h3 id="pretrained_models"> Run demo with pretrained model 
 
 1. [Download pretrained model](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0) <br>
 There are 2 different models of TRBA
@@ -56,12 +67,12 @@ There are 2 different models of TRBA
     TRBA_Rot+SAR+HardROIhalf+2D.pth | TRBA + Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
 
 2. Add image files to test into `demo_image/`
-3. Run demo.py with [TRBA_Rot+SAR.pth](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_Rot%2BSAR.pth)
+3. Run demo.py with [TRBA_Rot+SAR.pth](https://www.dropbox.com/s/ztbwhhimd34dryx/TRBA_Rot%2BSAR.pth)
    ```
    CUDA_VISIBLE_DEVICES=0 python3 demo.py --model_name TRBA --SARdecode \
    --image_folder demo_image/ --saved_model TRBA_Rot+SAR.pth
    ```
-   or run demo.py with [TRBA_Rot+SAR+HardROIhalf+2D.pth](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth)
+   or run demo.py with [TRBA_Rot+SAR+HardROIhalf+2D.pth](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth)
    ```
    CUDA_VISIBLE_DEVICES=0 python3 demo.py --model_name TRBA --SARdecode --twoD --imgH 100 \
    --image_folder demo_image/ --saved_model TRBA_Rot+SAR+HardROIhalf+2D.pth
@@ -69,7 +80,7 @@ There are 2 different models of TRBA
 
 
 #### prediction results
-| demo images | [TRBA_Rot+SAR](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_Rot%2BSAR.pth) | [TRBA_Rot+SAR+HardROIhalf+2D](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) |
+| demo images | [TRBA_Rot+SAR](https://www.dropbox.com/s/ztbwhhimd34dryx/TRBA_Rot%2BSAR.pth) | [TRBA_Rot+SAR+HardROIhalf+2D](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) |
 | ---         |     ---      |          --- |
 | <img src="./demo_image/LoveHina_vol14/1-0.jpg">    |   ババッ | ババッ   |
 | <img src="./demo_image/LoveHina_vol14/2-0.jpg">    |   カアッ・・・       | カアッ・・・        |

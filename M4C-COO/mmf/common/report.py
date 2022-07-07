@@ -166,7 +166,7 @@ class Report(OrderedDict):
                 continue
             if isinstance(self[key], torch.Tensor):
                 self[key] = torch.cat((self[key], report[key]), dim=0)
-            # 리스트도 연결하도록 추가해줌. link_order 랑 question_id 를 위해서.
+            # For list types. (for 'link_order' and 'question_id')
             if isinstance(self[key], list):
                 self[key] = self[key] + report[key]
 
