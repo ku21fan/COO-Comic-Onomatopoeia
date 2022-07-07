@@ -6,7 +6,7 @@ We hope that this work will facilitate future work on recognizing various types 
 <br>
 
 ## Dataset: COmic Onomatopoeia (COO)
-To facilitate future work, we provide the preprocessed annotation of the COO. <br>
+To facilitate future work, we provide the annotation of the COO. <br>
 
 ### Prerequisites: Download Manga109 images
 Following [the license of Manga109](http://www.manga109.org/en/download.html),  the redistribution of the image files of Manga109 data is not permitted. <br> 
