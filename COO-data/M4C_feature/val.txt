@@ -1,0 +1,890 @@
+BokuHaSitatakaKun_0			
+BokuHaSitatakaKun_1			
+BokuHaSitatakaKun_2	バラ バララララ ぎくっ ガクッ ピシャッ プル プル バラ くるん ガッシャン! ガラッ バラ バラ プル		
+BokuHaSitatakaKun_3	ザワ だっ だぁ~っ ザワ ゴクリ・・・ びくうっ たぁ~っ ズル ずどどっ ザワ ズル		
+BokuHaSitatakaKun_4	パタ ガラッ ホッ ピシッ パタ ほおお おおお トタ ゆら~り トタ ずてえっ パタ トタ カチャッ		
+BokuHaSitatakaKun_5	ズズズ・・・ くりっ ドス ポキッ かくん ちょいや~っ クキッ くりっ コキッ フン! ドス ドス ふ~っ ジタ バタ	ジタ バタ	13 14
+BokuHaSitatakaKun_6	ぴく ガラッ パタ スッ がくっ ぴく だああっ イラ パタ パタ イラ		
+BokuHaSitatakaKun_7	わはははは ズザザザザ シュウ~ッ どわっ ボコン! プル むくっ しゅっ プル プ~ッ パラ びた~ん! パラ パラ くるっ が くっ だ ん! ず ん!	が くっ s だ ん! s ず ん!	15 16 s 17 18 s 19 20
+BokuHaSitatakaKun_8	ゆら~り ズン! トテ ドドドドドド ズン! トテ トテ ズン! ズン! ダ ッ!	ダ ッ!	9 10
+BokuHaSitatakaKun_9	シィーッ コツ どよよよ! ザワ ガヤ ガタ ガヤ ガヤ ずるっ コツ ワイ ガヤ コツ ガラッ ガタ ガヤ ザワ ザワ ワイ		
+BokuHaSitatakaKun_10	パチ がくっ ザワ パチ グリ ザワ パチ ざわざわ コホン! パチ パチ グリ わ~っ! ずるっ パチ ピイ~ッ ザワ パチ パチ		
+BokuHaSitatakaKun_11	ボソ コソ ニコ ザワ ザワ ニコ ボソ・・・ ボソ がたっ! コソ シィ~ッ! どん! あははは ザワ		
+BokuHaSitatakaKun_12	くるっ ずう~ん ハーイ! カタッ エヘン エヘン ザワ あ~っ!! え~ん ザワ が たっ	が たっ	10 11
+BokuHaSitatakaKun_13	ピク だあ~っ パン! ズドオ ガサ ゼエ チッ ない ハア ドコーン ピク パン! ガサ ない だ ピラッ チッ だだ ゼエ ハア だだ		
+BokuHaSitatakaKun_14	バキッ ヨロ ヨロ ズン! ばっ ドカ		
+BokuHaSitatakaKun_15	あはっ シッ わい とお! スタッ オド はっ ささっ ほおお~っ オド わい むん わい シッ ガッキィ ~ン!	ガッキィ ~ン!	14 15
+BokuHaSitatakaKun_16	トン! ハア ゴロ ゴロ ハア ばばっ ぴくっ ハア ぶわっ ひえっ ひらり ゴロ ハア ゴロ くるり ドカッ たっ ハア ガスッ ひっ わっ ザン! ズドッ どわ~っ!! ドスッ ひらり		
+BokuHaSitatakaKun_17	ゆら~ ~ ~り ビシッ ぴく ガヤ ドカ バキ ぴく ピシャッ ガヤ ガヤ バシッ ドッキューン! ぴく ガラッ どどどどど ズン! ざわわっ ガラッ だ あ~ ~っ ボ ロ・・・	ゆら~ ~ ~り s だ あ~ ~っ s ボ ロ・・・	0 1 2 s 20 21 22 s 23 24
+BokuHaSitatakaKun_18	あははっ ぶっ ぬうっ ガヤ クチャ んばっ どん! ガヤ あっはっはっ ガヤ ドコーン! クチャ プウ~ ~ッ	プウ~ ~ッ	12 13
+BokuHaSitatakaKun_19	ズボオッ パラ グイッ パラ ぴく はっはっはっ みしっ だだっ ぴく ボッ ぐらっ・・・		
+BokuHaSitatakaKun_20	ドサ スッ ドサ ゴミ わさ ペッペッ わさ ゴバア! うにょ ぐわ~っ ゴミ わさ バラ うにょ ペッ! ぶっ! バラ バラ ドサ ドサ バラ ガサガサ おわあ ~っ うっぎゃ あ~ ~っ!!	おわあ ~っ s うっぎゃ あ~ ~っ!!	22 23 s 24 25 26
+BokuHaSitatakaKun_21			
+BokuHaSitatakaKun_22	ポイッ ザワ コロ うっへえ~っ ザワ あはは あははっ ザワ コロ ザワ コロ キャッ だん! どん! カチッ キャッ おりゃ あ!! おお ~っ	おりゃ あ!! s おお ~っ	16 17 s 18 19
+BokuHaSitatakaKun_23	ドタ プイ がたっ プイ だんっ! モク くるっ シュボッ だだだだ ドタ ふ~ モク ピシッ すとっ ドタ どんっ モク わ~っ		
+BokuHaSitatakaKun_24	カリ プイ! みしっ・・・ パチ チッ カリ がたっ バッ! パチ カリ パチ どっ ひらり パチ どかっ ずびっ! お ーっ!	お ーっ!	16 17
+BokuHaSitatakaKun_25	ガヤ ほおおお ワイ シャキッ! スタタ タタ ワイ ワイ ガヤ ザワ ザワ どおお~ん! ザワ やんや ガヤ やんや シリリリリ・・・ べしゃっ キャ~ ~ッ	キャ~ ~ッ	18 19
+BokuHaSitatakaKun_26	ぎくっ やんや おお~っ ザワ タン! バン! シャキーン ザワ やんや ビシイッ! おお~っ ストッ		
+BokuHaSitatakaKun_27	ははは どん! わぁ~っ た~ん! ははは おおお! バン! ザシッ あはは だぁ~っ!		
+BokuHaSitatakaKun_28	トン トン トン		
+BokuHaSitatakaKun_29	パタン トン! がばっ は~い カチャッ ド サッ	ド サッ	5 6
+BokuHaSitatakaKun_30	カクン スチャッ あわわ・・・ ぐわらっしゃん コツン ビシッ ずしゃっ カク カクン カクン カクン スチャッ カク グラ グラ カクン グラ カクン グラ		
+BokuHaSitatakaKun_31	トン! カツーン カツーン カツーン パタン カツーン ス タ ン	ス タ ン	6 7 8
+BokuHaSitatakaKun_32	ぐらっ ザワ キャッ パン ガヤ とっ がばっ パン ザワ ははっ ガクン ザワ ガヤ ザワ ぶっ ヨロッ キャッ はっ ブラーン ドバ~ン! てへっ ザワ ガヤ ひえ えっ	ひえ えっ	23 24
+BokuHaSitatakaKun_33	カタ ブラ プル カタ プル がしゃっ ざわ ググ ブラ ざわ バッ カタ ざわ プル パチ シュビッ パチ グググ パチ カツ ーン カ ツーン き りっ カツー ーン	カツ ーン s カ ツーン s き りっ s カツー ーン	19 20 s 21 22 s 23 24 s 25 26
+BokuHaSitatakaKun_34	ヨロ ヨロ ガク プル ガク ゲラ ピョン プッ キャアア トッ ピョン ガク クス クス ゲラ ビシィ! ギャアア たじっ プル バァン! あははっ だああっ あっさり! ドカッ トッ ドン バタ~ン! グ ラッ	グ ラッ	27 28
+BokuHaSitatakaKun_35			
+BokuHaSitatakaKun_36	パタ グイーン ぷぷ リリ・・・ コツ パタ カチャッ カチッ ガラッ チン! バッ パタ がた~ん ジリリリ コツ ぷ・・・ だあ ~っ だあ あっ!	だあ ~っ s だあ あっ!	16 17 s 18 19
+BokuHaSitatakaKun_37	パヤ エヘン! バラ ワイ ガヤ ひょい バラ ガラ バラ ガコン! ガラ バラ ガヤ はぶっ バラ ワイ パヤ どん !	どん !	17 18
+BokuHaSitatakaKun_38	ガシャッ どばっ プイ どば カタッ		
+BokuHaSitatakaKun_39	は もっ がぼっ ドドドドド しこたまっ スッ ゴワン!	は もっ	0 1
+BokuHaSitatakaKun_40	ゴキュッ スッ スッ ゴキュッ ビチャッ プル じゅるじゅる ボコッ ゴキュッ プル プル あはは グッ プル トン ゴキュ トン いやあ~っ ブスッ ぷーっ!! ゴキュッ あたた・・・ じゅるじゅる む にっ ちゅるる るん! プハ~ ~ッ	む にっ s ちゅるる るん! s プハ~ ~ッ	23 24 s 25 26 s 27 28
+BokuHaSitatakaKun_41	うおっ ホン!! ガ タッ グホッ! ピ~ッ チッ スッ プル プル ゴロ ゴソ だぁ~っ ゴホッ! お~い スラッ ゲホッ! ゴロ ゴロ ゴロ スッ ? チャポン! じゅるじゅる プル バシャ じゅるるる もしゃ もしゃ ゴソ ストン サ ッ	ガ タッ s サ ッ s うおっ ホン!!	2 3 s 31 32 s 0 1
+BokuHaSitatakaKun_42			
+BokuHaSitatakaKun_43	ハア ハア ハア ドカ ずてえっ ザッ ドカ ズン! バシッ バシッ ギロッ ザッ ヒュン ドカ ザッ ヒュン ぶわ っ! つ るっ	つ るっ s ぶわ っ!	18 19 s 16 17
+BokuHaSitatakaKun_44	ひゃっほ~っ そわ シュワ~ッ ボソ わ~っ ボソ そわ		
+BokuHaSitatakaKun_45	ギョロッ シュルルルルン ヒク ヒク ピタッ わぁ~はっはっ ビシッ ヒク ぴゅうっ		
+BokuHaSitatakaKun_46	パ ラッ ピンポーン! ガラッ シャーッ ずるっ ビヒョ オオオ	パ ラッ s ビヒョ オオオ	0 1 s 6 7
+BokuHaSitatakaKun_47	あた ふた ドッキュ ~ン! ダッ シュ !! ずてえっ バッ ガラッ トン! スチャッ スポッ	あた ふた s ドッキュ ~ン! s ダッ シュ !!	0 1 s 2 3 s 4 5 6
+BokuHaSitatakaKun_48	スコン カクッ ガタン スコン ピキーン・・・ スコン ボク パシッ がくっ ドタン うお バッ ボク ダダ クルッ バタン おお ガツ がくっ ダダダダ ジャキン! ガツ ガタン ボク ドタン おお ガツ バタン ピ タッ	ピ タッ	28 29
+BokuHaSitatakaKun_49	ガラッ しず! しず! しず!		
+BokuHaSitatakaKun_50	ホク やったあ!! バッ スッ ホク くるっ パシッ きりっ		
+BokuHaSitatakaKun_51	ゆら ~り カタッ カタッ ぬうっ ささっ カタ バッ! さっ カタッ チャリーン! じり・・・ カタ ウリ ささっ カタ ウリ スッ チャリーン!	ゆら ~り	0 1
+BokuHaSitatakaKun_52	う~ おーっ パチ ガヤ パチ パチ ガタン パチ パチ ガシャ~ン! パチ ワイ パチ パチ ははっ ぴくっ ズドーン ワイ ガヤ カ ー ーン	カ ー ーン	19 20 21
+BokuHaSitatakaKun_53	ザッ パチ のっし おおっ ザワ ワン! パチ ワー ザッ どよよっ! おーっ! ザワ ザッ ボソ ボソ ザワ パチ パチ パチ のっし ボソ ボソ コホン パチ ガル ルル・・・	ガル ルル・・・	24 25
+BokuHaSitatakaKun_54	ワン グルルル・・・ ザワ ウロ ワン ザッ すぱぁん! ザワ カッ ダダダダ バチッ ザッ ザワ バチ ザワ カッ どっ ザワ ウロ ウロ ワン! ウロ ザワ カッ うぷっ		
+BokuHaSitatakaKun_55	わ~っ! パチ パチ ピョン わわ~っ! コロ ひええ~っ! キコ コロ トン! ストッ どひゃあ! パァン! コロ パチ ババッ いよーっ! うおお~っ! しゅっ ピョン ウオオオン! キコ パチ おーっ! キコ ビシ イッ!!	ビシ イッ!!	25 26
+BokuHaSitatakaKun_56			
+BokuHaSitatakaKun_57	コツ フーッ ワイ ワイ くるっ だだだ ヨタ だだ コツ オホホホ ヨタ ハア ヨタ ずてえっ フウ ワイ ず ん! だあ ~っ!	ず ん! s だあ ~っ!	16 17 s 18 19
+BokuHaSitatakaKun_58	バアン! ドカ ザワ ガヤ だあ~っ!! はぁっ ぬああ ガヤ ドバン! ガヤ バン! ズガン うばん! ペッ ドカ バビン! ザワ ドカ びったあ~ん! ペッ ドカ ドカ バッ! ドバン ザワ あああ ザワ バ ッ	バ ッ	27 28
+BokuHaSitatakaKun_59	ぐいっ ずし・・・ ガラッ ダン! すとっ せっせ ピシッ せっせ うわ~ん ずう~ ~ん ふい ~っ	ずう~ ~ん s ふい ~っ	9 10 s 11 12
+BokuHaSitatakaKun_60	トン トン ずて えっ	ずて えっ	2 3
+BokuHaSitatakaKun_61	ぬら~っ ぱん! むに~っ プル ぐしゃっ! ぐしゃっ! ぐしゃっ プル プル バア~ ~ン!	バア~ ~ン!	9 10
+BokuHaSitatakaKun_62	バチ ガラッ バチ バチ バチ たっ ワー バシッ びしゃっ! ブチッ バタ バシッ むん! バタ ビシッ ヒュン ビシッ ヒュン ドバン サッ ヒュン はっ バチ バタ ワー バチ けり ゃ!! スパ ーン びぼ ~っ	スパ ーン s けり ゃ!! s びぼ ~っ	28 29 s 26 27 s 30 31
+BokuHaSitatakaKun_63			
+BokuHaSitatakaKun_64	わーっ ずるっ くらっ ガタ ガタッ ガタッ		
+BokuHaSitatakaKun_65	ゾロ わー わー フウ オロ ドタン オロ ハア オロ バタン ゾロ		
+BokuHaSitatakaKun_66	ガタ プツン オホホッ ガタ バタ~ン ガラッ シッ ガラッ シッ ガタ ピシャッ ウ~ッ シャキッ ウ~ ッ	ウ~ ッ	13 14
+BokuHaSitatakaKun_67	びたあ~ん ざわわっ ザッ ザッ ハア ザッ ヒイ ハア		
+BokuHaSitatakaKun_68	ずるう~っ! パタ モク ぴたっ ズズッ だあ~っ! だだだ ずずっ パタ ずずっ だだ ザザ~ッ! モク パタ ズ ズズ・・・ モク		
+BokuHaSitatakaKun_69	どど ウ~ わさ ウ~ッ くるっ ゴホッ だあ~っ! くるっ わさ ウ~ ウ~ッ どど わさ だあ~っ! ウ~ッ ゴホッ がびーん ザワ だああっ ずどどどっ ザワ		
+BokuHaSitatakaKun_70			
+BokuHaSitatakaKun_71	キャッ はは ドヤ キャッ どた ワイ カチャッ ドヤ カリ ガヤ あははは ワイ バタ カリ どた バタ カリ きゃはは どた ガヤ		
+BokuHaSitatakaKun_72	ずるうっ ビッ ぱたっ カチッ きりり コホン パサッ バッ ゴロン く わ	く わ	9 10
+BokuHaSitatakaKun_73	シッ ザワ ザワ シッ ザワ ガラガラ・・・ ザワ バァ~ン! ザワ		
+BokuHaSitatakaKun_74	ずどどっ わーっ ふわっ ゴオオオ わーっ しん みり バ ツ	しん みり s バ ツ	5 6 s 7 8
+BokuHaSitatakaKun_75	がばっ プル ザワ ザーッ ザワ ザワ プル プシュウ~ッ がばっ シュウ~ ~ッ	シュウ~ ~ッ	9 10
+BokuHaSitatakaKun_76	ガタ ハア ザワ ガタ ザワ ふわっ ハア バラ ブル ポイ ポイ ゴトッ ザワ バラ ス~ッ ハア ガタ ブル ザワ ザワ ポイ バッ ポイ シーン バラ ビュウー ーッ	ビュウー ーッ	25 26
+BokuHaSitatakaKun_77			
+BokuHaSitatakaKun_78	キャッ カキ がくっ カキ ささっ キャッ ずるっ ガ タッ	ガ タッ	7 8
+BokuHaSitatakaKun_79	ガラ つか ガラ・・・ ぴゅるる すー ボリ ボリ つか つか ぴょん! ザ シャア	ザ シャア	10 11
+BokuHaSitatakaKun_80	ヘラ バン ペタ オン ヴワアオン バン! フォン フォーッ パッパ~ン うわぷ バン ヘラ ぶわっ ペタ いきなりっ ビ シッ	ビ シッ	15 16
+BokuHaSitatakaKun_81	ドドドドドド ボボボボ カチッ キキキキ ガオオオオ ドドドドド ドヒュン バッ ヒョ~ン	バッ ヒョ~ン	7 8
+BokuHaSitatakaKun_82	どわ~ ~っ キリ ハハハ ススス・・・ ガチッ バシッ ジャキ~ン ドドドド ドオオオ シャッ シャッ バア~ン ドシュッ! ヒュルルル・・・ キャハハ カチッ カクッ キリ オオ キリ ガチョーン ザバアン! ぐ わ だあ ~っ	ぐ わ s どわ~ ~っ s だあ ~っ	23 24 s 0 1 s 25 26
+BokuHaSitatakaKun_83	ばっ! バン! ザワ スッ バラッ! ガチャ バシュッ グリ ギリ ギリ ストッ ザバァッ ギリ ギャアア!! ドバアン! ドドドドド ザワ ジャキッ ガチャッ ザワ キキキキキキ バン! ピン! グリ トッ パ チッ わっは っはっ	パ チッ s わっは っはっ	25 26 s 27 28
+BokuHaSitatakaKun_84	たっ ガラッ ガシャ チュン たっ チュン チュン ガシャ たっ ガシャ ガラッ		
+BokuHaSitatakaKun_85	ふわ ぷか ふわ ぷか ぷか ふわっ ず るっ	ず るっ	6 7
+BokuHaSitatakaKun_86	ふふ がこっ ワイ あははっ ワイ へえ~っ ワイ ふふふ		
+BokuHaSitatakaKun_87	キャー ーッ ガラッ ドサ ドサ ガヤ パクン ガヤ ガヤ ドサ さっ ぬべ~っ ガヤ おー ー ーっ!	キャー ーッ s おー ー ーっ!	0 1 s 13 14 15
+BokuHaSitatakaKun_88	いちゃ だだ ワイ ワイ チッ ぴゅうっ キャッ ぴく だだ いちゃ ? くるっ キャッ だん! ワイ チッ いちゃ ぐ しっ	ぐ しっ	17 18
+BokuHaSitatakaKun_89	ずか だあ~っ! ずか ずか ぐし ゃっ!	ぐし ゃっ!	4 5
+BokuHaSitatakaKun_90	コクン ワイ キョロ ピーッ ガヤ ワイ ワイ ガヤ キョロ どどどど プル ぶつ ガヤ ぶつ プル ピーッ プル		
+BokuHaSitatakaKun_91	カン ウ~ カン だっ ボコッ カン ウ~ ウ~		
+BokuHaSitatakaKun_92	だっ ピシャッ ガラッ ビシッ だあー ーっ	だあー ーっ	4 5
+BokuHaSitatakaKun_93	ずる うっ どてっ パチ そお~っ ワナ パチ プル プル ふう~ん パチ ワナ	ずる うっ	0 1
+BokuHaSitatakaKun_94	ゴロン がばっ ずしゃっ! ぴく ザワ ザワ ぴく ドッキュ~ン! ぴく		
+BokuHaSitatakaKun_95	はは ガラッ ぶわは はは ずん!		
+BokuHaSitatakaKun_96	ドカッ パタ バブ しっ ばぶっ パタ ズドン! ポッ プシュ ~ッ	プシュ ~ッ	8 9
+BokuHaSitatakaKun_97	ドド とて がばっ とて ドカン! バシッ とて ガシャーン わーい ドドド チャ ッ!	チャ ッ!	10 11
+BokuHaSitatakaKun_98			
+HinagikuKenzan_0			
+HinagikuKenzan_1			
+HinagikuKenzan_2			
+HinagikuKenzan_3	フッ クス スッ		
+HinagikuKenzan_4	はぁ ぜぇ		
+HinagikuKenzan_5	はぁ		
+HinagikuKenzan_6	わあー		
+HinagikuKenzan_7	コト・・・		
+HinagikuKenzan_8	あらぁ		
+HinagikuKenzan_9	すっ でーん サワ・・・		
+HinagikuKenzan_10	ぎ ょ ぐゎ し!!	ぎ ょ s ぐゎ し!!	0 1 s 2 3
+HinagikuKenzan_11	ふん ぐる		
+HinagikuKenzan_12	ふいっ どん ばく		
+HinagikuKenzan_13			
+HinagikuKenzan_14	ポン		
+HinagikuKenzan_15			
+HinagikuKenzan_16	ボーン ボーン		
+HinagikuKenzan_17			
+HinagikuKenzan_18			
+HinagikuKenzan_19	ガラガラガラガ ギシ ラ ギギ・・・ パンッ		
+HinagikuKenzan_20			
+HinagikuKenzan_21			
+HinagikuKenzan_22			
+HinagikuKenzan_23			
+HinagikuKenzan_24			
+HinagikuKenzan_25	ぐす・・・		
+HinagikuKenzan_26	すととと ぐる		
+HinagikuKenzan_27	コンコン		
+HinagikuKenzan_28	しょぼ..		
+HinagikuKenzan_29			
+HinagikuKenzan_30			
+HinagikuKenzan_31	キョロ とことことことことことこ とことことことことことこと キョロ ずざざ! キョロ		
+HinagikuKenzan_32	ぐうー はっ ぎゅるるー コンコン コン		
+HinagikuKenzan_33			
+HinagikuKenzan_34	ぶ		
+HinagikuKenzan_35	たたたー		
+HinagikuKenzan_36			
+HinagikuKenzan_37	は・・・・ むう・・・ んー		
+HinagikuKenzan_38	あー		
+HinagikuKenzan_39			
+HinagikuKenzan_40			
+HinagikuKenzan_41			
+HinagikuKenzan_42			
+HinagikuKenzan_43			
+HinagikuKenzan_44			
+HinagikuKenzan_45			
+HinagikuKenzan_46			
+HinagikuKenzan_47	くす・・		
+HinagikuKenzan_48			
+HinagikuKenzan_49	おー		
+HinagikuKenzan_50	うりゃあ		
+HinagikuKenzan_51			
+HinagikuKenzan_52			
+HinagikuKenzan_53			
+HinagikuKenzan_54	ぴた・・・ もん もん	もん もん	1 2
+HinagikuKenzan_55	うわっ すく ぼそ・・・ ぼけー		
+HinagikuKenzan_56			
+HinagikuKenzan_57	ずるずる		
+HinagikuKenzan_58			
+HinagikuKenzan_59	ぺこり とぼとぼとぼ		
+HinagikuKenzan_60	バサッ すっ		
+HinagikuKenzan_61			
+HinagikuKenzan_62			
+HinagikuKenzan_63	ガサッ ガタ・・・		
+HinagikuKenzan_64	はぁ・・・ キョロ キョロ		
+HinagikuKenzan_65	だー さっ		
+HinagikuKenzan_66	ふう・・・		
+HinagikuKenzan_67			
+HinagikuKenzan_68			
+HinagikuKenzan_69	チュン チュン チュン はあ・・・		
+HinagikuKenzan_70	ぴょん		
+HinagikuKenzan_71	フゥ ぴた きょろ きょろ きょろ		
+HinagikuKenzan_72	きょとん		
+HinagikuKenzan_73	キュー きゅう♡ らんら らん	らんら らん	2 3
+HinagikuKenzan_74	キュ~ キュ~		
+HinagikuKenzan_75	ぱく はあ・・・ ガラガラ ガラ ふう・・・		
+HinagikuKenzan_76	ニコ ニコ		
+HinagikuKenzan_77	あ ガラッ		
+HinagikuKenzan_78			
+HinagikuKenzan_79			
+HinagikuKenzan_80	ば ばたじた		
+HinagikuKenzan_81			
+HinagikuKenzan_82	きぃぃ		
+HinagikuKenzan_83	フン		
+HinagikuKenzan_84	ピンポ~ン プン さっ つー!!! プン		
+HinagikuKenzan_85	ポン つう~		
+HinagikuKenzan_86	ぴょ~		
+HinagikuKenzan_87			
+HinagikuKenzan_88			
+HisokaReturns_0			
+HisokaReturns_1			
+HisokaReturns_2			
+HisokaReturns_3	ざわ わい わい ざわ ガラッ ざわ ざわ ざわ わい ガタン ざわ ざわ ピタッ ざわ シー・・・ン わはは		
+HisokaReturns_4	びく びく みー はっ ビクッ ほーれ みーっ ととっ		
+HisokaReturns_5	パタン わい パタ パタ わはは わい パタ ガラッ わい バタン コツ どき わい どき ブォーン わい ッ どき どき ガラッ わい わい コツ ざわ ざわ プアーン ポン わい		
+HisokaReturns_6	ざわ ぽろ しく しく しく ぽろ ざわ		
+HisokaReturns_7	パチ パチ ざわ こく パチ パチ パチ ざわ プァン パチ パチ パチ ほおーっ こく ざわ		
+HisokaReturns_8	どんっ わい わい わい わい わい わい わい キーン コーン		
+HisokaReturns_9	プアン パァーン ブーッ どき どき プァン ぐい ブォォン チリーン・・		
+HisokaReturns_10			
+HisokaReturns_11	よろっ ゴト		
+HisokaReturns_12	なで ぐすん なで		
+HisokaReturns_13	ダッ ゴォォォォオオ ゴオオオオ		
+HisokaReturns_14	オォォォォォオ		
+HisokaReturns_15			
+HisokaReturns_16	へっくし ? むっ ずずっ		
+HisokaReturns_17			
+HisokaReturns_18	ポッ・・・・ ザッ		
+HisokaReturns_19	わい ざわ ざわ ガタ ガタン ざわ ガタ ガタ わい ガタ ! キーン コーン		
+HisokaReturns_20	ざわ みー ざわ ざわ ざわ パキ ざわ ざわ バン		
+HisokaReturns_21	みー はーっ ザー がばっ くわー ザー		
+HisokaReturns_22	みー ぐっ ガタン ぶる みー バシャ ぶる しょっ べこん		
+HisokaReturns_23	ひしっ ズルッ くらっ		
+HisokaReturns_24	すり ! がしっ すり		
+HisokaReturns_25	バシャ バシャ ぶわ バン		
+HisokaReturns_26	ごろん くわー		
+HisokaReturns_27			
+HisokaReturns_28	~む ふあ		
+HisokaReturns_29	キーン コーン		
+HisokaReturns_30	ゴロン パタン		
+HisokaReturns_31	ひんやり		
+HisokaReturns_32			
+HisokaReturns_33	そわ バン ピンポーン そわ		
+HisokaReturns_34	! !! バン		
+HisokaReturns_35	ははは ガサ じろり ガサ		
+HisokaReturns_36	ととと ぎゅっ		
+HisokaReturns_37			
+HisokaReturns_38	パ ン	パ ン	0 1
+HisokaReturns_39			
+HisokaReturns_40	がばっ トン トン むか むか ぱち ぱく ぽかん ! ぱく むか		
+HisokaReturns_41	ちぇ へへっ		
+HisokaReturns_42	ほほほ うつら へくしっ うつら ガチャ ? ザーッ バタン こく こく		
+HisokaReturns_43	トン トン ずずーっ トン トン トン ピンポーン		
+HisokaReturns_44	パタ パタ バン		
+HisokaReturns_45	バッ ぐわっ		
+HisokaReturns_46	ゴパァ ン ゴト・・	ゴパァ ン	0 1
+HisokaReturns_47	キイ そーっ ! チュン ガチャ チュン		
+HisokaReturns_48	カツ チリーン カツ		
+HisokaReturns_49	ガッ チラ		
+HisokaReturns_50			
+HisokaReturns_51	ざわ ざわ ざわ いそ いそ キーン コーン		
+HisokaReturns_52	ざん みー すり たたた みー すり キーン コーン		
+HisokaReturns_53	バキ バキ ドカ ぐいっ ブン ? みー ぐい たたたたた		
+HisokaReturns_54	はーっ はーっ はーっ はーっ ブォン だだだだだ ドカ バキ はーっ はーっ はーっ ブォオン ブオン みー ド ン	ド ン	14 15
+HisokaReturns_55	チラッ はーっ はく チラッ はく ぬっ たたたた ザッ ザッ はーっ		
+HisokaReturns_56	みー ギュゥン バゥン ガ ン ゴ ン	ガ ン s ゴ ン	3 4 s 5 6
+HisokaReturns_57	とぼ とぼ		
+HisokaReturns_58	どん		
+HisokaReturns_59			
+HisokaReturns_60	みー		
+HisokaReturns_61	おおっ ぶわっ ずるーっ		
+HisokaReturns_62	くるっ ブォーン ププーッ プアン		
+HisokaReturns_63			
+HisokaReturns_64	ぐっ みー ! ブオン みー バッ ブォン ガァ アアアア	ガァ アアアア	7 8
+HisokaReturns_65	ぎゅっ がしっ ビクッ ぐっ・・ ぴょーん ブァァ ァン	ブァァ ァン	5 6
+HisokaReturns_66	みー みー ププッ ブァン すっ たっ ブァン ブォン		
+HisokaReturns_67	どん みー どん ぺたん パ ン	パ ン	4 5
+HisokaReturns_68	ぐいっ すっ		
+HisokaReturns_69			
+HisokaReturns_70	! ドサ・・		
+HisokaReturns_71	ス ルン もぞ	ス ルン	0 1
+HisokaReturns_72	スゥーッ		
+HisokaReturns_73	はっ さーっ ダッ わい キョロ すうーっ わい ビコ ビコ わい あせっ わい ビコ キョロ むく ビコ ビコン ペチャ クチャ ペチャ クチャ	ペチャ クチャ s ペチャ クチャ	17 18 s 19 20
+HisokaReturns_74	ぐすん たっ ダッ あう~ ポン		
+HisokaReturns_75	チラ タタタ かぱ		
+HisokaReturns_76	ド ン スウッ	ド ン	0 1
+HisokaReturns_77	わい わい はっ タッ ザッ ぐっ		
+HisokaReturns_78	チラ ぷい ガタン がっし		
+HisokaReturns_79			
+HisokaReturns_80	パン わい わい カツ カツ カツ わい カツ		
+HisokaReturns_81	わい わい おろ おろ わい ざわ わい わい わい ざわ わい わい ガラ わい わい わい ふん わい わい ざわ ガタン わい ざわ すぅーっ わい わい わい バキバキ わい わい わい ざわ ざわ シー ーン	シー ーン	33 34
+HisokaReturns_82	シーン バン ガタ バン		
+HisokaReturns_83	つい すた パラ すた ピシャ キーン コーン		
+HisokaReturns_84	キィ わい わい わい わい わい わい わい わい わい わい ざわ わい わい		
+HisokaReturns_85	ザッ スッ ぴょーん ぴょーん ふうっ スルン はーっ はっ みー すうっ キーン コーン		
+HisokaReturns_86	みー すうーっ ドキ ぐっ ドキ ドキ つい		
+HisokaReturns_87	ダッ コロ み゛ーっ !! ! カラ		
+HisokaReturns_88	ずる ずる		
+HisokaReturns_89			
+OhWareraRettouSeitokai_0			
+OhWareraRettouSeitokai_1			
+OhWareraRettouSeitokai_2	ガラッ ガヤ わい あははは わい ガヤ ピンポーン わっ !!	わっ !!	7 8
+OhWareraRettouSeitokai_3	コク ズルル ふー あふ ズルズル ズルル あふ ちゅるる あふ あふ きゃっ たらっ ガッガッ パキ☆ うえー きゃあ ぱたん・・・ ガバッ きゃあ ふー バン うっ コク きゃーっ		
+OhWareraRettouSeitokai_4	らっ わわっ ドン きゃー きゃーっ むかっ		
+OhWareraRettouSeitokai_5	ふっ ヒソ・・・ にっ ザワ ふっ ヒソ ヒソ ザワ ふっ ! ドン ふっ ザワ クワッ		
+OhWareraRettouSeitokai_6	ぐわ ぶはっ しーん なはは ハッ うひゃひゃ		
+OhWareraRettouSeitokai_7	カァ どき・・・ ガラッ		
+OhWareraRettouSeitokai_8	ぺこっ ぱたん あっ		
+OhWareraRettouSeitokai_9	ふっ・・ むし コク ぎゃあ きゃーっ むし ザー・・・ トクン わい コク ウン ウン うが フン わい トクン ぴゅっ!! トクン そーっ ぎゃあ		
+OhWareraRettouSeitokai_10	ドキン どき あははは ハッ ドキン ! ドキン		
+OhWareraRettouSeitokai_11	ハア ズル! ガラ ザァァ ガタ バシャ バシャ ハア		
+OhWareraRettouSeitokai_12	キャアア えーん ばっ ドッ えーん くら・・・ バタ えーん バタ		
+OhWareraRettouSeitokai_13	カチャッ きゅっ くすっ チン・・・ ふ・・・っ		
+OhWareraRettouSeitokai_14	バン わっ! あっ ピンポーン ガラ・・・ パンポーン♪ ?		
+OhWareraRettouSeitokai_15	あーっ ぱち ぱち あわわ・・・ ぎょっ!!		
+OhWareraRettouSeitokai_16	あん ぐしっ たら~っ パチ きゃ~っ パチ ピーッ うりゃ パチ あん パチ ぎょっ あん わーっ!		
+OhWareraRettouSeitokai_17			
+OhWareraRettouSeitokai_18	バタ にーっこり バタ ダン!! バタ はた!!		
+OhWareraRettouSeitokai_19	バタ くすくすくす・・・ ガラ フン ! バタ フン あわわわ わっ! ガッシャーン バタ		
+OhWareraRettouSeitokai_20	わっ にまぁ・・・っ フン		
+OhWareraRettouSeitokai_21	バタ くすっ バタ バタ はへーっ		
+OhWareraRettouSeitokai_22	はっ はは♡		
+OhWareraRettouSeitokai_23	はひっ ムンズ! しーん ブツ ピポ ピポ くっくっくっ ブツ ホッ ぞろぞろ ちらっ		
+OhWareraRettouSeitokai_24	ア~ァァァ ドサッ トンカン ? ガク はっ ?! ポリ トンカン ポリ		
+OhWareraRettouSeitokai_25	ガタ		
+OhWareraRettouSeitokai_26	カアッ バキッ わーっ ぐいっ		
+OhWareraRettouSeitokai_27	しらっ ブスーッ ギョッ		
+OhWareraRettouSeitokai_28	ぎゅ・・・っ ガラガラ こつぜん ピシャ!		
+OhWareraRettouSeitokai_29	カク どきっ・・・・ フン		
+OhWareraRettouSeitokai_30			
+OhWareraRettouSeitokai_31	くるっ じーん ! ズベ!		
+OhWareraRettouSeitokai_32			
+OhWareraRettouSeitokai_33	タカ タン ぐいっ ホイ タカ ホイ わー・・ ボッ ! タカ タカ		
+OhWareraRettouSeitokai_34	んっ ぐいっ ぷっ		
+OhWareraRettouSeitokai_35	ぼけーっ ふ・・・っ はっ!		
+OhWareraRettouSeitokai_36	どき どき		
+OhWareraRettouSeitokai_37	ぼ~っ ドン あっ		
+OhWareraRettouSeitokai_38			
+OhWareraRettouSeitokai_39	まじっ ガラ すい!		
+OhWareraRettouSeitokai_40	ピシャ ガラ ばん ガラ		
+OhWareraRettouSeitokai_41	ごちっ バタ バタ ゴト バタ ゴト ガラッ はっ		
+OhWareraRettouSeitokai_42	プイ カリ ムシ カリ ガク! ムッ あぜん・・		
+OhWareraRettouSeitokai_43	パ シ ぎくっ!! ガタ!	パ シ	0 1
+OhWareraRettouSeitokai_44	あん あーん しゃっく あーん わっわっ あん ぽろ・・・ ひっく		
+OhWareraRettouSeitokai_45	パチ にこっ あっは!		
+OhWareraRettouSeitokai_46	カリ へーぜんと あわわわ・・・ シャリ シャリ ぶくっ ポイ べちゃ うえ~っ ポリ え・・・っ!? う・・・っ		
+OhWareraRettouSeitokai_47	じと わーっ		
+OhWareraRettouSeitokai_48	ホッ ピンポ~ン♫ ホ・・・ ウ・・・		
+OhWareraRettouSeitokai_49	バン!! チラ キャー キャー		
+OhWareraRettouSeitokai_50	キャーッ ワイ ハハハ どきっ あーっ ワイ		
+OhWareraRettouSeitokai_51	ヒュン バン!! キャー キャー ハッ! あー・・・ ズルッ ばん ばん ばん ピーッ わっ ばっ ハア ハア ハア ばん!!		
+OhWareraRettouSeitokai_52	ワイ どき ドサ!! どき どき ワイ コン どき どき どき コン バタン! ヒ		
+OhWareraRettouSeitokai_53	ザワ・・・ ピーッ バターン		
+OhWareraRettouSeitokai_54	な・・・ ワー バン ピー びくっ ピー		
+OhWareraRettouSeitokai_55	ひっく・・ にこっ わーっ ぐ ひっく きゃーっ		
+OhWareraRettouSeitokai_56	キコ あ~っ チリリリン やーっ キコ チョイ☆ キコ チリリリ ば っ!	ば っ!	8 9
+OhWareraRettouSeitokai_57	うふん♡ ドキッ はっ		
+OhWareraRettouSeitokai_58	コー・・・ン ポト ワー クス クス うくく クス くす コン ワー くすっ クス ドッ! コン アハハハ キーン カー・・・ン ちら・・・ くす コーン ガタン		
+OhWareraRettouSeitokai_59	キャーッ パーン ヒュウ・・・ キャー キャーッ キャーッ うお~っ パシ ピーッ ワーッ		
+OhWareraRettouSeitokai_60	ワーッ ピシッ ダッ パ シ はー ーっ	パ シ s はー ーっ	3 4 s 5 6
+OhWareraRettouSeitokai_61	アハハハ ニヤ くす ヤンヤ ヤンヤ ヒュウ! くす ニヤ ピー		
+OhWareraRettouSeitokai_62	が ばっ きゃあ きゃあ ハア ハア ハア きゅっ ハア ハア さささ・・ フウ ヒー んっ ちらり えっ ? ハア フウ フウ	が ばっ	0 1
+OhWareraRettouSeitokai_63	はっ! ぼーっ カアッ どきっ		
+OhWareraRettouSeitokai_64	カター・・・ン ザワ バタ バタ バタ ブルル ザワ ザワ バタ ザワ・・ ふ・・・・・っ		
+OhWareraRettouSeitokai_65	ワアッ! ハッ! ハッ プイ コホン にっ ハッ ハア ハア ホッ		
+OhWareraRettouSeitokai_66	ポロ ごくり ぎくっ ははは じわ・・・ ポロ		
+OhWareraRettouSeitokai_67			
+OhWareraRettouSeitokai_68	わっ!! がっし~ん! バン パン☆ はひっ はひっ		
+OhWareraRettouSeitokai_69	カン カン ぺこっ カン じと~ カン あらっ くそっ カン にま~っ		
+OhWareraRettouSeitokai_70	バン! どきっ キィ		
+OhWareraRettouSeitokai_71	ワー ワー ワー ワー ぎゃーっ♡♡		
+OhWareraRettouSeitokai_72	あっけ~っ にひひ ぱちくり きゃあ ワイ ワイ きゃあ ンガ きゃあ どきっ きゃあ		
+OhWareraRettouSeitokai_73	ハコ あ・・・ バターン ギク!! くっくっ ハコ くすっ ず・・・ スコ ドヤ スコ ドヤ ゴクッ		
+OhWareraRettouSeitokai_74	ハッ ちらり パタン・・・ くす・・・		
+OhWareraRettouSeitokai_75			
+OhWareraRettouSeitokai_76	ぎくっ ぱたん・・・		
+OhWareraRettouSeitokai_77	ズキン ブツ ブツ バタバタ ブツ ブツ バタバタ ホッ		
+OhWareraRettouSeitokai_78	ぽろ コツ ぽろ ううぅ・・・ う・・・・ ハッ ぽろ コツ コツ		
+OhWareraRettouSeitokai_79	やーん		
+OhWareraRettouSeitokai_80	あ・・・ がばっ		
+OhWareraRettouSeitokai_81	ガーン☆ パタン にまっ ? ホラ☆ カチャ ぼーっ		
+OhWareraRettouSeitokai_82	すう・・・ わい うふっ わい にったら どき! ぱち うふっ わい にったら わっ ガウ		
+OhWareraRettouSeitokai_83	ばん ん・・・ ばん		
+OhWareraRettouSeitokai_84	わい わい わい くっ チン じと・・・ くっ プーッ フン ジーコロ んっ・・・ ジーコロ		
+OhWareraRettouSeitokai_85	はっ はっ どっき~ん にっ あっ はっ ほ・・・っ		
+OhWareraRettouSeitokai_86			
+OhWareraRettouSeitokai_87	? くしゅん! ほわあ・・・ はっは! んっ		
+OhWareraRettouSeitokai_88	しゅ ばっ ハッ ばん! ボーンボーンボーンボーンボー あ	しゅ ばっ	0 1
+OhWareraRettouSeitokai_89	どき バタン どき どき どき どき		
+OhWareraRettouSeitokai_90	チュン チュン ふわぁぁぁ・・・ ガ ン!	ガ ン!	3 4
+OhWareraRettouSeitokai_91	あた ふた		
+OhWareraRettouSeitokai_92	わぁん ぽろ ぽろ キイ・・・ カラン ぎょっ ぴらっ カラン		
+OhWareraRettouSeitokai_93	パキ わっ カチャ あっは! にや くすっ にや		
+OhWareraRettouSeitokai_94	くいっ		
+OhWareraRettouSeitokai_95			
+YasasiiAkuma_0			
+YasasiiAkuma_1			
+YasasiiAkuma_2	はあ・・・ はあ ばさっ びくっ		
+YasasiiAkuma_3	ムッ		
+YasasiiAkuma_4	ば さっ	ば さっ	0 1
+YasasiiAkuma_5	カ ッ	カ ッ	0 1
+YasasiiAkuma_6	ぶつ ぶつ		
+YasasiiAkuma_7	うわぁぁん		
+YasasiiAkuma_8	くるっ ぞー ~っ	ぞー ~っ	1 2
+YasasiiAkuma_9	ぼーっ		
+YasasiiAkuma_10	ぷすっ		
+YasasiiAkuma_11	がーん		
+YasasiiAkuma_12			
+YasasiiAkuma_13	どんっ☆		
+YasasiiAkuma_14	ぎゃあ ぎゃあ びくっ ぎゃあ		
+YasasiiAkuma_15	ぐり ぐり		
+YasasiiAkuma_16			
+YasasiiAkuma_17			
+YasasiiAkuma_18			
+YasasiiAkuma_19	ぱ っ	ぱ っ	0 1
+YasasiiAkuma_20	バキ ゴ バキ ゴ ゴ・・		
+YasasiiAkuma_21			
+YasasiiAkuma_22			
+YasasiiAkuma_23			
+YasasiiAkuma_24			
+YasasiiAkuma_25	ど か	ど か	0 1
+YasasiiAkuma_26	ドン ニヤリ ドン		
+YasasiiAkuma_27	もくもくもく・・		
+YasasiiAkuma_28			
+YasasiiAkuma_29	びくうっ		
+YasasiiAkuma_30	る~ ぐす・・		
+YasasiiAkuma_31	ぷいっ		
+YasasiiAkuma_32			
+YasasiiAkuma_33			
+YasasiiAkuma_34	? ぼんっ		
+YasasiiAkuma_35			
+YasasiiAkuma_36			
+YasasiiAkuma_37	ピンポーン		
+YasasiiAkuma_38			
+YasasiiAkuma_39			
+YasasiiAkuma_40			
+YasasiiAkuma_41			
+YasasiiAkuma_42			
+YasasiiAkuma_43	ポウ		
+YasasiiAkuma_44	カチ・・・ カチ ドン カチ カチ カチ ・・チ ド ン	ド ン	7 8
+YasasiiAkuma_45			
+YasasiiAkuma_46			
+YasasiiAkuma_47			
+YasasiiAkuma_48	どた ばたっ いちゃ いちゃ	どた ばたっ	0 1
+YasasiiAkuma_49	ド ン がく・・・っ わっ	ド ン	0 1
+YasasiiAkuma_50			
+YasasiiAkuma_51	トゥルル・・・		
+YasasiiAkuma_52			
+YasasiiAkuma_53	びくっ		
+YasasiiAkuma_54			
+YasasiiAkuma_55			
+YasasiiAkuma_56			
+YasasiiAkuma_57			
+YasasiiAkuma_58			
+YasasiiAkuma_59			
+YasasiiAkuma_60			
+YasasiiAkuma_61			
+YasasiiAkuma_62			
+YasasiiAkuma_63			
+YasasiiAkuma_64			
+YasasiiAkuma_65			
+YasasiiAkuma_66			
+YasasiiAkuma_67			
+YasasiiAkuma_68			
+YasasiiAkuma_69			
+YasasiiAkuma_70			
+YasasiiAkuma_71			
+YasasiiAkuma_72			
+YasasiiAkuma_73	ギ リッ ドンッ	ギ リッ	0 1
+YasasiiAkuma_74	バ サッ	バ サッ	0 1
+YasasiiAkuma_75	ぽろっ ぽろ		
+YasasiiAkuma_76	パタン・・・		
+YasasiiAkuma_77			
+YasasiiAkuma_78			
+YasasiiAkuma_79	ぽたっ		
+YasasiiAkuma_80			
+YasasiiAkuma_81	ぼろ ぼろ・・・・ ぼろ		
+YasasiiAkuma_82			
+YasasiiAkuma_83			
+YasasiiAkuma_84	パチン ゴホン		
+YasasiiAkuma_85	ぱっ ドキ ドキ ドキ ドキ・・・ ちらっ ドキ		
+YasasiiAkuma_86	ド キ	ド キ	0 1
+YasasiiAkuma_87	どっき あっさり ぱっ どっき ん	どっき ん	3 4
+YasasiiAkuma_88			
+YasasiiAkuma_89	だっ ぎゅっ		
+YasasiiAkuma_90	あ		
+YasasiiAkuma_91	イイイ ひィ		
+YasasiiAkuma_92	ゔい~ん・・・ ごろ ごろ・・・ ごろ ごろ ぐー・・・ ぐー じょろろ~ん・・・		
+YasasiiAkuma_93			
+YouchienBoueigumi_0			
+YouchienBoueigumi_1	と んっ	と んっ	0 1
+YouchienBoueigumi_2	ずる は!? ね。		
+YouchienBoueigumi_3	ドキ じゃらっと ぽ じ。 ポリポリ		
+YouchienBoueigumi_4	うーん おろ ふふんっ びっ ふー はっ おろ ごろ びしっ すー ふー		
+YouchienBoueigumi_5	ギラ ぺい ぱた うんー うえー ぱた おろろ ほ あむ ぱく きゃー はっ		
+YouchienBoueigumi_6	すー ? はっ ドキ ドキ		
+YouchienBoueigumi_7	ばしゃ あ		
+YouchienBoueigumi_8	おろ かあ おりゃ ほいさ とー じゃーん び しっ	び しっ	6 7
+YouchienBoueigumi_9	わら あ はっ ジャジャ じー かあっ ジャージャン わら ん		
+YouchienBoueigumi_10	もにょ ぐいっ さらさら ほわー もにょ あらー?		
+YouchienBoueigumi_11	ぞろぞろ ぼそ ぼそ じーん しー あ ん はあ あ あれ? ど んっ	ど んっ	10 11
+YouchienBoueigumi_12	あ ふっ もぐ ぷん はっ うき もぐ ぴし		
+YouchienBoueigumi_13	きゃー きゃっ ぐわー きゃっ へー		
+YouchienBoueigumi_14	きゅ と ? わーい きゅ		
+YouchienBoueigumi_15	わく もっぐ だっ もぐ もっぐ わく かあ もぐ じ 。	じ 。	8 9
+YouchienBoueigumi_16	ぱた がく じ。 コケーッ ばち ふいっ		
+YouchienBoueigumi_17	コココ きりっ コッ コーコッコ コッ コーコッコッ えーと くっ きり ココココ あ ひー ーん	ひー ーん	11 12
+YouchienBoueigumi_18	へ ろ ふっ がた がた がた ? コケ ひー ーん	へ ろ s ひー ーん	0 1 s 8 9
+YouchienBoueigumi_19	ふらー はっ こっ びくっ びく うろ あーあ うろ		
+YouchienBoueigumi_20	? はぁ はぁ ??		
+YouchienBoueigumi_21	ぐしゃ おろ あ おろ		
+YouchienBoueigumi_22	ぷくくくく ん ふわ わーい キョロ くす くす キョロ ? わーい と んっ	と んっ	10 11
+YouchienBoueigumi_23	ぴょん げこ うつら うわーん お え? うーん くー ぱら うつら あ		
+YouchienBoueigumi_24	おろ わく おろ え はっ かああっ わく		
+YouchienBoueigumi_25	とぼ どかっ とぼ ふ う ひしっ じーん		
+YouchienBoueigumi_26	どん ふー ふっ はっ エイー		
+YoumaKourin_0			
+YoumaKourin_1			
+YoumaKourin_2			
+YoumaKourin_3	ビュオオオ・・・		
+YoumaKourin_4	ボッ・・・ ゴオオォ・・・ ギロッ ゴオオオ・・		
+YoumaKourin_5	ピシャ うおっ!? アァ・・ ピカッ		
+YoumaKourin_6	バリバリバリ・・		
+YoumaKourin_7	シュゥゥ・・ アア・・ パ ァァ・・・ ピッシャァ ブ チッ	ブ チッ	5 6
+YoumaKourin_8	ギャッ フワア・・・ バキ バキ ドカッ ドカッ ひえっ ぎゃっ ドカッ ぐあっ ドカッ ドカッ ヒエッ バキ うおっ ドカッ ドカッ バ ンッ	バ ンッ	17 18
+YoumaKourin_9	シュッ ス・・・		
+YoumaKourin_10	ムク ムク ムク ムク おおお・・・ ムク ムク ムク・・・ フ・・・ ムク ムク・・・ ギギ・・・		
+YoumaKourin_11	ゴオオ・・・ ビュッ メラ・・・ メラ・・・ パチ・・・ パチ・・ ユラ~ ボッ メラ		
+YoumaKourin_12	ゴクン・・・ はあー・・・ はあ・・ バタッ はあ・・・ コクコク・・・		
+YoumaKourin_13			
+YoumaKourin_14	ゴオオオ・・・ へな・・・ へな・・・ ペタン・・・ バッ		
+YoumaKourin_15			
+YoumaKourin_16	はあ・・・ ペコ ガクッ あうっ・・・ ああっ・・ !! はあ・・		
+YoumaKourin_17	はあ・・・ はあ・・・ !!		
+YoumaKourin_18	ゴッ すっ・・・ ゴオオオ・・・・		
+YoumaKourin_19	ズ グ ぐぐう・・ ググ・・ アア・・ キャアッ シュ うぐっ・・ イイイ・・・ グワッ ぐうっ・・・		
+YoumaKourin_20	ウウ・・・・ バッ パッ・・・ シュウウウウ・・		
+YoumaKourin_21			
+YoumaKourin_22	ガー・・・ バキッ ペコッ ボロッ!! ぐえっ・・		
+YoumaKourin_23			
+YoumaKourin_24	そお~・・ はっ!!		
+YoumaKourin_25	す・・・・		
+YoumaKourin_26	シ・・・ン・・・ ピタッ スッ・・・ シュッ・・		
+YoumaKourin_27			
+YoumaKourin_28	ホホホホ・・・・		
+YoumaKourin_29	キャー キャー キャー キャー キャー キャアー♡ キャー キャー キャー キャー キャー キャー		
+YoumaKourin_30	キャッ キャッ		
+YoumaKourin_31	カッ・・ シュッ・・ ポン ゴアッ・・		
+YoumaKourin_32	カッポン・・・ カッポン ポン・・・ はははは・・・・		
+YoumaKourin_33			
+YoumaKourin_34	!! フッ フッ フッ だあっ・・・ ホホホホホ・・・ ボ ウ・ ど・・ よ・・・	ボ ウ・ s ど・・ よ・・・	6 7 s 8 9
+YoumaKourin_35	ビュッ キャアア・・・ ブシュッ ブュッ カパッ ブシュッ わあああ・・・ ガッ ブシュッ グ ワアア・・	グ ワアア・・	9 10
+YoumaKourin_36	ギャア ギャア ギャア バサ ギャア ギャア うわああ・・・ グチャ ギャア ギャアッ バサ グチャ ギャア・・ ギャア ギャア・・・ ギャア バサ ギャア ギャア ギャア ギャア ギャア ギャア ギャア ギャア バサ ギャア ギャア ダ ダッ	ダ ダッ	28 29
+YoumaKourin_37	ズバッ ズバッ サッ・・・ ビュア ダダアア・ ウギャアア・・・ バッ アア・・・ ギャアアア ズバッ ズバ ブ ウ・・ン	ブ ウ・・ン	11 12
+YoumaKourin_38	ドッ !! ヒュウ・・・ ズ バッ	ズ バッ	3 4
+YoumaKourin_39	ググググ・・ ブゥン だんっ・・ ググググ・・		
+YoumaKourin_40	ガシッ ズルッ・・ ククク・・・ ズル・・ ビュオオ ズルゥ・・・ ググゥ・・・ グィン・・・		
+YoumaKourin_41	ガチガチ・・ ズル・・ ズル ガチガチガチ・・ ビキッ うぐっ ズル !! ザッ・・・ うおおお・・・ ビキッ ガチ		
+YoumaKourin_42	ちっ!! シャアアァ・・		
+YoumaKourin_43	シュウワアアア・・ ヴゥワアア・・・ !!		
+YoumaKourin_44	ド バッ・・	ド バッ・・	0 1
+YoumaKourin_45	ボロ ガクッ ボロ グラ・・・ ! パラ ボロッ パラ ジュウワアアア・・・		
+YoumaKourin_46	はっ・・ ヒョイ・・・ はっ・・ キャアアー・・・		
+YoumaKourin_47	ズズズ・・・ ゴゴゴ・・・・ ズモモモ・・・ !!		
+YoumaKourin_48			
+YoumaKourin_49	ス・・・ わあああ・・・ わあああ・・・ はあぁ・・・ そ・・・		
+YoumaKourin_50	おおー!! わああ・・ わああ・・・ わあ・・・ おおー・・・		
+YoumaKourin_51	わあ・・・ バタ・・・ わああ・・ バタ		
+YoumaKourin_52			
+YoumaKourin_53	うわああ・・・・ わあああ・・・・ わああああ・・・・ ドオ・・ン ドォン・・ ドォン・・ わあああ・・・・ ドンッ・・・ わああああ・・・・ どっ・・ ドドォ・・・ン ズビュッ バシュッ・・・ ドウン・・・ ドンッ・・ ドビュッ ズザザザッ ズバッ		
+YoumaKourin_54	ドン! うわあああ・・・ ドォン!! ズビュッ ドドドドド・・・ うわああ・・・ わあああ・・・・ うわああぁ・・・ ドカッ クワッ ギャアアア・・・		
+YoumaKourin_55	わあああ・・・・ ドン!! ドォン・・ わあああ・・・ うわあああ・・・・ わあああ・・・・ ドオ・・・ン		
+YoumaKourin_56	フフフ・・ わああ・・・ うわああ・・・ ズドォォ・・・ン・・・ クククク・・・		
+YoumaKourin_57	はああ・・・・・ ふら・・ ふら・・・ すうう・・・ ふら		
+YoumaKourin_58	どよっ・・・		
+YoumaKourin_59			
+YoumaKourin_60			
+YoumaKourin_61	バン バン		
+YoumaKourin_62	わああ・・・ サッ はぐっ サッ ん!? ヒョイ わあああ・・・・ ブン ブン ガッ		
+YoumaKourin_63	なっ!? ダンッ ダッ わあああ・・・ とっ・・・ ダンッ はぐっ・・		
+YoumaKourin_64	わああ・・・ バキッ ドタドタドタ・・・		
+YoumaKourin_65	! わああ・・・ わああ・・・ カッカッカッ・・・ わああ・・・・ わああ・・・ ああっ!!		
+YoumaKourin_66	タ ン・・・ カッ シン・・・ カッカッカッ・・・ ドボーン・・・	タ ン・・・	0 1
+YoumaKourin_67	はあ・・ はあ・・・ はあ・・・ カッカッカッカッカッ・・・・ はあ・		
+YoumaKourin_68			
+YoumaKourin_69	ボゥ・・・ !		
+YoumaKourin_70	バキッ ?! わあああ・・・ ドカッ ククク・・・ ズブッ・・ ガツッ・・・ ド カ ッ	ド カ ッ	7 8 9
+YoumaKourin_71	ド バッ ホーホホホ・・・ オーホホホホ・・・	ド バッ	0 1
+YoumaKourin_72	カァー・・ ! ホホホ・・・・		
+YoumaKourin_73			
+YoumaKourin_74			
+YoumaKourin_75	ガッ スッ ガウッ バッ ガッ ドッ ザッ・・・ ザッ ! ガルルゥ・・ うぐっ!! ザッ ガ ブゥッ	ガ ブゥッ	12 13
+YoumaKourin_76	ドッ バッ ズバッ フフフフ・・・ ギャウン・・		
+YoumaKourin_77	ダッ ガルルル グッ		
+YoumaKourin_78	クククク・・・		
+YoumaKourin_79	フフフフ・・・ バッ クワッ ガルル・・・ グルル・・ ガルル・・		
+YoumaKourin_80	!! !!		
+YoumaKourin_81	うっ・・ ダンッ・・ クワッ サッ・・ バッ・・ グオオオ・・ !? ド カ ッ	ド カ ッ	7 8 9
+YoumaKourin_82	ニヤ・・ バッ ダラッ・・ トッ・・ ウオオオオ どっ・・ ガウウ・・		
+YoumaKourin_83	ガルルル・・・ ズバッ ダダッ ガルル・・・ ドッシャアッ・・ ギャウ・・ ガウッ ドバッ ズ バッ	ズ バッ	8 9
+YoumaKourin_84	ガルルル・・・ ガル・・・ たんっ!! ドカッ グワッ グルルル・・・・ とっ・・・		
+YoumaKourin_85	ドオオッ・・ ドカッ うっ!! うっ・・ うわっ!! ズズ・・・ グフフフ・・ バキィッ ガッ グラアア・・		
+YoumaKourin_86	ク アアア ガアア・・ ズブッ	ク アアア	0 1
+YoumaKourin_87	うぎゃああ・・ キャアアー・・		
+YoumaKourin_88	バキッ キャアッ どっ・・ ダッ ズアア・・ ! うおおお・・・・ キャアア・・ バ シッ	バ シッ	8 9
+YoumaKourin_89	ブ ウン グフフフ・・・ バッ ググウ・・・ グッ ! シュウウ・・・ ダ ッ ガ シッ	ブ ウン s ダ ッ s ガ シッ	0 1 s 8 9 s 10 11
+YoumaKourin_90	キャアア・・ ダンッ・・ ダアアア・・ ビリビリ		
+YoumaKourin_91	パ ン ジュビビビ・・・ ドサッ ブシュウゥ・・ ウ ギャアアァ・・・	パ ン s ウ ギャアアァ・・・	0 1 s 5 6
+YoumaKourin_92	はあ カアア・・ はあ はあ・・・ はあ パラ バサ・・・ バサ はあ・・・ パラ はあ パラ・・ バサ・・ バサ		
+YoumaKourin_93	パ アァ・・		
+YoumaKourin_94			
+YoumaKourin_95			
+YoumaKourin_96	カッ カッカッカッカッ・・・・		
+YoumaKourin_97	わああ・・・・ わああ・・・ わああ・・・ ドン バサバサバサ・・ はははは・・・・ ドーン わあああ・・・・ ドドーン・・		
+YoumaKourin_98	バサ バサ・・		
+YoumaKourin_99	カツーン・・・ うおおお・・・・・・ うう・・・・・ カツーン・・・ すうー・・ カツーン・・ !		
+YoumaKourin_100	ガチャ・・・ す・・・		
+YoumaKourin_101	グビビ・・・ グビビビ・・・・ グイッ グビビビ・・ すっ・・・ キャアア! ズビビビ・・		
+YoumaKourin_102	シャアー・・ シュウウ・・・ ガブッ キャアアー・・ グピピピ・・・・		
+YoumaKourin_103	ザザー・・		
+YoumaKourin_104			
+YoumaKourin_105			
+YoumaKourin_106			
+YukiNoFuruMachi_0			
+YukiNoFuruMachi_1			
+YukiNoFuruMachi_2	ガラー ズボ ズボ		
+YukiNoFuruMachi_3	パタン わ わ		
+YukiNoFuruMachi_4	ぐ・・ ドキ ドキ カアア ドキ ドキ ドキ ドキ ガラ ド パ フ	パ フ	10 11
+YukiNoFuruMachi_5	ゴソ ぞ・・・ パン パン カア ゴソ ズッテーン ゴソ ゴソ パン		
+YukiNoFuruMachi_6	ハハハ ドキ ブハハ		
+YukiNoFuruMachi_7	ドキ さっ ははは ドキ ドキ ドキ ひらひら さっ		
+YukiNoFuruMachi_8	ガシャーン きんちょー チーン		
+YukiNoFuruMachi_9	にこ コツン うふふ		
+YukiNoFuruMachi_10	パタ・・・ ぱん びゅん びゅん プイ ぱん びゅん びちゃ びゅん びちゃっ ぱん		
+YukiNoFuruMachi_11	ユサ ガバ ユサ プイ		
+YukiNoFuruMachi_12	ドキン ブオオオオ ドキン ドキン ドキン ぱ ドキン ドキン ドキン ドキン ドキン カアアア ドキ ドキン ドキン ドキドキ ドキン ドキン ドキン ツル・・・ ドキン わっ ドキ ドキン ドキン ドキン ドキン ドキ ドキ ドキ カアア ドキン ドキン トキン ドキ ガシッ ドキン ドキ		
+YukiNoFuruMachi_13			
+YukiNoFuruMachi_14	ぞろぞろ くす ガーン くす		
+YukiNoFuruMachi_15	バン ダン ボン バシ しかっ おお		
+YukiNoFuruMachi_16	ぐいっ		
+YukiNoFuruMachi_17	ぐ・・・ ぴしゃ		
+YukiNoFuruMachi_18	イラ イラ ボロ・・・ イラ ガーン イラ		
+YukiNoFuruMachi_19	カチャ パタン		
+YukiNoFuruMachi_20			
+YukiNoFuruMachi_21	コテ・・・・ ズボ クス クス ズボ わ ズボ		
+YukiNoFuruMachi_22			
+YukiNoFuruMachi_23	ぶん ガーン ぶん		
+YukiNoFuruMachi_24	スタスタスタスタ ドタ パラパラパラ バタ ドタ		
+YukiNoFuruMachi_25	キャー♥ へら キャー♥		
+YukiNoFuruMachi_26	カー はっはっ コーン ボチャ ボチャ ボチャ びく クフ♥ ギャアァァァァァァ キーン くっ さっ ボチャ くっ くっ ぱっ ボチャ		
+YukiNoFuruMachi_27	コン コン ボリボリ ハウ~ クク・・・ ドックン ドックン ハッハッハッ プク ハハハ ドックン んしょ ゴソ プクク びく ドックン ハハハ・・・ ドックン ポリポリ んしょ ドキーン ゴソ コン ガ ラ	ガ ラ	23 24
+YukiNoFuruMachi_28	ド ン スタスタスタスタ コテ・・・ コロ コロ ばっ コロ ペラ クス ペラ クス ペラ	ド ン	0 1
+YukiNoFuruMachi_29	パタ ピンポーン ガタン パタ ドタ ジョキ ぐるぐるきゅー ドタ フ ルン♫ うっふん フッ くっちゃ くっちゃ ルン♫ ドタ ドキ ドキ ジョキ ペタ フッ		
+YukiNoFuruMachi_30	もぐ もぐ ひそ キャ じゃ~ん ハハハ フキ ハハハ アハハハ キャッ プツ プクク フキ だー キャッ ひそ アハハ べー ツンツン プハ		
+YukiNoFuruMachi_31	タカ パタ くうーん タカ くん くん びくう タカ フイ パタ タカ パタ くぅ~ん		
+YukiNoFuruMachi_32	ハア ハア ひそ ハア てへ ハア ひそ		
+YukiNoFuruMachi_33	トン フン フン トン ぴく ガラ カシャシャー スタ ひゃはは スタ ははは スタ ぱち ん	ぱち ん	12 13
+YukiNoFuruMachi_34	コツン むぎゅ ム・・・		
+YukiNoFuruMachi_35	チュン・・ プイ チュン・・ コト・・・		
+YukiNoFuruMachi_36	ガチャン		
+YukiNoFuruMachi_37	バン パチーン ジーン ジーン ジーン		
+YukiNoFuruMachi_38	ドキ ドタ ドタ ドキ ハア ドタ ドターン ハア ドキ キリッ へら		
+YukiNoFuruMachi_39			
+YukiNoFuruMachi_40	ガタ ガタ グフフ キャハハ ガタ おおっ		
+YukiNoFuruMachi_41	ぴよ ガバ キャハハハ こちょ ハハハ こちょ ハハハ キャハハ キャーッハッハッハ こちょ こちょ こちょ ぬ・・・ ぴよ		
+YukiNoFuruMachi_42	ダラ ビューン ぽ・・・ キーコ サン キーコ キー ダラ サン ダラ ダラ		
+YukiNoFuruMachi_43	ブアッ ハッハ ははーっ きゃははは	ブアッ ハッハ	0 1
+YukiNoFuruMachi_44	キャハハハ きゅーん きゅーん フン ポリポリ フン ワク ワク		
+YukiNoFuruMachi_45	パチ バリ・・ イェー パチ パチ		
+YukiNoFuruMachi_46	ヒヤ ハハハハ ははは は ドキ ヒヤ は ドキ ぶっ ヒヤ ドキ ヒヤ は ドキ は ヒヤ ヒヤ ハハハハハ は ドキ は ヒヤ ヒヤ はは ヒヤ		
+YukiNoFuruMachi_47	ズキ ドックン ズキ ズキ くる はっ バックン バック パシ ドックン ズキ		
+YukiNoFuruMachi_48			
+YukiNoFuruMachi_49	ムカ キャハハハ フン フフフ キャハハハハーッ プイ チラ くっくっく ダンダン ダン たかたかたか		
+YukiNoFuruMachi_50	ぬっ はっ ぞわ ハハハハ ぱく くる ガタ ひー		
+YukiNoFuruMachi_51	ジャー ひーっ ぎゅううう ひーっ		
+YukiNoFuruMachi_52	ぶん ぶん		
+YukiNoFuruMachi_53	ワク ワク ムカ ウキ ウキ パン パン		
+YukiNoFuruMachi_54			
+YukiNoFuruMachi_55	はっ ぴょん ぴょん ほう サー ば ん	ば ん	5 6
+YukiNoFuruMachi_56	ガタッ だだ ほっほっ だだだ		
+YukiNoFuruMachi_57	ボカ ぷる ぷる ハン ぷる キッ		
+YukiNoFuruMachi_58	ヒヤ ヒィ~ ハッ コホ バンバン くくく ヒヤ フアッハッハ ガンガン アーッハッハッ ハハハ ヒヤ ハ ッ	ハ ッ	12 13
+YukiNoFuruMachi_59	ハン		
+YukiNoFuruMachi_60			
+YukiNoFuruMachi_61	コー ゴン キーン カーン ドキ ドキ キー キー コーン けんけんごうごう		
+YukiNoFuruMachi_62	ガーン ひゃははは ガーン ガーン ガーン		
+YukiNoFuruMachi_63	はあ		
+YukiNoFuruMachi_64	バシッ パン うあああ ひっ ガタ ひっく うあー パン		
+YukiNoFuruMachi_65	カーッ バン バタン くるん		
+YukiNoFuruMachi_66	ジョリ ジョリ ジョリ ジョリ びくっ あせ あせ		
+YukiNoFuruMachi_67	スタスタスタスタ ハア ゼイ ゼイ カー くるん くる ハアハア		
+YukiNoFuruMachi_68	ビシャン キャハハ ゼイゼイハアハア スタ ちら		
+YukiNoFuruMachi_69	ヨロ ヨロ ス・・・ ハラ ヨロ ハラ ヨロ ハラ		
+YukiNoFuruMachi_70	ははは ふ~ん ボソ わくわく チャリーン ボ ガ	ボ ガ	5 6
+YukiNoFuruMachi_71	ドン		
+YukiNoFuruMachi_72	ドキ どよ~ん ばっ ドキドキ ドキ ドキ ドキ ドキ パ カ	パ カ	8 9
+YukiNoFuruMachi_73	スタ プチ スタ ヘヘヘ バンッ ゼイゼイ カチャ スタ スタスタスタスタスタ スタ ハアハア ゼイゼイ		
+YukiNoFuruMachi_74	ストン ドカッ カラ・・・ ゲッ		
+YukiNoFuruMachi_75	もぐ もぐ カー もぐ もぐ はあ!?		
+YukiNoFuruMachi_76	びくぅ ガチャ		
+YukiNoFuruMachi_77	ぐい パチ パチ ドキ ドキ パチ ぐい ドキ ピシ ピシッ		
+YukiNoFuruMachi_78	ゲッ はっ		
+YukiNoFuruMachi_79	パッカ ポン クキッ パッカ パッカ キぃー パッカ パッカ ジャー パッカ スクッ ジャー		
+YukiNoFuruMachi_80	ドキーン ガタ		
+YukiNoFuruMachi_81	ピシャ・・・ ビシッ ポオーン		
+YukiNoFuruMachi_82	ハアハア ガラガラピシャーン ゼイゼイ あああ~♫ ハア・・・ ハアハア		
+YukiNoFuruMachi_83	ガラ		
+YukiNoFuruMachi_84			
+YukiNoFuruMachi_85	ズンズン ガラ ガラガラガラ		
+YukiNoFuruMachi_86	ドクン ドクン ドクン ドクン		
+YukiNoFuruMachi_87	パタン・・・		
+YukiNoFuruMachi_88	キキーッ		
+YukiNoFuruMachi_89	ガタ クス		
+YukiNoFuruMachi_90	ジョリ カシャ まっくら カシャ ジョリ ジョリ ドキ ドキ ゲ・・ ジョリ ドキ ドキ ポイ		
+YukiNoFuruMachi_91	フ ハアハア ゼイゼイ ハアハア スタスタスタスタ ゼイゼイ ぶー		
+YukiNoFuruMachi_92			
+YukiNoFuruMachi_93	ペラ ペラペラ てく てく テク てく ぱあああ びくっ テク テク		
+YukiNoFuruMachi_94			
+YumeNoKayoiji_0			
+YumeNoKayoiji_1			
+YumeNoKayoiji_2	がや わい		
+YumeNoKayoiji_3	ギシッ★ !		
+YumeNoKayoiji_4	パシャ		
+YumeNoKayoiji_5	ミンミン カナカナ ミン がしがしがし ミーン ミン がし ミン カナカナ ミンミンミンミン		
+YumeNoKayoiji_6	ミンミン がしがしがし ミン ミン じりじりじりじりじりじり ドタバタ ミン がし ミン パシ★ ミン ミン ミン みんみん ミン がしがしがし ドタドタ じり みんみんみんみん み~ん		
+YumeNoKayoiji_7	バサッ バサ キュ★ ダン★		
+YumeNoKayoiji_8	ダンダン バタバタバタバタバタ		
+YumeNoKayoiji_9			
+YumeNoKayoiji_10	ポン カタ★		
+YumeNoKayoiji_11			
+YumeNoKayoiji_12			
+YumeNoKayoiji_13			
+YumeNoKayoiji_14			
+YumeNoKayoiji_15	クン・・・ ギシッ		
+YumeNoKayoiji_16			
+YumeNoKayoiji_17			
+YumeNoKayoiji_18	プチッ		
+YumeNoKayoiji_19			
+YumeNoKayoiji_20	パサッ ペリ・・・・ ガチャ ピンポンパンポーン♪		
+YumeNoKayoiji_21	ザザ・・・		
+YumeNoKayoiji_22	カサカサカサ ひゅっ バッ・		
+YumeNoKayoiji_23	コッチ カッチ ギシッ カッチ コッチ カッチ コッチ コッチ カッチ カッチ カッチ コッチ コッチ		
+YumeNoKayoiji_24	バサ こっち コッチ こっち ツッ・・ かっち ク・ カッチ クチュッ クチュ・・・		
+YumeNoKayoiji_25	ビリ ピッ ?		
+YumeNoKayoiji_26	ぶわくしょん ぼわ・・		
+YumeNoKayoiji_27	コッチ コッチ かっち カッチ こっち かっち かっち かっち こっち カッチ こっち こっち カッチ		
+YumeNoKayoiji_28			
+YumeNoKayoiji_29	パシッ		
+YumeNoKayoiji_30			
+YumeNoKayoiji_31			
+YumeNoKayoiji_32	ズズー ぎく☆		
+YumeNoKayoiji_33			
+YumeNoKayoiji_34			
+YumeNoKayoiji_35	ターン ターン タン・・・ タン コロ タン コロ コロ ターン ターン		
+YumeNoKayoiji_36			
+YumeNoKayoiji_37			
+YumeNoKayoiji_38	ガタコン ピタ ガタタン ガタ ガタタン ガタコン ガタタン ゴトンガタンゴトガタ コン ガタ ガタタン コン		
+YumeNoKayoiji_39	カサカサカサカサカサッ		
+YumeNoKayoiji_40	カサカサカサ カサカサ		
+YumeNoKayoiji_41	びゅっ		
+YumeNoKayoiji_42			
+YumeNoKayoiji_43	ガラッ		
+YumeNoKayoiji_44			
+YumeNoKayoiji_45			
+YumeNoKayoiji_46			
+YumeNoKayoiji_47	ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ ザッ		
+YumeNoKayoiji_48			
+YumeNoKayoiji_49	カタカタカタ カラ☆		
+YumeNoKayoiji_50	バン★		
+YumeNoKayoiji_51	さく☆ ゴト☆ シャッ・		
+YumeNoKayoiji_52	さく さく さく さく さく さく		
+YumeNoKayoiji_53			
+YumeNoKayoiji_54	サッ がっし☆ ジャーッ サッ バン☆ キュッ★ キュッ パン☆ パン☆ バン		
+YumeNoKayoiji_55	キュ キュツ		
+YumeNoKayoiji_56	え゛		
+YumeNoKayoiji_57			
+YumeNoKayoiji_58			
+YumeNoKayoiji_59			
+YumeNoKayoiji_60			
+YumeNoKayoiji_61	シュン カシカシカシ シュ シュン シュン カシ カシ・・・ カシ シュ カシカシ シュン シュン シュン シュン カシ シュン シュン シュン シュ シュン パラ・・・ シュン シュン カシ		
+YumeNoKayoiji_62	ガタガタドタ☆		
+YumeNoKayoiji_63			
+YumeNoKayoiji_64	パシャ☆ パシャ☆ チャッ☆		
+YumeNoKayoiji_65	クン ギシッ☆		
+YumeNoKayoiji_66			
+YumeNoKayoiji_67	ドテドサ きゃはっ♬		
+YumeNoKayoiji_68	ガタ・・・ ガタ		
+YumeNoKayoiji_69	ウ~ ウ~ ピーポー ウ~ ゴオオオオ ウ~ ウ~ ドタドタドタ ウウ~~ ピポー		
+YumeNoKayoiji_70	ブオオオ ドドドドドド		
+YumeNoKayoiji_71	ガサッ		
+YumeNoKayoiji_72	ガタンガタンガ ンガタンガタン ガタタン ガタンガタンガタタンガタタタン ガタタンガタタンガタタンガタタン ガシャン☆ガシャガシャガシャ ジリリ ガタン ガタンガタン ガタタ リリリリリリ		
+YumeNoKayoiji_73	ふーん ガタガタンカ ガタガタン		
+YumeNoKayoiji_74	ざわざわざわざわ ざわざわざわざわざわ		
+YumeNoKayoiji_75	む・・ んあっっ☆ ガバ☆		
+YumeNoKayoiji_76	ピィーッ		
+YumeNoKayoiji_77	パタパタパタ		
+YumeNoKayoiji_78			
+YumeNoKayoiji_79			
+YumeNoKayoiji_80	ぱた ぱた ぱた ぱた ぱた ぱたぱたぱたぱた ぱた ぱた		
+YumeNoKayoiji_81			
+YumeNoKayoiji_82			
+YumeNoKayoiji_83			
+YumeNoKayoiji_84			
+YumeNoKayoiji_85	ピッ		
+YumeNoKayoiji_86			
+YumeNoKayoiji_87	ゴン・		
+YumeNoKayoiji_88			
+YumeNoKayoiji_89	ザクッ ガシッ ザク☆		
+YumeNoKayoiji_90			
+YumeNoKayoiji_91	うっ☆ バシッ☆ ぐう ゴッ		
+YumeNoKayoiji_92	バシ・ バシッ		
+YumeNoKayoiji_93			
+YumeNoKayoiji_94			
+YumeNoKayoiji_95	シュ☆ ポン♪		
+YumeNoKayoiji_96			
+YumeiroCooking_0			
+YumeiroCooking_1			
+YumeiroCooking_2	ムス パ パッパー・ ピ ドンッ チン! ガタン ポ じゃ ん!	じゃ ん!	8 9
+YumeiroCooking_3	ばったり ははっ にこっ ぱちくり ガラッ		
+YumeiroCooking_4	ボッ		
+YumeiroCooking_5	カーン キーン わあ コーン		
+YumeiroCooking_6	あ ガタ ぴく カチン カラン		
+YumeiroCooking_7	ピーポー ガクッ ピーポー ズキ ほふっ		
+YumeiroCooking_8	カラン ぎゅ		
+YumeiroCooking_9	バッ ポン げほっ		
+YumeiroCooking_10			
+YumeiroCooking_11	ガタッ ザッ ガタン カタン バタン		
+YumeiroCooking_12	サクッ ふわ・・・		
+YumeiroCooking_13			
+YumeiroCooking_14			
+YumeiroCooking_15	くん くん む ぱくん		
+YumeiroCooking_16			
+YumeiroCooking_17	ブロロ・・・ バタン くるっ		
+YumeiroCooking_18	どき どき きょんっ		
+YumeiroCooking_19	ドキン ドキン ポンッ キョロ ポン どき キョロ ワー ワー どき		
+YumeiroCooking_20	カシャ ザッ カシャ ピィーッ パーン ちら		
+YumeiroCooking_21	はむっ げげっ ゾロ ぺと ゾロ		
+YumeiroCooking_22	べーっ ぱくっ ぱく もぐ もぐ きゃんっ♡		
+YumeiroCooking_23	ワアッ もぐ・・・ にこ・・・ ユサ うひゃひゃ ユサ ん		
+YumeiroCooking_24	ぷっ わー・ ピー・ ピー わー あははは		
+YumeiroCooking_25			
+YumeiroCooking_26	ガタン ぼそ ぼそ くら・・・ ガターン しゅん・・・		
+YumeiroCooking_27	くす		
+YumeiroCooking_28	ガラッ		
+YumeiroCooking_29	どきんっ ガサ わいわい びく びくっ ぐさっ ぴゅっ ぽんっ ガサ		
+YumeiroCooking_30	ぷる カラーン コローン ぷる		
+YumeiroCooking_31			
+YumeiroCooking_32	ぼー・ ちら はあ~		
+YumeiroCooking_33	カチャ ペロ カチャ ずるずる キーン カパ コーン		
+YumeiroCooking_34	ガサ もぐ はぐっ ガサ もぐ		
+YumeiroCooking_35	バキィッ クス じわ・・・ もう あはは・・ もう ギシ どっ クス あぐ クス ガタン よいしょ クス クス あぐ ギシ・・・		
+YumeiroCooking_36	ワー ザワ ワー ガッターン ガッ ザワ ズン ガタッ キャー ズン キャー ドカッ		
+YumeiroCooking_37			
+YumeiroCooking_38	ぱにっく ワー・ ワー くすっ ぎくっ キョロ キョロ ひょこっ		
+YumeiroCooking_39	さっ ピィーッ ピィーッ		
+YumeiroCooking_40	ごろん はら・・・ ころ あはははは むっかー ばさっ ごろん くす くす くす ころ しー・ん くす ごろん		
+YumeiroCooking_41	ガタッ		
+YumeiroCooking_42	じゅわわわ		
+YumeiroCooking_43	カラーン くら~っ こくん コローン え ぐしゃ~っ		
+YumeiroCooking_44	ぱく ふふっ		
+YumeiroCooking_45			
+YumeiroCooking_46	チーン		
+YumeiroCooking_47	リリリリリ・・・ ゴシ ゴシ ジリリリ		
+YumeiroCooking_48	ぺこっ		
+YumeiroCooking_49	ふう		
+YumeiroCooking_50	ゴトン コツ コツ プシュ		
+YumeiroCooking_51			
+YumeiroCooking_52			
+YumeiroCooking_53	ふぁっ もう もう ガラッ ぐ ちゃ	ぐ ちゃ	4 5
+YumeiroCooking_54	どき どき ピッ ピッ ピシャン		
+YumeiroCooking_55	ふふん もぐ ごおかっ にこっ ザンッ おお~ ピィーッ キイイッ かぱ もぐ		
+YumeiroCooking_56	ぺこり くすっ		
+YumeiroCooking_57	ふふっ ム かあっ		
+YumeiroCooking_58	パチ ぴー ぴーっ パチ パチ		
+YumeiroCooking_59	が ばっ ゴオオオ・・・	が ばっ	0 1
+YumeiroCooking_60	あははは・・・		
+YumeiroCooking_61			
+YumeiroCooking_62	はっくしょん がしっ		
+YumeiroCooking_63	ぱふっ へへ くす あはははっ は ぺこっ		
+YumeiroCooking_64	ガタン きゃははっ にこ がくっ あ・・・・ カラン どっ ちら きゃはは		
+YumeiroCooking_65	ととっ へへ・・・		
+YumeiroCooking_66	こん		
+YumeiroCooking_67	ウィィン チーン♬ ぎゅ かぱ		
+YumeiroCooking_68	ぽろ ぽろ ひっく わーっ ガチャ・・ ピンポーン♬ ひっく		
+YumeiroCooking_69	がばっ バタン リリリリリ・・・ ひっく チン・・・ カチャ リリリリ・・ びくっ ひっく パサ		
+YumeiroCooking_70	がちょーん ぎくっ にこ にこ ガサ		
+YumeiroCooking_71	つん サクッ ガサ ガサ		
+YumeiroCooking_72	ひょい ? ひ		
+YumeiroCooking_73	がしっ カラーン コローン		
+YumeiroCooking_74	くす ガサ ゴソ くしゃんっ ひょえーっ じゃ ん	じゃ ん	5 6
+YumeiroCooking_75			
+YumeiroCooking_76	はっ はっ びくっ はっ しみじみ はたっ はっ		
+YumeiroCooking_77	? はあ ? じー・っ クシャン えーっ		
+YumeiroCooking_78	ちら げほっ ザワ はっくしゅん ごほ ザワ		
+YumeiroCooking_79	ぺこっ		
+YumeiroCooking_80	ごほん ごほっ ぴゃ はっくしゅん げほ はははっ トゥルルルル		
+YumeiroCooking_81	ぴんぽーん コト ピンポーン♬ どたっ パニック ぼさ ぐらあ ガチャ コト ごほっ ぼさ ぱちん ぺろっ		
+YumeiroCooking_82	バサッ ぐちゃ ガサッ		
+YumeiroCooking_83	ガサ ガサ カチッ		
+YumeiroCooking_84	トン・・ はは ひく ザッ ひく す・・・ ?		
+YumeiroCooking_85	くん むく くん		
+YumeiroCooking_86	ははっ		
+YumeiroCooking_87	いら チッ いら チッ チッ いら いら チッ		
+YumeiroCooking_88	じゅわっ		
+YumeiroCooking_89			
+YumeiroCooking_90	だだだっ		
+YumeiroCooking_91			
+YumeiroCooking_92			
+YumeiroCooking_93	じゃが じゃが		
+YumeiroCooking_94			
+YumeiroCooking_95			
