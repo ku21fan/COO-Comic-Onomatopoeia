@@ -17,6 +17,7 @@ We hope our work will encourage studies on more irregular texts and further impr
 
 ## Dataset: Comic Onomatopoeia (COO)
 We provide the [annotations of the COO](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/annotations). <br>
+Several files that help preprocessing, visualization, and data analysis are in [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
 
 #### Prerequisites: Download Manga109 images
 Following [the license of Manga109](http://www.manga109.org/en/download.html), the redistribution of the images of Manga109 is not permitted. <br> 
