@@ -74,15 +74,15 @@ input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```
 
 1. run test code with pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth)
-```
-CUDA_VISIBLE_DEVICES=0 python test_net.py --config-file configs/best_test.yaml MODEL.WEIGHT MTSv3.pth
-```
+   ```
+   CUDA_VISIBLE_DEVICES=0 python test_net.py --config-file configs/best_test.yaml MODEL.WEIGHT MTSv3.pth
+   ```
 
 2. evaluation in COO_eval folder (check the path of `results_dir` in [script.py](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/MTSv3/COO_eval/detect_only/script.py))
-```
-cd COO_eval/detect_only/
-python script.py
-```
+   ```
+   cd COO_eval/detect_only/
+   python script.py
+   ```
 
 ## Citing the related works
 
