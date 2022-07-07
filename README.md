@@ -12,12 +12,20 @@ If a model can recognize comic onomatopoeias, we expect that the model can also 
 We hope our work will encourage studies on more irregular texts and further improve text detection, recognition, and link prediction methods. <br>
 
 <br>
-
-<img src="teaser.png">
+<p align="center">
+   <img src="teaser.png" width=80%>
+</p>
 
 ## Dataset: Comic Onomatopoeia (COO)
 We provide the [annotations of the COO](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/annotations). <br>
 Several files that help preprocessing, visualization, and data analysis are in [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
+COO has 10,602 images, 61,465 polygons, and 2,261 links between truncated texts. <br>
+The below figure shows the COO statistics and character types of COO (182 types in total). <br>
+
+<p align="center">
+   <img src="statistic+chars.jpg" width=80%>
+</p>
+
 
 #### Prerequisites: Download Manga109 images
 Following [the license of Manga109](http://www.manga109.org/en/download.html), the redistribution of the images of Manga109 is not permitted. <br> 
