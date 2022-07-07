@@ -58,9 +58,7 @@ def seed_all_rng(cfg, logger):
 
 def add_custom_configs(cfg: CfgNode):
     _C = cfg
-    _C.SOLVER.VALID_DETECT_THRESH = (
-        0.4  # best? 0.3 아니면 0.4가 best 인듯함. 일단 0.4로 줘보고, 다음에 0.3으로도 줘보자.
-    )
+    _C.SOLVER.VALID_DETECT_THRESH = 0.4  # best ?
     _C.SEED = 456
 
 
@@ -68,7 +66,6 @@ def train(cfg, local_rank, distributed):
     model = build_detection_model(cfg)
     device = torch.device(cfg.MODEL.DEVICE)
     model.to(device)
-    # print(model) 모델구조체크!
 
     optimizer = make_optimizer(cfg, model)
     scheduler = make_lr_scheduler(cfg, optimizer)

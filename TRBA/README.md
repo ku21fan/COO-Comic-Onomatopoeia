@@ -21,27 +21,27 @@ pip install -r requirements.txt
 Run [data_for_TRBA.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/data_for_TRBA.ipynb) in the COO-data folder to make train/val/test data.
 
 ### Training
-1. Train TRBA model with SAR decoding
+1. Train TRBA model with Rotation trick + SAR decoding
    ```
-   CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name TRBA --exp_name TRBA_SARdecode --SARdecode
+   CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name TRBA --exp_name TRBA_Rot+SAR --SARdecode
    ```
 
-2. Train TRBA model with SAR decoding + half of batch filled with HardROI + Image height100 + 2D attn
+2. Train TRBA model with Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
    ```
-   CUDA_VISIBLE_DEVICES= python3 train.py --model_name TRBA --exp_name TRBA_SARdecode_HardROIhalf_H100_2D \
+   CUDA_VISIBLE_DEVICES= python3 train.py --model_name TRBA --exp_name TRBA_Rot+SAR+HardROIhalf+2D \
    --SARdecode --imgH 100 --twoD --train_data ../COO-data/TRBA_data/ --select_data lmdb/train-hardROI/train
    ```
 
 ### Evaluation
-1. Test TRBA model with SAR decoding
+1. Test TRBA model with Rotation trick + SAR decoding
    ```
    CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode \
-   --saved_model saved_models/TRBA_SARdecode/best_score.pth
+   --saved_model saved_models/TRBA_Rot+SAR/best_score.pth
    ```
-2. Test TRBA model with SAR decoding + half of batch filled with HardROI + Image height100 + 2D attn
+2. Test TRBA model with Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
    ```
    CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name TRBA --eval_type benchmark --SARdecode --imgH 100 --twoD \
-   --saved_model saved_models/TRBA_SARdecode_HardROIhalf_H100_2D/best_score.pth
+   --saved_model saved_models/TRBA_Rot+SAR+HardROIhalf+2D/best_score.pth
    ```
 
 
@@ -52,24 +52,24 @@ There are 2 different models of TRBA
 
     Model | Description
     -- | --
-    TRBA_SARdecode.pth | TRBA + SARdecode
-    TRBA_SARdecode_HardROIhalf_H100_2D.pth | TRBA + SARdecode + half of batch filled with HardROI + Image height100 + 2D attn
+    TRBA_Rot+SAR.pth | TRBA + Rotation trick + SAR decoding
+    TRBA_Rot+SAR+HardROIhalf+2D.pth | TRBA + Rotation trick + SAR decoding + half of batch filled with HardROI + 2D attn with image height 100
 
 2. Add image files to test into `demo_image/`
-3. Run demo.py with [TRBA_SARdecode.pth](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_SARdecode.pth?dl=0)
+3. Run demo.py with [TRBA_Rot+SAR.pth](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_Rot%2BSAR.pth)
    ```
    CUDA_VISIBLE_DEVICES=0 python3 demo.py --model_name TRBA --SARdecode \
-   --image_folder demo_image/ --saved_model TRBA_SARdecode.pth
+   --image_folder demo_image/ --saved_model TRBA_Rot+SAR.pth
    ```
-   or run demo.py with [TRBA_SARdecode_HardROIhalf_H100_2D.pth](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_SARdecode_HardROIhalf_H100_2D.pth?dl=0)
+   or run demo.py with [TRBA_Rot+SAR+HardROIhalf+2D.pth](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth)
    ```
    CUDA_VISIBLE_DEVICES=0 python3 demo.py --model_name TRBA --SARdecode --twoD --imgH 100 \
-   --image_folder demo_image/ --saved_model TRBA_SARdecode_HardROIhalf_H100_2D.pth
+   --image_folder demo_image/ --saved_model TRBA_Rot+SAR+HardROIhalf+2D.pth
    ```
 
 
 #### prediction results
-| demo images | [TRBA_SARdecode](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_SARdecode.pth?dl=0) | [TRBA_SARdecode_HardROIhalf_H100_2D](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_SARdecode_HardROIhalf_H100_2D.pth?dl=0) |
+| demo images | [TRBA_Rot+SAR](https://www.dropbox.com/s/07dx4846sbnd8vv/TRBA_Rot%2BSAR.pth) | [TRBA_Rot+SAR+HardROIhalf+2D](https://www.dropbox.com/s/fwizki6halwsqty/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) |
 | ---         |     ---      |          --- |
 | <img src="./demo_image/LoveHina_vol14/1-0.jpg">    |   ババッ | ババッ   |
 | <img src="./demo_image/LoveHina_vol14/2-0.jpg">    |   カアッ・・・       | カアッ・・・        |
@@ -86,11 +86,13 @@ There are 2 different models of TRBA
 ## Citation
 Please consider citing this work in your publications if it helps your research.
 ```
-@inproceedings{baek2021STRfewerlabels,
-  title={What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels},
-  author={Baek, Jeonghun and Matsui, Yusuke and Aizawa, Kiyoharu},
-  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2021}
+@inproceedings{baek2019STRcomparisons,
+  title={What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis},
+  author={Baek, Jeonghun and Kim, Geewook and Lee, Junyeop and Park, Sungrae and Han, Dongyoon and Yun, Sangdoo and Oh, Seong Joon and Lee, Hwalsuk},
+  booktitle = {International Conference on Computer Vision (ICCV)},
+  year={2019},
+  pubstate={published},
+  tppubtype={inproceedings}
 }
 ```
 

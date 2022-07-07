@@ -24,7 +24,7 @@ Run [data_for_ABCNetv2.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/
 ## Pretrained models
 Download the pretrained models in [Dropbox](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0)
 
-## Demo with pretrained model [ABCNetv2.pth](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth?dl=0)
+## Demo with pretrained model [ABCNetv2.pth](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth)
 ```
 CUDA_VISIBLE_DEVICES=0 python demo/demo.py --config-file configs/eval.yaml \
 --input demo_images/test/ --output demo_results/test/ --opts MODEL.WEIGHTS ABCNetv2.pth
@@ -33,7 +33,7 @@ CUDA_VISIBLE_DEVICES=0 python demo/demo.py --config-file configs/eval.yaml \
 
 ## Training (= Finetune)
 Check the initial weights in the config file.
-We finetune the model from the trained model on CTW1500 ([ABCNetv2_CTW1500_finetuned_model.pth](https://www.dropbox.com/s/yzmh2dw3acg0445/ABCNetv2_CTW1500_finetuned_model.pth?dl=0))
+We finetune the model from the trained model on CTW1500 ([ABCNetv2_CTW1500_finetuned_model.pth](https://www.dropbox.com/s/yzmh2dw3acg0445/ABCNetv2_CTW1500_finetuned_model.pth))
 
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=1 python3 train_net.py --config-file configs/COO_default.yaml \
@@ -47,7 +47,7 @@ test dataset: ```DATASETS.TEST```;
 input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```
 
-test by using the pretrained model [ABCNetv2.pth](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth?dl=0)
+test by using the pretrained model [ABCNetv2.pth](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth)
 ```
 CUDA_VISIBLE_DEVICES=0 python train_net.py --eval-only --num-gpus 1 --config-file configs/eval.yaml MODEL.WEIGHTS ABCNetv2.pth
 ```

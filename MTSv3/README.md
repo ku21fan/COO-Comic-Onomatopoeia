@@ -52,7 +52,7 @@ Run [data_for_MTSv3.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blo
 ## Pretrained models
 Download the pretrained models in [Dropbox](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0)
 
-## Demo with pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth?dl=0)
+## Demo with pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth)
 ```
 CUDA_VISIBLE_DEVICES=0 python demo.py --config-file configs/best_test.yaml \
 --input demo_images/test/ --output demo_results/test/ MODEL.WEIGHT MTSv3.pth
@@ -60,7 +60,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --config-file configs/best_test.yaml \
 
 ## Training (= Finetune)
 Check the initial weights in the config file.
-We finetune the model from the trained model on CTW1500 ([MTSv3_CTW1500_finetuned_model.pth](https://www.dropbox.com/s/hhwwgjuvbv6nl8j/MTSv3_CTW1500_finetuned_model.pth?dl=0))
+We finetune the model from the trained model on CTW1500 ([MTSv3_CTW1500_finetuned_model.pth](https://www.dropbox.com/s/hhwwgjuvbv6nl8j/MTSv3_CTW1500_finetuned_model.pth))
 
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 -m torch.distributed.launch --nproc_per_node=4 train_net.py \
@@ -73,7 +73,7 @@ test dataset: ```TEST.DATASETS```;
 input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```
 
-1. run test code with pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth?dl=0)
+1. run test code with pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth)
 ```
 CUDA_VISIBLE_DEVICES=0 python test_net.py --config-file configs/best_test.yaml MODEL.WEIGHT MTSv3.pth
 ```
