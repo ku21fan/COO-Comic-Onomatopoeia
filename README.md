@@ -69,7 +69,7 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 
 | Method | Accuracy | Official Code | Pretrained model |
 |:---|:---:|:---:|:---:|
-| TRBA+2D (ours) | 81.2 | - | [download](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) | 
+| TRBA+2D (ours) | 81.2 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/TRBA) | [download](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) | 
 | MASTER (PR 2021) |  | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download]() | 
 | ABINet w/o pretrain (CVPR 2021) | | [URL](https://github.com/FangShancheng/ABINet) | [download]() | 
 
@@ -80,8 +80,8 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 
 | Method | P | R | H | Official Code | Pretrained model |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| M4C-COO (ours) | 74.5 | 66.3 | 70.2 | - | [download](https://www.dropbox.com/s/9gzglorqt0muu5h/M4C-COO_default.ckpt) | 
-| M4C-COO with vocab 11640 (ours) | 59.4 | 44.6 | 51.0 | - | [download](https://www.dropbox.com/s/4vn0jgegu4p6qso/M4C-COO_vocab11640.ckpt) | 
+| M4C-COO (ours) | 74.5 | 66.3 | 70.2 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/M4C-COO) | [download](https://www.dropbox.com/s/9gzglorqt0muu5h/M4C-COO_default.ckpt) | 
+| M4C-COO with vocab 11640 (ours) | 59.4 | 44.6 | 51.0 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/M4C-COO) | [download](https://www.dropbox.com/s/4vn0jgegu4p6qso/M4C-COO_vocab11640.ckpt) | 
 | Rule-based (ours) | 1.1 | 74.5 | 2.1 | - | - | 
 
 <br>
