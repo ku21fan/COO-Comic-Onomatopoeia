@@ -19,7 +19,7 @@ We hope our work will encourage studies on more irregular texts and further impr
 ## Dataset: Comic Onomatopoeia (COO)
 We provide the [annotations of the COO](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/annotations). <br>
 Several files that help preprocessing, visualization, and data analysis are in [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
-COO has 10,602 images, 61,465 polygons, and 2,261 links between truncated texts. <br>
+COO has 61,465 polygons and 2,261 links between truncated texts. <br>
 The below figure shows the COO statistics and character types of COO (182 types in total). <br>
 
 <p align="center">
