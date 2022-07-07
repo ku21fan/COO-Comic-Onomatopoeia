@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=1 python3 train_net.py --config-fil
 
 
 ## Evaluation (detection only)
-### Check the config file (configs/eval.yaml) for some parameters.
+#### Check the config file (configs/eval.yaml) for some parameters.
 test dataset: ```DATASETS.TEST```;
 input size: ```INPUT.MIN_SIZE_TEST```;
 output directory: ```OUTPUT_DIR```
