@@ -1,5 +1,5 @@
 ## Annotations of COO
-In this repository, we keep the version of annotations used for the ECCV submission.
+In this repository, we keep the annotations used for the ECCV submission.
 This is the same version of [v2022.07.07](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia/v2022.07.07) of the [Manga109 public-annotations](https://github.com/manga109/public-annotations) repository.
 
 
