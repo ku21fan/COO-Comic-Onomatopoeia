@@ -56,7 +56,7 @@ Run [data_for_TRBA.ipynb](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob
    ```
 
 
-<h3 id="pretrained_models"> Run demo with pretrained model 
+<h3 id="pretrained_models"> Run demo with pretrained model </h3>
 
 1. [Download pretrained model](https://www.dropbox.com/sh/lx61z7gq5yzkp02/AAAEyzVuVqVy_-EvtqTOJTaXa?dl=0) <br>
 There are 2 different models of TRBA
@@ -108,5 +108,6 @@ Please consider citing this work in your publications if it helps your research.
 ```
 
 ## License
-For code: MIT.
+For the codes made by us: MIT. <br>
+Original codes of deep-text-recognition-benchmark are licensed under [Apache License 2.0](https://github.com/clovaai/deep-text-recognition-benchmark#license).
 
