@@ -13,7 +13,7 @@ We hope our work will encourage studies on more irregular texts and further impr
 
 <br>
 <p align="center">
-   <img src="teaser.png" width=80%>
+   <img src="teaser.jpg" width=80%>
 </p>
 
 ## Dataset: Comic Onomatopoeia (COO)
