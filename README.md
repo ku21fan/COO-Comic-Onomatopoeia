@@ -105,6 +105,7 @@ For the dataset, annotation data of COO is licensed under a [CC BY 4.0](https://
 The license of image data of Manga109 is described [here](http://www.manga109.org/en/download.html). <br>
 
 For the codes made by us: MIT. <br>
-After examining the licenses of original source codes of each method we used in our work, we found that the redistribution of source codes is permitted. <br>
-Thus, to facilitate future work, we provide the source codes in this repository. <br>
-Please let us know if there is a license issue with code redistribution. If so, we will remove the code and provide the instructions to reproduce our work.
+After examining the licenses of original source codes of each method we used in our work, we found that the redistribution of source codes is permitted. 
+Thus, to facilitate future work, we provide the source codes in this repository. 
+Please let us know if there is a license issue with code redistribution. 
+If so, we will remove the code and provide the instructions to reproduce our work.
