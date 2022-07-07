@@ -90,7 +90,7 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 |:---|:---:|:---:|:---:|:---:|:---:|
 | M4C-COO (ours) | 74.5 | 66.3 | 70.2 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/M4C-COO) | [download](https://www.dropbox.com/s/9gzglorqt0muu5h/M4C-COO_default.ckpt) | 
 | M4C-COO with vocab 11640 (ours) | 59.4 | 44.6 | 51.0 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/M4C-COO) | [download](https://www.dropbox.com/s/4vn0jgegu4p6qso/M4C-COO_vocab11640.ckpt) | 
-| Rule-based (ours) | 1.1 | 74.5 | 2.1 | - | - | 
+| Distance-based rule (ours) | 1.1 | 74.5 | 2.1 | - | - | 
 
 <br>
 
