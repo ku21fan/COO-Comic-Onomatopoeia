@@ -2,9 +2,9 @@
 We provide COmic Onomatopoeia dataset (COO) and the source codes we used in our paper. <br>
 We hope that this work will facilitate future work on recognizing various types of texts. <br>
 
-<img src="teaser.png">
-
 <br>
+
+<img src="teaser.png">
 
 ## Dataset: Comic Onomatopoeia (COO)
 We provide the [annotations of the COO](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data/annotations). <br>
@@ -13,7 +13,7 @@ We provide the [annotations of the COO](https://github.com/ku21fan/COO-Comic-Ono
 Following [the license of Manga109](http://www.manga109.org/en/download.html), the redistribution of the images of Manga109 is not permitted. <br> 
 Thus, you should download the images of Manga109 via [Manga109 webpage](http://www.manga109.org/en/download.html). <br> 
 
-After downloading, unzip `Manga109.zip` and then move `images` folder of Manga109 into [COO-data folder](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data). <br>
+After downloading, unzip `Manga109.zip` and then move `images` folder of Manga109 into [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
 = We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for preprocessing. 
 
 
@@ -36,26 +36,44 @@ For link prediction, we used M4C-COO (a variant of M4C) <br>
 
 ## Leaderboard
 We will list the results of SOTA methods that provide the official code. <br>
-For the leaderboard, we report the performance of one pretrained model. <br>
+For the leaderboard, **we report the performance of one pretrained model.** <br>
 Note that we report the average value of three trials in our paper. <br>
+We welcome the pull requests containing an official code (URL) of other SOTA methods. <br>
 
 
 ### Text detection
+- P: Precision &nbsp;&nbsp;  R: Recall &nbsp;&nbsp;   H: Hmean &nbsp;&nbsp;  *: only use detection part.
+- Based on the hmean, methods are sorted in descending order.
+
 | Method | P | R | H | Official Code | Pretrained model |
-| ---  |    ---    |    ---      |    ---     |   ---      |    ---      |
+|:---|:---:|:---:|:---:|:---:|:---:|
 | DB (AAAI 2020) | 90.9 | 60.3 | 72.5 | [URL](https://github.com/MhLiao/DB) | [download](https://www.dropbox.com/s/b4zqiknn7i9kxqw/DB_pretrain_COO) | 
 | PAN (ICCV 2019) | 88.4 | 58.6 | 70.4 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/6vbc7m6o4695336/PAN_pretrain_COO.pth.tar) | 
-| MTSv3 (ECCV 2020) | 70.1 | 66.0 | 68.0 | [URL](https://github.com/MhLiao/MaskTextSpotterV3) | [download](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth) | 
-| ABCNetv2 (TPAMI 2021) | 67.2 | 65.1 | 66.1 | [URL](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText) | [download](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth) | 
+| MTSv3* (ECCV 2020) | 70.1 | 66.0 | 68.0 | [URL](https://github.com/MhLiao/MaskTextSpotterV3) | [download](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth) | 
+| ABCNetv2* (TPAMI 2021) | 67.2 | 65.1 | 66.1 | [URL](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText) | [download](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth) | 
 
 <br>
 
 ### Text recognition
+- Based on the accuracy, methods are sorted in descending order.
 
+| Method | Accuracy | Official Code | Pretrained model |
+|:---|:---:|:---:|:---:|
+| TRBA+2D (ours) | 81.2 | - | [download](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) | 
+| MASTER (PR 2020) |  | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download]() | 
+| ABINet w/o pretrain (CVPR 2021) | | [URL](https://github.com/FangShancheng/ABINet) | [download]() | 
 
 <br>
 
 ### Link prediction
+- P: Precision &nbsp;&nbsp;  R: Recall &nbsp;&nbsp;   H: Hmean
+- Based on the hmean, methods are sorted in descending order.
+
+| Method | P | R | H | Official Code | Pretrained model |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| M4C-COO (ours) | 74.5 | 66.3 | 70.2 | - | [download](https://www.dropbox.com/s/9gzglorqt0muu5h/M4C-COO_default.ckpt) | 
+| M4C-COO with vocab 11640 (ours) | 59.4 | 44.6 | 51.0 | - | [download](https://www.dropbox.com/s/4vn0jgegu4p6qso/M4C-COO_vocab11640.ckpt) | 
+| Rule-based (ours) | 1.1 | 74.5 | 2.1 | - | - | 
 
 <br>
 
