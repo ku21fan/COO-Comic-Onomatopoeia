@@ -1,6 +1,15 @@
 # COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
 We provide COmic Onomatopoeia dataset (COO) and the source codes we used in our paper. <br>
-We hope that this work will facilitate future work on recognizing various types of texts. <br>
+1. COO has many arbitrary texts, such as extremely curved, partially shrunk texts, or arbitrarily placed texts.
+Furthermore, some texts are separated into several parts.
+Each part is a truncated text and is not meaningful by itself.
+These parts should be linked to represent the intended meaning.
+Thus, we propose a novel task that predicts the link between truncated texts.
+
+2. COO is a challenging text dataset.
+Detecting the onomatopoeia region and capturing the intended meaning of truncated texts are very difficult. 
+If a model can recognize comic onomatopoeias, we expect that the model can also recognize other less difficult texts.
+We hope our work will encourage studies on more irregular texts and further improve text detection, recognition, and link prediction methods. <br>
 
 <br>
 
