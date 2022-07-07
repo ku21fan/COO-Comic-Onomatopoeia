@@ -20,7 +20,7 @@ pip install --editable .
 To train M4C-COO data, we need train/val/test gt annotation, fasttext model, and FRCN features.
 1. GT annotations of train/val/test are provided in `COO-data/M4C_feature` folder.
 2. Download fasttext model [model_300.bin](https://www.dropbox.com/s/c0nzo2lgcm2epo1/model_300.bin?dl=0), then place it in `COO-data/M4C_feature` folder.
-3. To obtain FRCN features for M4C-COO, go to MTSv3 folder and then install MTSv3.
+3. To obtain FRCN features for M4C-COO, go to [MTSv3 folder](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/MTSv3) and then install MTSv3.
 4. Download pretrained model [MTSv3.pth](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth?dl=0)
 5. Run `sh extract_features_for_M4C.sh` to obtain FRCN features for train/val/test data.
 
