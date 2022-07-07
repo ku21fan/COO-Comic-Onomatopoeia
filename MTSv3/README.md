@@ -17,7 +17,7 @@ Install conda >= 4.11.0  (python >= 3.8) and then run following commands. <br>
   pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
 
   # python dependencies
-  pip install ninja yacs cython matplotlib tqdm opencv-python shapely scipy tensorboardX pyclipper Polygon3 editdistance 
+  pip install ninja yacs cython matplotlib tqdm opencv-python shapely scipy tensorboardX pyclipper Polygon3 editdistance natsort
 
   export INSTALL_DIR=$PWD
 
