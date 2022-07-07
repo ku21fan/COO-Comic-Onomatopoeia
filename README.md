@@ -37,6 +37,7 @@ After downloading, unzip `Manga109.zip` and then move `images` folder of Manga10
 <br>
 
 ## Codes
+The source codes used in our paper are provided in each folder. <br>
 For text detection, we used ABCNetv2 and MTSv3. <br>
 For text recognition, we used TRBA. <br> 
 For link prediction, we used M4C-COO (a variant of M4C) <br>
