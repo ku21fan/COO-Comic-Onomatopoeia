@@ -19,9 +19,9 @@ After downloading, unzip `Manga109.zip` and then move `images` folder of Manga10
 
 #### Preprocessing for each model
 1. Run the following command.
-```
-pip install Flask==2.0.2 Shapely==1.8.0 manga109api==0.3.1 pillow natsort lmdb opencv-python numpy tqdm
-```
+   ```
+   pip install Flask==2.0.2 Shapely==1.8.0 manga109api==0.3.1 pillow natsort lmdb opencv-python numpy tqdm
+   ```
 
 2. See the section `dataset` in each model folder.
 
@@ -52,7 +52,6 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 | MTSv3* (ECCV 2020) | 70.1 | 66.0 | 68.0 | [URL](https://github.com/MhLiao/MaskTextSpotterV3) | [download](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth) | 
 | ABCNetv2* (TPAMI 2021) | 67.2 | 65.1 | 66.1 | [URL](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText) | [download](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth) | 
 
-<br>
 
 ### Text recognition
 - Based on the accuracy, methods are sorted in descending order.
@@ -63,7 +62,6 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 | MASTER (PR 2020) |  | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download]() | 
 | ABINet w/o pretrain (CVPR 2021) | | [URL](https://github.com/FangShancheng/ABINet) | [download]() | 
 
-<br>
 
 ### Link prediction
 - P: Precision &nbsp;&nbsp;  R: Recall &nbsp;&nbsp;   H: Hmean
@@ -76,7 +74,6 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 | Rule-based (ours) | 1.1 | 74.5 | 2.1 | - | - | 
 
 <br>
-
 
 ## Citation
 When using annotations of comic onomatopoeia dataset (COO) or if you find this work useful for your research, please cite our paper.
