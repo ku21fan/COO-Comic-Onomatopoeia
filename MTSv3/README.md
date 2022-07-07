@@ -60,7 +60,7 @@ CUDA_VISIBLE_DEVICES=0 python demo.py --config-file configs/best_test.yaml \
 
 ## Training (= Finetune)
 Check the initial weights in the config file.
-We finetune the model from the trained model on CTW1500 ([MTSv3_CTW1500_finetuned_model.pth (pretrained model from MTSv3 work)](https://www.dropbox.com/s/hhwwgjuvbv6nl8j/MTSv3_CTW1500_finetuned_model.pth?dl=0))
+We finetune the model from the trained model on CTW1500 ([MTSv3_CTW1500_finetuned_model.pth](https://www.dropbox.com/s/hhwwgjuvbv6nl8j/MTSv3_CTW1500_finetuned_model.pth?dl=0))
 
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 -m torch.distributed.launch --nproc_per_node=4 train_net.py \
