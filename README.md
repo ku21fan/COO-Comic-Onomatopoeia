@@ -5,15 +5,17 @@ We hope that this work will facilitate future work on recognizing various types 
 
 <br>
 
-## Dataset: COmic Onomatopoeia (COO)
-To facilitate future work, we provide the annotation of the COO. <br>
+## Dataset: Comic Onomatopoeia (COO)
+We provide the annotation of the COO. <br>
 
-### Prerequisites: Download Manga109 images
+#### Prerequisites: Download Manga109 images
 Following [the license of Manga109](http://www.manga109.org/en/download.html),  the redistribution of the image files of Manga109 data is not permitted. <br> 
 Thus, you should download the image files of Manga109 data via [Manga109 webpage](http://www.manga109.org/en/download.html). <br> 
 
 After downloading, unzip `Manga109.zip` and then move `images` folder of Manga109 data into `COO-data` folder. <br>
 = We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for further data preparation with image files. 
+
+각 모델에서 사용하기위한 전처리는 COO-data 에서 행함.
 
 <br>
 
@@ -22,8 +24,18 @@ For text detection, we used ABCNetv2 and MTSv3. <br>
 For text recognition, we used TRBA. <br> 
 For link prediction, we used M4C-COO (a variant of M4C) <br>
 
-
 <br>
+
+
+## Leaderboard
+### Text detection
+
+### Text recognition
+
+### Link prediction
+
+
+
 
 ## Citation
 When using annotations of comic onomatopoeia dataset (COO) or if you find this work useful for your research, please cite our paper.
