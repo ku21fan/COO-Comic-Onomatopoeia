@@ -1,3 +1,8 @@
+## Annotations of COO
+In this repository, we keep the version of annotations used for the ECCV submission.
+This is the same version of [v2022.07.07](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia/v2022.07.07) of the [Manga109 public-annotations](https://github.com/manga109/public-annotations) repository.
+
+
 ## Preprocessing codes (jupyter notebook) for each model
 To prepare the data for ABCNetv2, MTSv3, and TRBA, use `data_for_ABCNetv2.ipynb`, `data_for_MTSv3.ipynb`, and `data_for_TRBA.ipynb`, respectivly. <br>
 
