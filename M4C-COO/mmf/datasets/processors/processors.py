@@ -1704,8 +1704,8 @@ class M4CCOOProcessor(BaseProcessor):
         else:
             link_order = []
             for a in answers[0].split():
-                if a == "s":
-                    link_order.append(4)  # index of s
+                if a == "<d>":
+                    link_order.append(4)  # index of <d>
                 elif a == "<unk>":
                     link_order.append(self.UNK_IDX)
                 elif a == "</s>":

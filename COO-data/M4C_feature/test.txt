@@ -3,11 +3,11 @@ HighschoolKimengumi_vol20_1
 HighschoolKimengumi_vol20_2	ひょこっ ピンポーン ずどどっ		
 HighschoolKimengumi_vol20_3	ひく きゃはは あはははは ひく ホホッ ずん! し ん・・・	し ん・・・	6 7
 HighschoolKimengumi_vol20_4	おぎゃあ ボソボソ どどどっ ずどどっ ははっ おぎゃあ おぎゃあ おぎゃあ すぱ~ん ぶ~ ~っ	ぶ~ ~っ	9 10
-HighschoolKimengumi_vol20_5	めり・・・ ぽろっ ボン! ぐしゃっ!! ポーン がくっ ぐわっ だっ ズザザ~ ーッ ぷぎゃ ~っ!!	ズザザ~ ーッ s ぷぎゃ ~っ!!	8 9 s 10 11
+HighschoolKimengumi_vol20_5	めり・・・ ぽろっ ボン! ぐしゃっ!! ポーン がくっ ぐわっ だっ ズザザ~ ーッ ぷぎゃ ~っ!!	ズザザ~ ーッ <d> ぷぎゃ ~っ!!	8 9 <d> 10 11
 HighschoolKimengumi_vol20_6	カチャッ おんぎゃ あんぎゃ! パタパタ チッ チッ パタ チッ びえ~っ ずどどっ あんぎゃ ベロ ズザザ~ッ オロ イラ バーッ イラ おんぎゃ! ベロ オロ チッ パタ ン!	パタ ン!	21 22
 HighschoolKimengumi_vol20_7	ひょい! がくっ のっし ゴロン どん! のっし		
-HighschoolKimengumi_vol20_8	キッ ! ちは ~っ! チリン チリン ぶ~っ	キッ ! s ちは ~っ!	0 1 s 2 3
-HighschoolKimengumi_vol20_9	ずん! ボソ ポーン! ピン カチャ! ボソ ジャ~ ーン! ぶ~ ~っ	ジャ~ ーン! s ピン ポーン! s ぶ~ ~っ	6 7 s 3 2 s 8 9
+HighschoolKimengumi_vol20_8	キッ ! ちは ~っ! チリン チリン ぶ~っ	キッ ! <d> ちは ~っ!	0 1 <d> 2 3
+HighschoolKimengumi_vol20_9	ずん! ボソ ポーン! ピン カチャ! ボソ ジャ~ ーン! ぶ~ ~っ	ジャ~ ーン! <d> ピン ポーン! <d> ぶ~ ~っ	6 7 <d> 3 2 <d> 8 9
 HighschoolKimengumi_vol20_10	カタ ずずっ カタ ガシャ~ン! ホホッ バブ バブ ずずっ		
 HighschoolKimengumi_vol20_11	ぐわわっ バブ ばっ! ブブ		
 HighschoolKimengumi_vol20_12	ガラ ガラ くるっ だだっだ! ずどどっ!! ホカ くるっ ああ!! はぎゃ ドガガタタン! ホカ だだ だだ		
@@ -57,9 +57,9 @@ HighschoolKimengumi_vol20_55
 HighschoolKimengumi_vol20_56	クックックッ チャン あっはっはっはっ ピカッ いや~はっはっはっ チャカ チャン ぶつ ぶつ どてっ		
 HighschoolKimengumi_vol20_57	ピンポーン コロ~ン カラ~ン カチャッ どぉ~ん!		
 HighschoolKimengumi_vol20_58	ブーン ブーン ブーン パク しゅざざ コツン がくっ パク		
-HighschoolKimengumi_vol20_59	はっはっはっ あたた・・・ ぐしゅん ゆさ う~ん ずどどっ クス はっはっはっ プッ うぷぷっ ゆさ へえ~ クス ぐ きっ シャ キッ	ぐ きっ s シャ キッ	13 14 s 15 16
+HighschoolKimengumi_vol20_59	はっはっはっ あたた・・・ ぐしゅん ゆさ う~ん ずどどっ クス はっはっはっ プッ うぷぷっ ゆさ へえ~ クス ぐ きっ シャ キッ	ぐ きっ <d> シャ キッ	13 14 <d> 15 16
 HighschoolKimengumi_vol20_60	ザワ ズザザザザ ザワ ポッ ザ ザワ パラッ がた~ん! ははっ		
-HighschoolKimengumi_vol20_61	グキ ッ ぶ~ ~っ わい がくっ しゅざざっ わい どん! わい きっぱり!	グキ ッ s ぶ~ ~っ	0 1 s 2 3
+HighschoolKimengumi_vol20_61	グキ ッ ぶ~ ~っ わい がくっ しゅざざっ わい どん! わい きっぱり!	グキ ッ <d> ぶ~ ~っ	0 1 <d> 2 3
 HighschoolKimengumi_vol20_62			
 HighschoolKimengumi_vol20_63	はっはっはっ チュン ぴたっ チュン ずるっ はっはっはっ カチャ カチャ スッ チュン パクパク のっし のっし コケコッ コーッ	コケコッ コーッ	13 14
 HighschoolKimengumi_vol20_64	がくっ ばた はて? がたっ ぶ~っ ばた ぶ~っ ばた ぶ~っ		
@@ -192,12 +192,12 @@ LoveHina_vol14_96
 MAD_STONE_0			
 MAD_STONE_1			
 MAD_STONE_2	ザ ツ カッ カッ	ザ ツ	0 1
-MAD_STONE_3	グ グ ツ ザ ン ビッ カッ ビシィ カッ ズズ・・	グ グ ツ s ザ ン	0 1 2 s 3 4
+MAD_STONE_3	グ グ ツ ザ ン ビッ カッ ビシィ カッ ズズ・・	グ グ ツ <d> ザ ン	0 1 2 <d> 3 4
 MAD_STONE_4	グンッ ガァン チャキ ビン! バ ン	バ ン	4 5
 MAD_STONE_5	ゴ トッ ドッ	ゴ トッ	0 1
 MAD_STONE_6			
 MAD_STONE_7	バ ツ フヒュ ビッ	バ ツ	0 1
-MAD_STONE_8	ガ シイ ドス ッ ポッ	ガ シイ s ドス ッ	0 1 s 2 3
+MAD_STONE_8	ガ シイ ドス ッ ポッ	ガ シイ <d> ドス ッ	0 1 <d> 2 3
 MAD_STONE_9	ヨ ロッ バラバラ バラバラバラ	ヨ ロッ	0 1
 MAD_STONE_10	バタバタバタ		
 MAD_STONE_11	ギュ・・		
@@ -231,22 +231,22 @@ MAD_STONE_38	パ キャ バッ チャ バシッ ゴン ビィン	パ キャ	0 1
 MAD_STONE_39	ビシッ カッ シュー ザワッ カッ ガァン キュボム ゴッ ワッ		
 MAD_STONE_40	ガシッ ガァン		
 MAD_STONE_41			
-MAD_STONE_42	ガァ ン カ チッ	ガァ ン s カ チッ	0 1 s 2 3
+MAD_STONE_42	ガァ ン カ チッ	ガァ ン <d> カ チッ	0 1 <d> 2 3
 MAD_STONE_43	バッ ドッ		
 MAD_STONE_44	バキャ		
 MAD_STONE_45	ガ シャ グッ	ガ シャ	0 1
 MAD_STONE_46			
-MAD_STONE_47	グ ッ バ ガツ	グ ッ s バ ガツ	0 1 s 2 3
+MAD_STONE_47	グ ッ バ ガツ	グ ッ <d> バ ガツ	0 1 <d> 2 3
 MAD_STONE_48	ズ ン グァバッ	ズ ン	0 1
 MAD_STONE_49			
 MAD_STONE_50	ピシッ グワシィ		
 MAD_STONE_51	ゴフッ ドォッ		
 MAD_STONE_52	カ ッ ビリ ギュッ ビリ	カ ッ	0 1
 MAD_STONE_53	ゴォ ン	ゴォ ン	0 1
-MAD_STONE_54	ゴ ツ ダァ ン パシュ ウ バッ	ゴ ツ s ダァ ン s パシュ ウ	0 1 s 2 3 s 4 5
+MAD_STONE_54	ゴ ツ ダァ ン パシュ ウ バッ	ゴ ツ <d> ダァ ン <d> パシュ ウ	0 1 <d> 2 3 <d> 4 5
 MAD_STONE_55			
 MAD_STONE_56	ウィイィ パシュウ ビクッ		
-MAD_STONE_57	ド ン バン ッ	ド ン s バン ッ	0 1 s 2 3
+MAD_STONE_57	ド ン バン ッ	ド ン <d> バン ッ	0 1 <d> 2 3
 MAD_STONE_58			
 MAD_STONE_59	ピッ ズヒュ		
 MAD_STONE_60	バギャ ドン		
@@ -256,7 +256,7 @@ MAD_STONE_63	ドッ ビシュ
 MAD_STONE_64	ゴォ・・ ン キゥイィイ	ゴォ・・ ン	0 1
 MAD_STONE_65			
 MAD_STONE_66	カ ツ	カ ツ	0 1
-MAD_STONE_67	ド ッ ブ ン ゴフッ ダ ァ ン	ド ッ s ブ ン s ダ ァ ン	0 1 s 2 3 s 5 6 7
+MAD_STONE_67	ド ッ ブ ン ゴフッ ダ ァ ン	ド ッ <d> ブ ン <d> ダ ァ ン	0 1 <d> 2 3 <d> 5 6 7
 MAD_STONE_68	トン トン フーッ		
 MAD_STONE_69			
 MAD_STONE_70	バ ゥン ゴッ ワッ	バ ゥン	0 1
@@ -264,9 +264,9 @@ MAD_STONE_71	ブ ン ドシャ	ブ ン	0 1
 MAD_STONE_72			
 MAD_STONE_73			
 MAD_STONE_74	クィ ン	クィ ン	0 1
-MAD_STONE_75	ス ラ グ ッ	ス ラ s グ ッ	0 1 s 2 3
+MAD_STONE_75	ス ラ グ ッ	ス ラ <d> グ ッ	0 1 <d> 2 3
 MAD_STONE_76			
-MAD_STONE_77	グオ ズ ッ ギ ツ	ズ ッ s ギ ツ	1 2 s 3 4
+MAD_STONE_77	グオ ズ ッ ギ ツ	ズ ッ <d> ギ ツ	1 2 <d> 3 4
 MAD_STONE_78	キ ン	キ ン	0 1
 MAD_STONE_79			
 MAD_STONE_80	バッ		
@@ -274,7 +274,7 @@ MAD_STONE_81
 MAD_STONE_82	ワヤ ファン チャ ファン ファン ワヤ		
 MAD_STONE_83			
 MAD_STONE_84	キン ズッ グイ		
-MAD_STONE_85	フ ゛ン バ ッ ユ ラッ	フ ゛ン s バ ッ s ユ ラッ	0 1 s 2 3 s 4 5
+MAD_STONE_85	フ ゛ン バ ッ ユ ラッ	フ ゛ン <d> バ ッ <d> ユ ラッ	0 1 <d> 2 3 <d> 4 5
 MAD_STONE_86	ガ ッ ドッ グッ	ガ ッ	0 1
 MAD_STONE_87	ゴワ ッ	ゴワ ッ	0 1
 MAD_STONE_88	ブッ ブッ		
@@ -465,7 +465,7 @@ ParaisoRoad_14	ドッ あぁぁ おああ ゴッ すっ ぷちっ ぎっ むっ
 ParaisoRoad_15	あ あ ぶん ぴく あ あ しん. すっ ああ だあ ぴく あ ぶわっ ぐわッ		
 ParaisoRoad_16	する ガッ じ~ ゲッ ぶんっ ふん うっ ドガ しゅん する		
 ParaisoRoad_17	ひょい。 くわん パチ ダンッ ゴッ くわん ? ふんっ ぱく ぱく パチ ドゴッ		
-ParaisoRoad_18	ギャッ ィィ ィ ガロロロロ ィ キィ ギャッ カチン あ はっはは ぶ ん	あ はっはは s ぶ ん	8 9 s 10 11
+ParaisoRoad_18	ギャッ ィィ ィ ガロロロロ ィ キィ ギャッ カチン あ はっはは ぶ ん	あ はっはは <d> ぶ ん	8 9 <d> 10 11
 ParaisoRoad_19	んぐっ スカッ キュポ んぐ パチッ パッ		
 ParaisoRoad_20	ドタ ひっ ふんっ がっ ドタ ボン ポロポロ ドタ ドタ バチ げしっ ゴロ わっ バタバタ ゴロ ドタ バチ ひゅ ううううううぅぅぅぅぅぅ・・	ひゅ ううううううぅぅぅぅぅぅ・・	17 18
 ParaisoRoad_21	うー うー ふっ ひっ ぐるるるる		
@@ -530,7 +530,7 @@ ParaisoRoad_79	パク ぶん パク ブン
 ParaisoRoad_80	パンッ		
 ParaisoRoad_81	ばっ ぐい		
 ParaisoRoad_82	ゴキ ぶっ グググ ゴッ ゴキ おー ぐん		
-ParaisoRoad_83	パサッ ぶん ぶん ド ゴオォ バ ン	ド ゴオォ s バ ン	3 4 s 5 6
+ParaisoRoad_83	パサッ ぶん ぶん ド ゴオォ バ ン	ド ゴオォ <d> バ ン	3 4 <d> 5 6
 ParaisoRoad_84	ドカッ ふっ ゴッ ガッ ドゴオオォ ぼん		
 ParaisoRoad_85	きゃー パッ がー わー ズジジ ドガアァァァ		
 ParaisoRoad_86	うー ~ ドサッ	うー ~	0 1
@@ -841,7 +841,7 @@ SyabondamaKieta_78	ドルル・・・ ワイ ワイ キイッ ワイ ドドド�
 SyabondamaKieta_79	ぎくっ		
 SyabondamaKieta_80	ひゃっ ドゥー・ン・・・・ ばん ババ バゥン ぎゃははは ぴと・・・		
 SyabondamaKieta_81			
-SyabondamaKieta_82	ポーン・・・ どき ピン ガラッ ゴソ・・・ どき どき ピン ピン ポーン ポロッ ポーン ポーン ピン	ピン ポーン・・・ s ピン ポーン s ピン ポーン s ピン ポーン	2 0 s 8 9 s 7 11 s 13 12
+SyabondamaKieta_82	ポーン・・・ どき ピン ガラッ ゴソ・・・ どき どき ピン ピン ポーン ポロッ ポーン ポーン ピン	ピン ポーン・・・ <d> ピン ポーン <d> ピン ポーン <d> ピン ポーン	2 0 <d> 8 9 <d> 7 11 <d> 13 12
 SyabondamaKieta_83	ポイ ぐしゃっ ぎくっ		
 SyabondamaKieta_84	ぎくっ がさっ・・		
 SyabondamaKieta_85			
@@ -859,7 +859,7 @@ TotteokiNoABC_2	パタ およっ タタタタ バタン パタ ダダダダ パ�
 TotteokiNoABC_3	フッ・・・ ぺちょ☆		
 TotteokiNoABC_4	ガぁ ん クス ほーっ きょん クス ヒソ クス クス ヒソ クス	ガぁ ん	0 1
 TotteokiNoABC_5	さっ! おろっ おろっ ぽり・・・ たらっ カ シ ャ	カ シ ャ	5 6 7
-TotteokiNoABC_6	バ サ ぺたん きゃあぁ バサ! ぶわっ がーん ガ バ	バ サ s ガ バ	0 1 s 7 8
+TotteokiNoABC_6	バ サ ぺたん きゃあぁ バサ! ぶわっ がーん ガ バ	バ サ <d> ガ バ	0 1 <d> 7 8
 TotteokiNoABC_7	? たらーっ ? ? ほけ~っ ? ど き っ	ど き っ	6 7 8
 TotteokiNoABC_8	クス ハッ クス クス		
 TotteokiNoABC_9	どき きゃ~っ ばちん きゃ~っ リ♪ ジリリリ		
@@ -938,7 +938,7 @@ TotteokiNoABC_81	パタ パタ パタ ひょい
 TotteokiNoABC_82			
 TotteokiNoABC_83	ヒソ ザワ きゃー・・・っ ヒソ ヒソ ザワ ザワ あはは		
 TotteokiNoABC_84	ホホホ ホ・・・ホホ ヒソ・・ ギリ		
-TotteokiNoABC_85	にっこり♥ ビリ きゃあ ビリ ビリ ギシ ぺっ くるっ! !? パ シャ! ド サ	パ シャ! s ド サ	9 10 s 11 12
+TotteokiNoABC_85	にっこり♥ ビリ きゃあ ビリ ビリ ギシ ぺっ くるっ! !? パ シャ! ド サ	パ シャ! <d> ド サ	9 10 <d> 11 12
 TotteokiNoABC_86	ハア ハァ ギョ! ユラ・・・ ひいいいっ きゃあああっ クッ ガバッ		
 TotteokiNoABC_87			
 TotteokiNoABC_88	コッ コッ コッ キィ・・・ ブツ ブツ コッ コッ		

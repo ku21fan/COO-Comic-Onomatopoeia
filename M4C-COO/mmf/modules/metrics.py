@@ -1418,8 +1418,8 @@ class COO_PRHmean(BaseMetric):
                 continue
             else:
                 for order in link_order[0].split():
-                    if order == "s":
-                        gt_link_order.append(str(4))  # index of s
+                    if order == "<d>":
+                        gt_link_order.append(str(4))  # index of <d>
                     elif order == "<unk>":
                         gt_link_order.append(str(3))  # index of <unk>
                     elif order == "</s>":  # end of sentence
@@ -1446,12 +1446,12 @@ class COO_PRHmean(BaseMetric):
 
         for idx, (pred, gt) in enumerate(zip(pred_link_orders, gt_link_order_list)):
             gt_str = " ".join(gt)
-            gt_link_list = gt_str.split(" 4 ")  # index of s is 4
+            gt_link_list = gt_str.split(" 4 ")  # index of <d> is 4
             if gt_link_list == ["4"]:
                 gt_link_list = [""]
 
             pred_str = " ".join(pred)
-            pred_link_list = pred_str.split(" 4 ")  # index of s is 4
+            pred_link_list = pred_str.split(" 4 ")  # index of <d> is 4
             if pred_link_list == ["4"]:
                 pred_link_list = [""]
 
