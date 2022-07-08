@@ -78,7 +78,7 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 | Method | Accuracy | Official Code | Pretrained model |
 |:---|:---:|:---:|:---:|
 | TRBA+2D (ours) | 81.2 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/TRBA) | [download](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) | 
-| MASTER (PR 2021) |  | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download]() | 
+| MASTER (PR 2021) | 74.6 | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download](https://www.dropbox.com/s/pp3gutk4xofokny/MASTER_pretrain_COO.pth) | 
 | ABINet w/o pretrain (CVPR 2021) | 70.6 | [URL](https://github.com/FangShancheng/ABINet) | [download](https://www.dropbox.com/s/xgfwllru93ncnyp/ABINet_pretrain_COO.pth) | 
 
 
