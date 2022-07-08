@@ -1,6 +1,6 @@
 
 ## Acknowledgements
-This implementation has been based on the repository [mmf (1.0.0rc12)](https://github.com/facebookresearch/mmf).
+This implementation has been based on the repository [mmf (1.0.0rc12)](https://github.com/facebookresearch/mmf), especially [M4C](https://mmf.sh/docs/projects/m4c/).
 
 ## Installation
 Recommended OS: Linux <br>
