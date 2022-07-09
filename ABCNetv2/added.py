@@ -85,7 +85,6 @@ class BestCheckpointer(HookBase):
 
         # print(metric_tuple, latest_metric)
 
-        # print("doing?")
         if self.best_metric is None:
             if self._update_best(latest_metric, metric_iter):
                 additional_state = {"iteration": metric_iter}
@@ -98,7 +97,6 @@ class BestCheckpointer(HookBase):
                 )
                 print("initial updated", self.best_metric, self.best_iter)
         elif self._compare(latest_metric, self.best_metric):
-            # print("what??")
             additional_state = {"iteration": metric_iter}
             self._update_best(latest_metric, metric_iter)
             print("best hmean updated", self.best_metric, self.best_iter)
@@ -112,7 +110,6 @@ class BestCheckpointer(HookBase):
                 f"{self.best_metric:0.5f} @ iteration {self.best_iter}."
             )
         else:
-            # print("working?")
             self._logger.info(
                 f"Not saving as latest eval score for {self._val_metric} is {latest_metric:0.5f}, "
                 f"not better than best score {self.best_metric:0.5f} @ iteration {self.best_iter}."
