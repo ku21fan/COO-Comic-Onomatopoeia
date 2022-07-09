@@ -26,6 +26,9 @@ To train M4C-COO data, we need train/val/test gt annotation, fastText model, and
 
 
 ## Training
+**Caution:** our metric function [COO_PRHmean](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/77be6e809db5ff40e161e2f012870670ddaf5473/M4C-COO/mmf/modules/metrics.py#L1393) does not support multi-GPU training. If you plan to multi-GPU training, modify this metric part. 
+With one NVIDIA Tesla V100 GPU, training of M4C-COO takes about 2 hours.
+
 Train M4C-COO model (default setting)
 ```
 CUDA_VISIBLE_DEVICES=0 mmf_run config=default.yaml run_type=train_val datasets=coo model=m4c_coo \
