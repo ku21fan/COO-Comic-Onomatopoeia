@@ -1455,7 +1455,7 @@ class COO_PRHmean(BaseMetric):
             if pred_link_list == ["4"]:
                 pred_link_list = [""]
 
-            if pred_link_list != [""] and idx < 50:  # only check first 50th
+            if pred_link_list != [""] and idx < 50:  # print first 50th
                 print(f"{sample_list.question_id[idx]}\tgt_list\t{gt_link_list}")
                 print(f"{sample_list.question_id[idx]}\tpd_list\t{pred_link_list}")
 
