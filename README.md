@@ -1,5 +1,5 @@
 # COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
-Official Pytorch implementation of COO | Paper | [Dataset](#dataset-comic-onomatopoeia-coo), Samples | [Codes](#codes) | [Leaderboard](#leaderboard) |
+Official Pytorch implementation | Paper | [Dataset](#dataset-comic-onomatopoeia-coo), Samples | [Codes](#codes) | [Leaderboard](#leaderboard) |
 
 We provide the COmic Onomatopoeia dataset (COO) and the source codes used in our paper. <br>
 1. COO has many arbitrary texts, such as extremely curved, partially shrunk texts, or arbitrarily placed texts.
