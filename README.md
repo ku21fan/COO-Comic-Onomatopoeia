@@ -1,4 +1,6 @@
 # COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
+Official Pytorch implementation of COO | Paper | [Dataset](#dataset-comic-onomatopoeia-coo), Samples | [Codes](#codes) | [Leaderboard](#leaderboard) |
+
 We provide the COmic Onomatopoeia dataset (COO) and the source codes used in our paper. <br>
 1. COO has many arbitrary texts, such as extremely curved, partially shrunk texts, or arbitrarily placed texts.
 Furthermore, some texts are separated into several parts.
@@ -47,9 +49,9 @@ We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for prepro
 
 ## Codes
 The source codes used in our paper are provided in each folder. <br>
-For text detection, we used ABCNetv2 and MTSv3. <br>
-For text recognition, we used TRBA. <br> 
-For link prediction, we used M4C-COO (a variant of M4C) <br>
+For text detection, we used [ABCNetv2](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/ABCNetv2) and [MTSv3](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/MTSv3). <br>
+For text recognition, we used [TRBA](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/TRBA). <br> 
+For link prediction, we used [M4C-COO (a variant of M4C)](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/M4C-COO). <br>
 
 <br>
 
