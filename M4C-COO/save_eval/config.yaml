@@ -216,7 +216,7 @@ distributed:
   no_spawn: false
 checkpoint:
   resume: false
-  resume_file: M4C-COO_default.ckpt
+  resume_file: ./save/release_test/default/best.ckpt
   resume_best: false
   resume_pretrained: false
   resume_zoo: null
