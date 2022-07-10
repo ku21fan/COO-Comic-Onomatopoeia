@@ -30,8 +30,8 @@ The below figure shows the COO statistics and character types of COO (182 types 
 
 
 #### Prerequisites: Download Manga109 images
-Following [the license of Manga109](http://www.manga109.org/en/download.html), the redistribution of the images of Manga109 is not permitted. <br> 
-Thus, you should download the images of Manga109 via [Manga109 webpage](http://www.manga109.org/en/download.html). <br> 
+According to [the license of Manga109](http://www.manga109.org/en/download.html), the redistribution of the images of Manga109 is not permitted. <br> 
+Thus, you should download the images of Manga109 via the [Manga109 webpage](http://www.manga109.org/en/download.html). <br> 
 
 After downloading, unzip `Manga109.zip` and then move `images` folder of Manga109 into [COO-data](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/COO-data) folder. <br>
 We need `images` folder in `COO-data` folder (i.e. `COO-data/images`) for preprocessing. 
