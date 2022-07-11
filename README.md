@@ -68,9 +68,10 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 
 | Method | P | R | H | Official Code | Pretrained model |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| DB (AAAI 2020) | 90.9 | 60.3 | 72.5 | [URL](https://github.com/MhLiao/DB) | [download](https://www.dropbox.com/s/b4zqiknn7i9kxqw/DB_pretrain_COO) | 
-| PAN (ICCV 2019) | 88.4 | 58.6 | 70.4 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/6vbc7m6o4695336/PAN_pretrain_COO.pth.tar) | 
-| PAN++* (TPAMI 2021) | 78.3 | 62.7 | 69.7 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/o6pudk4qv582nr7/PAN%2B%2B_pretrain_COO.pth.tar) | 
+| DBNet++ (TPAMI 2022) | 90.8 | 60.9 | 72.9 | [URL](https://github.com/MhLiao/DB) | [download](https://www.dropbox.com/s/zu47mriwv2i9npr/DB%2B%2B_finetune_COO?) | 
+| DBNet (AAAI 2020) | 90.9 | 60.3 | 72.5 | [URL](https://github.com/MhLiao/DB) | [download](https://www.dropbox.com/s/b4zqiknn7i9kxqw/DB_finetune_COO) | 
+| PAN (ICCV 2019) | 88.4 | 58.6 | 70.4 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/6vbc7m6o4695336/PAN_finetune_COO.pth.tar) | 
+| PAN++* (TPAMI 2021) | 78.3 | 62.7 | 69.7 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/o6pudk4qv582nr7/PAN%2B%2B_finetune_COO.pth.tar) | 
 | MTSv3* (ECCV 2020) | 70.1 | 66.0 | 68.0 | [URL](https://github.com/MhLiao/MaskTextSpotterV3) | [download](https://www.dropbox.com/s/u0rnep52nshfukx/MTSv3.pth) | 
 | PSENet (CVPR 2019) | 83.3 | 57.1 | 67.8 | [URL](https://github.com/whai362/pan_pp.pytorch) | [download](https://www.dropbox.com/s/8fb5i7ueapn4b4u/PSENet_finetune_COO.tar) | 
 | ABCNetv2* (TPAMI 2021) | 67.2 | 65.1 | 66.1 | [URL](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText) | [download](https://www.dropbox.com/s/cg63gsnf7741vjw/ABCNetv2.pth) | 
@@ -82,8 +83,8 @@ We welcome the pull requests containing an official code (URL) of other SOTA met
 | Method | Accuracy | Official Code | Pretrained model |
 |:---|:---:|:---:|:---:|
 | TRBA+2D (ours) | 81.2 | [URL](https://github.com/ku21fan/COO-Comic-Onomatopoeia/tree/main/TRBA) | [download](https://www.dropbox.com/s/bifm6a2rktl6s60/TRBA_Rot%2BSAR%2BHardROIhalf%2B2D.pth) | 
-| MASTER (PR 2021) | 74.6 | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download](https://www.dropbox.com/s/pp3gutk4xofokny/MASTER_pretrain_COO.pth) | 
-| ABINet w/o pretrain (CVPR 2021) | 70.6 | [URL](https://github.com/FangShancheng/ABINet) | [download](https://www.dropbox.com/s/xgfwllru93ncnyp/ABINet_pretrain_COO.pth) | 
+| MASTER (PR 2021) | 74.6 | [URL](https://github.com/wenwenyu/MASTER-pytorch) | [download](https://www.dropbox.com/s/pp3gutk4xofokny/MASTER_COO.pth) | 
+| ABINet w/o pretrain (CVPR 2021) | 70.6 | [URL](https://github.com/FangShancheng/ABINet) | [download](https://www.dropbox.com/s/xgfwllru93ncnyp/ABINet_COO.pth) | 
 
 
 ### Link prediction
