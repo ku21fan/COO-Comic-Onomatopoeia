@@ -236,36 +236,6 @@ def visualization():
                                 link_line, fill=color_dict[annotation_type], width=8
                             )
 
-                        else:
-                            # draw region of interest.
-                            draw.rectangle(
-                                [
-                                    roi["@xmin"],
-                                    roi["@ymin"] + top_margin,
-                                    roi["@xmax"],
-                                    roi["@ymax"] + top_margin,
-                                ],
-                                outline=color_dict[annotation_type],
-                                width=args.thickness,
-                            )
-
-                            # show character name
-                            if annotation_type in {"body", "face"}:
-                                text = char_id_to_name[roi["@character"]]
-                                text_width, text_height = font.getsize(text)
-                                x = roi["@xmin"]
-                                y = roi["@ymin"] + top_margin
-                                draw.rectangle(
-                                    (x, y - text_height, x + text_width, y),
-                                    fill="white",
-                                )
-                                draw.text(
-                                    (x, y - text_height),
-                                    text,
-                                    font=font,
-                                    fill=color_dict[annotation_type],
-                                )
-
                 # To workaround cache problem, make a new image every time by using _{datetime.now().microsecond}.
                 annotated_image_path = f"{annotated_image_folder}/annotated_{manga_name}_page{page_index}_{datetime.now().microsecond}.jpg"
                 image_margin.save(annotated_image_path)
