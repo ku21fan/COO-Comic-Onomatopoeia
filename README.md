@@ -1,5 +1,5 @@
 # COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
-Official repository of COO (ECCV 2022) | Paper | [Dataset](#dataset-comic-onomatopoeia-coo), [Sample](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/Sample.md) | [Codes](#codes) | [Leaderboard](#leaderboard) |
+Official repository of COO (ECCV 2022) | [Paper](https://arxiv.org/abs/2207.04675) | [Dataset](#dataset-comic-onomatopoeia-coo), [Sample](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/Sample.md) | [Codes](#codes) | [Leaderboard](#leaderboard) |
 
 We provide the COmic Onomatopoeia dataset (COO) and the source codes used in our paper. <br>
 1. COO has many arbitrary texts, such as extremely curved, partially shrunk texts, or arbitrarily placed texts.
