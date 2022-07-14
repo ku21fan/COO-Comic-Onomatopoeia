@@ -1,0 +1,10 @@
+natsort
+lmdb
+pillow
+nltk
+natsort
+fire
+tensorboard
+tqdm
+thop==0.0.31.post2005241907
+setuptools==59.5.0
