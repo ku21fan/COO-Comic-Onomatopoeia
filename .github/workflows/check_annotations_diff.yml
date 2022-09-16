@@ -1,0 +1,13 @@
+name: Consistency check for annotation
+on: [push]
+jobs:
+  Consistency-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Compare to the annotation data on Manga109 org
+        run: |
+          cd COO-data
+          git clone https://github.com/manga109/public-annotations
+          python check_annotations_diff.py
