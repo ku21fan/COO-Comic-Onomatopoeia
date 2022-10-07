@@ -1,5 +1,5 @@
 # COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
-Official repository of COO (ECCV 2022) | [Paper](https://arxiv.org/abs/2207.04675) | [Dataset](#dataset-comic-onomatopoeia-coo), [Sample](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/Sample.md) | [Codes](#codes) | [Leaderboard](#leaderboard) |
+Official repository of COO (ECCV 2022) | [Paper](https://arxiv.org/abs/2207.04675) | [Dataset](#dataset-comic-onomatopoeia-coo), [Sample](https://github.com/ku21fan/COO-Comic-Onomatopoeia/blob/main/COO-data/Sample.md) | [Codes](#codes) | [Leaderboard](#leaderboard) | [Poster](https://drive.google.com/file/d/14S7tP2qXUgM0-0FZxZj8UpV09aaAY5ee/view?usp=sharing) | [Video](https://drive.google.com/file/d/1E59dfM0FlkaBVhxVGwVi99PdPezBYdUr/view?usp=sharing)
 
 We provide the COmic Onomatopoeia dataset (COO) and the source codes used in our paper. <br>
 1. COO has many arbitrary texts, such as extremely curved, partially shrunk texts, or arbitrarily placed texts.
@@ -10,8 +10,11 @@ Thus, we propose a novel task that predicts the link between truncated texts.
 
 2. COO is a challenging text dataset.
 Detecting the onomatopoeia region and capturing the intended meaning of truncated texts are very difficult. 
-If a model can recognize comic onomatopoeias, we expect that the model can also recognize other less difficult texts.
+**If a model can recognize comic onomatopoeias, we expect that the model can also recognize other less difficult texts.**
 We hope our work will encourage studies on more irregular texts and further improve text detection, recognition, and link prediction methods. <br>
+
+3. In text detection and recognition tasks, researchers use various datasets to validate their methods. 
+We hope COO can also help validate their methods.
 
 <br>
 <p align="center">
