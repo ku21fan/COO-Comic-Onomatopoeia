@@ -14,7 +14,7 @@ Detecting the onomatopoeia region and capturing the intended meaning of truncate
 We hope our work will encourage studies on more irregular texts and further improve text detection, recognition, and link prediction methods. <br>
 
 3. In text detection and recognition tasks, researchers use various datasets to validate their methods. 
-We hope COO can also help validate their methods.
+We hope COO can also help validate their methods. In addition, we hope COO is used to analyze Japanese onomatopoeia.
 
 <br>
 <p align="center">
