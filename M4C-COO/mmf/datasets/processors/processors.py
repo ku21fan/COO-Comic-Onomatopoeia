@@ -1422,9 +1422,9 @@ class COOPhocProcessor(VocabProcessor):
     """
 
     def __init__(self, config, *args, **kwargs):
-        from build_phoc_coo import build_phoc
+        from mmf.utils.phoc import build_phoc_coo
 
-        self._build_phoc = build_phoc
+        self._build_phoc = build_phoc_coo
         self._init_extras(config)
         self.config = config
 
