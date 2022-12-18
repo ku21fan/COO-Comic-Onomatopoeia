@@ -2,6 +2,19 @@
 ## Acknowledgements
 This implementation has been based on the repository [ABCNetv2 (part of AdelaiDet)](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText).
 
+## Visualization
+The figures show the ground truth, prediction by ABCNet V2, and prediction by MTS v3, respectively.
+The green regions are the predicted regions and the red circles are failures.
+
+<p align="center">
+   <img src="vis-det1.jpg" width=100%>
+</p>
+
+<p align="center">
+   <img src="vis-det2.jpg" width=100%>
+</p>
+
+
 ## Installation
 Recommended OS: Linux <br>
 Install conda >= 4.11.0  (python >= 3.8) and then run following commands. <br>
