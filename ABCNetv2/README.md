@@ -3,7 +3,7 @@
 This implementation has been based on the repository [ABCNetv2 (part of AdelaiDet)](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BAText).
 
 ## Visualization
-The figures show the ground truth, prediction by ABCNet V2, and prediction by MTS v3, respectively.
+The figures show the ground truth, prediction by ABCNet v2, and prediction by MTS v3, respectively.
 The green regions are the predicted regions and the red circles are failures.
 
 <p align="center">
