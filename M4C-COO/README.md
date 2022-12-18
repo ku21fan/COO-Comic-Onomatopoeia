@@ -2,6 +2,23 @@
 ## Acknowledgements
 This implementation has been based on the repository [mmf (1.0.0rc12)](https://github.com/facebookresearch/mmf), especially [M4C](https://mmf.sh/docs/projects/m4c/).
 
+
+## M4C-COO
+The below figure illustrates M4C-COO. M4C-COO takes the sequence of all onomatopoeias in an image and outputs the sequence of truncated texts.
+<br>
+<p align="center">
+   <img src="M4C-COO.jpg" width=80%>
+</p>
+
+The below figure shows link prediction on the test set. The purple line denotes the ground truth link
+between truncated texts, and the orange line denotes the predicted link.
+<br>
+<p align="center">
+   <img src="vis-link.jpg" width=80%>
+</p>
+
+
+
 ## Installation
 Recommended OS: Linux <br>
 Install conda >= 4.11.0  (python >= 3.8) and then run following commands. <br>
