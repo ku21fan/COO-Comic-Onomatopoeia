@@ -1,6 +1,3 @@
-## Acknowledgements
-This implementation has been based on the repository [Mask TextSpotter v3](https://github.com/MhLiao/MaskTextSpotterV3).
-
 ## Visualization
 The figures show the ground truth, prediction by ABCNet v2, and prediction by MTS v3, respectively.
 The green regions are the predicted regions and the red circles are failures.
@@ -109,3 +106,6 @@ Please cite the related works in your publications if it helps your research:
 
 ## License
 License is described in [here (CC BY-NC 4.0)](https://github.com/MhLiao/MaskTextSpotterV3/blob/master/LICENSE.md)
+
+## Acknowledgements
+This implementation has been based on the repository [Mask TextSpotter v3](https://github.com/MhLiao/MaskTextSpotterV3).
