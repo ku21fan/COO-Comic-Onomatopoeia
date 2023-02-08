@@ -1,8 +1,3 @@
-
-## Acknowledgements
-This implementation has been based on the repository [mmf (1.0.0rc12)](https://github.com/facebookresearch/mmf), especially [M4C](https://mmf.sh/docs/projects/m4c/).
-
-
 ## M4C-COO
 The below figure illustrates M4C-COO. M4C-COO takes the sequence of all onomatopoeias in an image and outputs the sequence of truncated texts.
 <br>
@@ -108,3 +103,6 @@ If you use MMF in your work or use any models published in MMF, please cite:
 ## License
 
 MMF is licensed under BSD license available in [LICENSE](LICENSE) file
+
+## Acknowledgements
+This implementation has been based on the repository [mmf (1.0.0rc12)](https://github.com/facebookresearch/mmf), especially [M4C](https://mmf.sh/docs/projects/m4c/).
