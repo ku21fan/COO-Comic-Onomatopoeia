@@ -1,8 +1,4 @@
-
-## Acknowledgements
-This implementation has been based on the repository [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) and its advanced version [STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels).
-
-## Getting Started (will be updated)
+## Getting Started
 
 ### Installation
 Recommended OS: Linux <br>
@@ -111,3 +107,5 @@ Please consider citing this work in your publications if it helps your research.
 For the codes made by us: MIT. <br>
 Original codes of deep-text-recognition-benchmark are licensed under [Apache License 2.0](https://github.com/clovaai/deep-text-recognition-benchmark#license).
 
+## Acknowledgements
+This implementation has been based on the repository [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) and its advanced version [STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels).
