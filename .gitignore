@@ -87,7 +87,6 @@ checkpoint
 *.ckpt
 *_cache
 .cache
-data
 save
 *.eggs
 .eggs
