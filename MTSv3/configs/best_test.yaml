@@ -47,7 +47,7 @@ SOLVER:
   RESUME: False
   DISPLAY_FREQ: 200
   CHECKPOINT_PERIOD: 5000
-OUTPUT_DIR: "./best_model/test"
+OUTPUT_DIR: "./COO_best_model/test"
 TEST:
   VIS: False #True
   CHAR_THRESH: 192
