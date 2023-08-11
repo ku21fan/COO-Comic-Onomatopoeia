@@ -48,7 +48,7 @@ SOLVER:
   DISPLAY_FREQ: 200
   CHECKPOINT_PERIOD: 5000
   VALID_DETECT_THRESH: 0.4
-OUTPUT_DIR: "./COO_best_model/test_bbox"
+OUTPUT_DIR: "./best_model/test_bbox"
 TEST:
   VIS: False #True
   CHAR_THRESH: 192
